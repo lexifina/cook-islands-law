@@ -1,0 +1,2 @@
+# 23 Authorities for salaries or allowances
+Whenever any person is appointed to an office in the Government service, or whenever the salary or allowance of any person in the Government service is altered, the Minister of the department concerned or the Public Service Commission as the case may be, shall send to the Treasury the authority in writing for the salary or allowance or alteration thereto.

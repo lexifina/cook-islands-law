@@ -1,0 +1,3 @@
+## Writing off
+# 43 Writing off money or stores
+No employee of the Government or any service shall finally write off any departmental charge or physical losses of cash or stores, debtor balances, claims abandoned, or debts irrecoverable by the Government, nugatory expenditure (meaning thereby any payment of public money involving an immediate and formal loss, or the payment of public money involving an immediate and formal loss, or the payment of money in return for which no services have been rendered), or the cash values of issues in kind to any person whomsoever by way of allowance, unless the authority of the Minister has been obtained for the writing off in accordance with the Act.

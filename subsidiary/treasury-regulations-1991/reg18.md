@@ -1,0 +1,2 @@
+# 18 Receipts, licences or certificates
+Receivers of revenue shall apply to the Financial Secretary, on the proper form, for all books of receipts required by them and for all forms of licence and certificate on the issue of which they are required to collect fees. The Treasury shall maintain and make available a statement of the issue of any such receipts, licences, or certificates specifying the name of the Receiver or other officer and the first and last printed numbers in each parcel issued.

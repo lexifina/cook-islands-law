@@ -1,0 +1,3 @@
+## Cook Islands Savings Bank
+# 44 Money paid to the Cook Islands Savings Bank
+All money paid to the Manager shall be paid into the Cook Islands Savings Bank Account and accounted for under the regulations and instructions for the time being in force for the management of the Cook Islands Savings Bank but subject, so far as they relate to the receipt and payment of public money, to the approval of the Financial Secretary.Subject to this regulation, and when not inconsistent therewith, these regulations and any instructions issued by the Financial Secretary shall apply to all persons in the service of the Cook Islands Savings Bank.

@@ -1,0 +1,2 @@
+# 40 Rules for accounting for and management of stores
+Subject to the provisions of the Act and these regulations and any instructions issued by the Financial Secretary, heads of departments shall prepare rules for observance by accounting officers and others employed in connection with the accounting for and the management and control of stores. Before adoption, all such rules or amendments thereto shall be submitted to the Financial Secretary for approval.

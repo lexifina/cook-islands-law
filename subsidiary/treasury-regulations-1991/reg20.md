@@ -1,0 +1,2 @@
+# 20 Delegation
+In all cases where there has been a delegation to the head of a department to authorise the expenditure of Public Money, such head may delegate either generally or specifically to an officer or officers of his department authority to requisition for stores and or services within the limit delegated to the departmental head. All such delegations to a requisitioning officer by the departmental head shall require the prior approval in writing of the Financial Secretary.

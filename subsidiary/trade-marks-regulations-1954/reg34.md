@@ -1,0 +1,2 @@
+# 34 Advertisement of a Series
+When an application relates to a series of trade marks differing from one another in respect of the particulars mentioned in section 30(2) of the Act, the applicant may be required to supply a printing block (or, if necessary, more than one) satisfactory to the Commissioner of any or of each of the trade marks constituting the series, or the Commissioner may, if he thinks fit, insert with the advertisement of the application a statement of the manner in which the several trade marks differ from one another.

@@ -1,0 +1,2 @@
+# 97 Amendment of Documents
+Any application, document, or drawing or other representation of a trade mail may be amended upon request in Form 36, and any irregularity in procedure which in the opinion of the Commissioner may be excused without detriment to the interests of any person may be corrected, if the Commissioner thinks fit, and on such terms, including the payment of a fee not exceeding £1, as he may direct.

@@ -1,0 +1,3 @@
+# 25 Name or Description of Goods on Trade Mark
+(1) Where the name or description of any goods appears on a trade mark, which name or description may vary in use, the Commissioner may register the mark for those and other goods if the applicant undertakes that the name or description will be varied when the mark is used on goods covered by the specification other than the named or described goods. Any such undertaking shall be entered on the application.
+(2) If the applicant does not so undertake, the Commissioner may refuse to register the mark in respect of any goods other than the named or described goods.

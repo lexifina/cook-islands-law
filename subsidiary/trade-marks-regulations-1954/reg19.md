@@ -1,0 +1,2 @@
+# 19 Separate applications
+Applications for the registration of the same mark in different classes shall he treated as separate and distinct applications, and in all cases where a trade mark is registered under the same official number for goods in snore than one class, whether on conversion of the specification under regulation 2 hereof or otherwise, the registration in respect of the goods included in each separate class shall be deemed to be a separate registration far all the purposes of the Act.

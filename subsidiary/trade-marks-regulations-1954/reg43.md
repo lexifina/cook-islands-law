@@ -1,0 +1,2 @@
+# 43 Exhibits
+Where there are exhibits to declarations filed in an opposition, copies or impressions of the exhibits shall be sent to the other party on his request and at his expense, or, if such copies or impressions cannot conveniently be furnished, the originals shall be left with the Commissioner in order that they may be open to inspection. The original exhibits shall be produced at the hearing unless the Commissioner otherwise directs.

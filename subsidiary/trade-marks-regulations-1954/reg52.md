@@ -1,0 +1,3 @@
+## Renewal of registration
+# 52 Renewal
+At any time not more than 12 months before the expiration of the last registration of a trade mark any person may leave at the Patent Office a fee for the renewal of the registration of the mark with an application in Form 13, and, if he is not registered proprietor, shall sign a statement on the form that he is directed by the registered proprietor to pay the fee (if such be the case), and shall give his address. Before taking any further step the Commissioner may require the person leaving the fee to furnish within such time as the Commissioner may allow an authority to pay the fee signed by the registered proprietor; and, if he does not furnish such authority, may return the fee and treat it as not received.

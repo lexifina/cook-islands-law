@@ -1,0 +1,4 @@
+## Defensive trade marks
+# 29 Defensive Applications
+(1) An application to the Commissioner for the registration of a defensive trade mark under section 36 of the Act shall be in Form 6 and shall be accompanied by a statement of case setting out full particulars of the facts upon which the applicant relies in support of his application, verified by a statutory declaration made by the applicant or some other person approved for the purpose by the Commissioner.
+(2) The applicant may send with this declaration or subsequently such other evidence as he may desire to furnish, whether after request made by the Commissioner or otherwise, and the Commissioner shall consider the whole of the evidence before deciding on the application. The provisions of these regulations shall, so far as applicable, extend to defensive applications as they extend to applications for the registration of ordinary trade marks.

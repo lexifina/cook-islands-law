@@ -1,0 +1,2 @@
+# 16 Address
+Where any person is by the Act or these regulations required to furnish the Commissioner with an address (including an address for service), the address given shall in all cases be as full as possible, for the purpose of enabling any person easily to find the place of the trade or business of the person whose address is given. The address shall include the town or locality and, where applicable, the name of the street and the number in the street or name of the premises.

@@ -1,0 +1,2 @@
+# 60 Statement of Case with Application
+If the applicant under regulation 58 hereof is unable to produce all the documents or instruments necessary to prove his title, he shall furnish to the Commissioner a statement of case setting out the full particulars of the facts upon which his claim to be proprietor of the trade mark is based, and showing that the trade mark has been assigned or transmitted to him. The statement of case shall be verified by a statutory declaration.

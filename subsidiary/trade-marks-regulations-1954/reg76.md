@@ -1,0 +1,2 @@
+# 76 Certificates of Validity to be Noted
+Where the Court has certified as provided in section 61 of the Act with regard to the validity of a registered trade mark, the registered proprietor thereof may request the Commissioner in Form 26 to add to the entry in the register a note that the certificate of validity has been granted in the course of the proceedings, which shall be named in the form. An office copy of the certificate shall be sent with the request, and the Commissioner shall so note the register and publish the note in the Journal.

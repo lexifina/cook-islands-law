@@ -1,0 +1,2 @@
+# 54 Advertisement of Non-payment
+If at the date of the expiration of the last registration of a mark the renewal fee has not been paid, the Commissioner shall advertise the fact forthwith in the Journal, and if between the date of the expiration of the registration and 1 month after the advertisement the renewal fee with an application in Form 13 is received, together with the additional fee prescribed in Schedule 1, he shall renew the registration without removing the mark from the register.

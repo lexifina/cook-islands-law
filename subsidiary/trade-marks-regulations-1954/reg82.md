@@ -1,0 +1,2 @@
+# 82 Application to Commissioner for Order Rectifying Certification Trade Mark Entries and Regulations
+An application to the Commissioner under section 52(1) of the Act for an order expunging or varying an entry in the register relating to a certification trade mark, or varying the deposited regulations, shall be made in Form 30, and shall include full particulars of the grounds on which the application is made.

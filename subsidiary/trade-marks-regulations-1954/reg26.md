@@ -1,0 +1,3 @@
+## Procedure following application
+# 26 Search
+Upon receipt of an application for the registration of a trade mark in respect of any goods, the Commissioner shall cause a search to be made of the registered marks and the marks at the time included in pending applications, for the purpose of ascertaining whether there are on record in respect of the same goods or description of goods any marks identical with the mark applied for, or so nearly resembling it as to render the mark applied for likely to deceive or cause confusion. The Commissioner may cause the search to be renewed at any time before the acceptance of the application, but shall not be bound to do so.

@@ -1,0 +1,5 @@
+# 44 Hearing
+(1) On completion of the evidence (if any), the Commissioner shall appoint a time for the hearing of the case, and shall give the parties not less than 14 days’ notice of the appointment. If any party desires to be heard he shall notify the Commissioner and pay the prescribed fee, and the Commissioner may refuse to hear any party who has not complied with this regulation before the time of the bearing.
+(2) Except as provided in subclause (3), every hearing shall be at Wellington.
+(3) One or more of the parties may, not later than 14 days before the date appointed for the hearing, apply to the Commissioner to conduct the hearing at some other place in New Zealand. The Commissioner may in his discretion, on payment by the party making the application of such sum to cover expenses and subject to such conditions as to notice and costs as the Commissioner thinks fit, conduct the hearing at the place named in the application.
+(4) Where an application under subclause (2) is not made by all the parties to the proceedings, the Commissioner shall not decide the application without giving the parties an opportunity to be heard.

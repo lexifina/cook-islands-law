@@ -1,0 +1,2 @@
+# 63 Entry in Register
+When the Commissioner is satisfied as to the title of the person claiming to be registered, he shall cause him to be registered as proprietor of the trademark in respect of the relevant goods and shall enter in the register and on any certificate of registration produced to the Commissioner the name, the trade or business address, and the description of that person. The Commissioner shall note any instrument produced to him and shall (unless no certified copy has been filed) return the instrument to the person producing it or his agent.

@@ -1,0 +1,2 @@
+# 38 Counterstatement
+Within 2 months from the date of the receipt, of the duplicate the applicant shall send to the Commissioner a counterstatement in duplicate in Form 9 setting out the ground on which he relies as supporting his application. The applicant shall also set out what facts, if any, alleged in the notice of opposition he admits. If a counterstatement is not sent within the period allowed, the applicant shall, unless the Commissioner otherwise directs, be deemed to have abandoned his application.

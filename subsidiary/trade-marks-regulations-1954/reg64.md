@@ -1,0 +1,2 @@
+# 64 Separate Owners
+Where pursuant to an application under regulation 52 hereof and as the result of a division and separation of the goods of a registration or a division and separation of places or markets different persons become registered separately under the same official number as subsequent proprietors of a trade mark, each of the resulting separate registrations in the names of those different persons shall be deemed to be a separate registration for all the purposes of the Act.

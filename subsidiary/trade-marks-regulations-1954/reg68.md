@@ -1,0 +1,3 @@
+## Application to the Commissioner for rectification
+# 68 Application to Rectify Register
+An application to the Commissioner under section 35, 36, 41, or 42 of the Act for the making, expunging, or varying of any entry. in the register shall be made in Form 18, and shall be accompanied by a statement setting out fully the nature of the applicant's interest, the facts upon which he relies, and the relief which he seeks. If the applicant is not the registered proprietor of the trade mark he shall forward a copy of the application and of the statement, which the Commissioner shall send forthwith to the registered proprietor.

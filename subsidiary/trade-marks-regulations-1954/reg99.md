@@ -1,0 +1,2 @@
+# 99 Marks Registered Without Limitation of Colour
+Where a mark is registered without limitation of colour, the Commissioner may grant a certificate of its registration, for the purpose of obtaining registration abroad, either in the colour in which it appears upon the register or in any other colour or colours; but in the last-mentioned case the certificate shall be marked “For use in obtaining registration abroad only”.

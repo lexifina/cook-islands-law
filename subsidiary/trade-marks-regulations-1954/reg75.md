@@ -1,0 +1,2 @@
+# 75 Advertisement of Certain Requests
+Where a request is made in Form 24 to enter a disclaimer or memorandum relating to a trade mark, the Commissioner, before deciding upon the request, shall advertise it in the Journal in order to enable any person desiring so to do to state, within 3 months of the advertisement, any reasons in writing against the making of the entry of the disclaimer or memorandum.

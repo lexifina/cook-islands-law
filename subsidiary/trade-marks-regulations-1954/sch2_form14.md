@@ -1,0 +1,9 @@
+# TM Form No 14 Application for restoration of registration of trade mark
+[TM Form No 14: amended, on 1 April 1967, by regulation 5 of the Trade Marks Regulations 1954 Amendment No 1 1966 (SN 1966/205) .]
+| Fee No 10
+| reg 55
+In the matter of Trade Mark No (a)................ registered in the name of (b)................
+APPLICATION is hereby made by (c)................, of ................, for restoration to the register of trade mark No (d)................ in Class ................, on the following grounds................ The additional fee of £4 and the prescribed renewal fee with TM Form No 13 are transmitted herewith. Dated this ................ day of ................ 19................
+(e)................
+To the Commissioner of Trade Marks, Wellington, New Zealand.
+(a) Here insert number of trade marks. (b) Here insert name of registered proprietor. (c) Here insert name (in full) and address of person transmitting the fees. (d) Signature. *NOTE — This form will be returned if it is filed more than twelve months before the expiration of the last registration.

@@ -1,0 +1,9 @@
+## Schedule 2 Forms
+# TM Form No 1 Application for conversion of specification to Schedule 4
+| Fee No 1
+| reg 11(1)
+In the matter of an Application No (a)................ registered in the name of (b)................
+APPLICATION is hereby made by (c)................, of ................, the registered proprietor of the above-mentioned trade mark No................, registered in Class ................ of Schedule 3, for the conversion of the specification of the registration (d) (and the specification(s) of the registered users thereunder) from Schedules 3 to 4 of the Trade marks Regulations 1954. The specification(s) entered in the register in accordance with Schedule 3 is (or are) ................ Application is made that the Commissioner should propose the following specification(s) in accordance with Schedule 4, upon conversion: Class: ................ Class: ................ Dated this ................ day of ................ 19................
+(e)................
+To the Commissioner of Trade Marks, Wellington, New Zealand.
+(a) Here insert number of trade mark. (b) Here insert name of proprietor of trade mark. (c) Here insert (in full) name and address of proprietor. (d) Cancel the words in parenthesis if there are no registered users. (e) Signature.

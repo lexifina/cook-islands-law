@@ -1,0 +1,2 @@
+# 80 Printing Black for Advertisement
+In connection with an application to alter a registered trade mark, the Commissioner may at any time call on the applicant to supply a printing block satisfactory to the Commissioner and suitable for advertising the mark with the addition or alteration as aforesaid, if in the opinion of the Commissioner an advertisement describing the addition or alteration in words would not be readily understood by persons interested in the matter.

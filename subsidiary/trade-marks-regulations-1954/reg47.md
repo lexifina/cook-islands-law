@@ -1,0 +1,4 @@
+## Failure to proceed to registration
+# 47 Non-completion
+(1) In any case where by reason of default on the part of the applicant a trade mark is not registered within 6 months from the date of its advertisement or, if advertised before acceptance under the proviso to section 27(1) of the Act, from the date of acceptance, the Commissioner may send a notice of non-completion in Form 10 to the applicant at his trade or business address, or his address for service, and to any agent appointed by the applicant: Provided that in no case shall the Commissioner send a notice of non-completion until the expiration of 12 months from the date of the application for registration.
+(2) If within such time (not being less than 1 month) as the Commissioner may allow the applicant does not take all steps necessary to complete registration, he shall be deemed to have abandoned his application.

@@ -1,0 +1,3 @@
+# 24 Transliteration and Translation
+(1) Where a trade mark contains a word or words in characters other than Roman, there shall, unless the Commissioner otherwise directs, be endorsed on the application form a sufficient transliteration and translation to the satisfaction of the Commissioner of each of those words, and every such endorsement shall state the language to which the word belongs and shall be signed by the applicant or his agent.
+(2) Where a trade mark contains a word or words in a language other than English, the Commissioner may ask for an exact translation thereof together with the name of the language, and such translation and name, if he so requires, shall be endorsed and signed as aforesaid.

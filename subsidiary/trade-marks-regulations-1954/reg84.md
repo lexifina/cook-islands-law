@@ -1,0 +1,2 @@
+# 84 Entry and Notification
+The entry of a registered user in the register shall state the date on which it was made. In addition to the trade or business address of the registered user, the entry may include an address for service, given by the registered user. A notification in writing of the registration of a registered user shall be sent to the registered proprietor of the trade mark, to the registered user, and to every other registered user whose name is entered in relation to the same registration of a trade mark, and shall be inserted in the Journal.

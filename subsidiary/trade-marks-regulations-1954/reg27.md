@@ -1,0 +1,7 @@
+# 27 Acceptance, absolute, or conditional objection
+(1) After the search, and after consideration of the application and of any evidence of use or of distinctiveness and of any other information or matter which the applicant may or may be required to furnish, the Commissioner may accept the application absolutely, or he may object to it, or he may express his willingness to accept it subject to such conditions, amendments, disclaimers, modifications, or limitations (in this regulation referred to as conditions) as he may think fit to impose.
+(2) If the Commissioner objects to the application, he shall advise the applicant in writing. The applicant shall, within such period (not being less than 1 month) as the Commissioner may allow, apply for a hearing or make a considered reply in writing to those objections.
+(3) If the Commissioner is willing to accept the application subject to any conditions, he shall advise the applicant in writing. The applicant shall thereupon, within such period (not being less than 1 month) as the Commissioner may allow, either—
+(a) agree to the conditions and alter his application accordingly; or
+(b) object to the conditions or any of them, in which case he shall apply for a hearing or communicate his considered objections in writing.
+(4) If the applicant fails to comply with the requirements of this regulation within the time allowed, he shall be deemed to have withdrawn his application.

@@ -1,0 +1,4 @@
+## Advertisement of application
+# 32 Manner of Advertising
+(1) An application for the registration of a trade mark required or permitted to be advertised shall be advertised in the Journal during such times and in such manner as the Commissioner may direct. In the case of an application with which the Commissioner proceeds only after the applicant has lodged the written consent to the proposed registration of the registered proprietor of another trade mark or another applicant, the words “By consent” and the number of the previous registration of application for registration shall appear in the advertisement.
+(2) If no representation of the trade mark is included in the advertisement of the application, the Commissioner shall refer in the advertisement to the place or places where a specimen or representation of the trade mark is deposited for exhibition.

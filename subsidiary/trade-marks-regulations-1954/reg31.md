@@ -1,0 +1,2 @@
+# 31 Statement of Case; Draft Regulations
+The applicant shall send in duplicate to the Commissioner with his application or when required by the Commissioner a case setting out the grounds on which he relies in support of his application, together with draft regulations for governing the use of the mark. The Commissioner may communicate to the applicant any observations he may think fit on the sufficiency of the case or the suitability of the draft regulations, and the applicant may modify either of those documents.

@@ -1,0 +1,4 @@
+# 88 Procedure Upon Application
+(1) The Commissioner shall give notification in writing of any application under regulation 85, 86, or 87 hereof to the registered proprietor and each registered user (not being the applicant) of the trade mark.
+(2) Any person so notified may intervene in the proceedings by giving notice to the Commissioner in Form 35 to that effect within one month of the receipt of notification by the Commissioner, and shall send with his notice a statement of the grounds of his intervention. The Commissioner shall thereupon send copies of the notice and statement to the other parties. Any such party may within such time as the Commissioner may allow leave evidence in support of his case.
+(3) The Commissioner, after giving the parties an opportunity of being heard, may accept or refuse the application or accept it subject to any conditions, amendments, modification, or limitations he may think fit to impose.

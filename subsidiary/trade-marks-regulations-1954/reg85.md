@@ -1,0 +1,2 @@
+# 85 Application by Registered Proprietor to Vary Entry
+An application by the registered proprietor of a trade mark for the variation of the registration of a registered user of that trade mark under section 37(8)(a) of the Act shall be made in Form 32, and shall be accompanied by a statement of the grounds on which it is made, and, where the registered user in question consents, by the written consent of that registered user.

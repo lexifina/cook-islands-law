@@ -1,0 +1,2 @@
+# 5 Public notice
+Within 20 working days after filing the application, the applicant must at his or her expense give public notice in the form set out in Schedule 2 to these regulations in a newspaper regularly published in the locality of the premises subject of the licence on 2 occasions each week for 2 weeks. The advertisement must contain particulars of the days and hours of trading, the premises and the name of the applicant.

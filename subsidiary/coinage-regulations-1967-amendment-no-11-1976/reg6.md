@@ -1,0 +1,2 @@
+# 6 5-dollar coin
+The design for the 5-dollar coin shall be for the obverse impression the effigy of Her Majesty the Queen in profile wearing a diamond tiara on festoons, scrolls, and collet-spikes, with the inscription “Elizabeth II Cook Islands” encircling the top and below the date of the year, and for the reverse impression a Mangaia kingfisher (Halcyon Ruficollaiis) in flight with fully spread wings diving down towards the right with 15 stars encircling the outer design edge and at the bottom centred under the diving bird the denomination “five dollars”.

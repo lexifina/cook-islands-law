@@ -1,0 +1,5 @@
+# 4 Prior consent of the Council
+(a) No employer may engage any person on probation as an apprentice or enter into any contract of apprenticeship without the prior consent in writing of the Council.
+(b) An employer before engaging an apprentice must furnish in writing to the Council the names and particulars of the tradesmen employed for the previous 6 months and also the names and particulars of apprentices employed and the apprentice intended to be employed.
+(c) The employer must satisfy the Council that he or she is a suitable employer, that he or she has been in business for 2 years immediately preceding the date of his or her application, or that he or she is in a position to continue in business as an employer, and that he or she has the facilities for properly teaching the apprentice the branch of the industry to which he or she is to be apprenticed.
+(d) In the case of a first application to the Council an employer must supply such particulars as the Council requires to satisfy itself regarding his or her qualifications as an employer together with a declaration that the information supplied is accurate and true.

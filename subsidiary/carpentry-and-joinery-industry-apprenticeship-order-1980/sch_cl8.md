@@ -1,0 +1,9 @@
+# 8 Term of apprenticeship
+(a) Except where otherwise provided in this clause the term of apprenticeship is 8,000 hours, divided into eight 1,000 hour periods.
+(b) Except where otherwise provided in this clause the term of apprenticeship in joinery machining is 7,000 hours, divided into seven 1,000 hour periods.
+(c) Where the Council is of the opinion that time served in a related or similar occupation prior to the date of application for engagement of an apprentice should be credited to the apprentice, it may on application, fix the term of apprenticeship.
+(d) An apprentice must make up any time lost by him or her on any 1,000 hour period through his or her own default or sickness or through accident or for any cause not directly connected with the business of the employer, before he or she shall be considered to have entered on the next succeeding 1,000 hour period of his or her apprenticeship: Any time lost through accident arising out of and in the course of the employment must be made up by the extension of the final period, with wages at a rate not less than tradesmen’s rates.
+(e) An apprentice working overtime must have such time added to the ordinary time in calculating the respective 1,000 hour period of the apprenticeship. Each hour worked as overtime is deemed to be 1 hour for the purpose of computing such 1,000 hour period of apprenticeship.
+(f) All statutory and other holidays, except the annual holiday period, must be counted as time served, computed at 8 hours a day. Time worked on such holiday must be added to time deemed to be served.
+(g) Except where otherwise provided, only working hours may be reckoned as time served.
+(h) A person who has attained the age of 18 years end who desires to enter into a contract of apprenticeship may apply far a special contract of apprenticeship as prescribed under clause 23 of this order.

@@ -1,0 +1,2 @@
+# 16 Conditions of agreement and the Industrial and Labour Ordinance 1964, No 1
+The conditions or any agreement or ordinance referred to in clause 11 of this order in so far as they relate to the method and time or payment or wages, holidays, travelling time, meal money and other matters (other than tool allowance) relating generally to the employment of tradesmen and not in conflict with this order, apply to apprentices.

@@ -1,0 +1,2 @@
+# 4 Application of Customs Act 1913 to prohibited imports
+All the provisions of the Customs Act 1913 as applied in the Cook Islands with respect to prohibited imports (except the provisions as to monetary penalties in section 46(5) of the Customs Act 1913) extend and apply with respect to goods whose importation is prohibited by regulation 3, in all respects as if the importation of the goods were prohibited under section 46 of the Customs Act 1913 as applied in the Cook Islands.

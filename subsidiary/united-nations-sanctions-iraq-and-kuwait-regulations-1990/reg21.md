@@ -1,0 +1,2 @@
+# 21 Consent of Attorney-General to proceedings in certain cases
+Proceedings for the trial and punishment of any person who is charged with having committed outside the Cook Islands any offence against these regulations must not be instituted in any court except with the consent of the Attorney-General and on the Attorney-General’s certificate that it is expedient that the proceedings be instituted.

@@ -1,0 +1,3 @@
+# 3 Application of electoral procedures
+(1) Except as expressly provided herein, in the conduct of any poll pursuant to the Act, the Chief Electoral Officer must apply with such modifications as he or she deems necessary, the electoral procedures used for the conduct of elections of members of the Parliament of the Cook Islands.
+(2) Where a poll is required to be conducted pursuant to the Act simultaneously with any general election for members of the Parliament of the Cook Islands, every Electoral Officer appointed under the Electoral Act 1966 is deemed to be a polling officer for the purposes of the poll.

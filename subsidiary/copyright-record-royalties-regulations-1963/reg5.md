@@ -1,0 +1,2 @@
+# 5
+If the user takes in relation to any records the steps specified in regulation 4(2) or (3) hereof or complies with any method approved and fulfils any conditions laid down by the Tribunal under the provisions of section 22(12) of the Act, as the case may be, the taking of those steps or such compliance and fulfilment of conditions shall constitute the payment of royalties on those records in accordance with section 22(1)(d) of the Act.

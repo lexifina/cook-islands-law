@@ -1,0 +1,2 @@
+# 7 Objections by Registrar or Society
+In any case where the Registrar desires to show cause why an application should not be granted he or she must file, in the matter of the application, a notice of the objection setting forth the grounds thereof and must at the same time forward copies of the statement and of the affidavit or statutory declaration to the secretary of the Society and to the applicant at the address given by the applicant in his or her application as his or her address for service.

@@ -1,0 +1,3 @@
+# 4 Imported Fireworks may be seized
+(1) Any officer of police may, on being authorised so to do by warrant under the hand of a Judge or Registrar of the High Court, seize and take possession of any Fireworks imported into Rarotonga and for that purpose may enter into or upon any land or building in or upon which such Fireworks may be, and in so doing may use such force, if any, as may be necessary.
+(2) All Fireworks seized under this section shall become the property of Her Majesty the Queen free and discharged from all right, title, estate or interest possessed in respect thereof by any other person.

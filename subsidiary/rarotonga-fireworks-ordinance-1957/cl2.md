@@ -1,0 +1,2 @@
+# 2 Interpretation
+In this Ordinance Fireworks means any explosive and any firework composition when such explosive or composition is enclosed in any case or contrivance, or is otherwise manufactured so as to form a squib, cracker, serpent, rocket (other than ship safety rocket), maroon, lance wheel, Chinese fire, Roman candle or other article specially adapted for the production of pyrotechnic effects and includes sparkler matches and throw downs.

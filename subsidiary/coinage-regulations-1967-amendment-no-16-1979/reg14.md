@@ -1,0 +1,2 @@
+# 14 New design for 5-dollar coin
+The design for the 5-dollar coin made and issued bearing the date 1978 shall be for the obverse impression the effigy of Her Majesty the Queen in profile wearing a diamond tiara on festoons, scrolls, and collet-spikes, with the inscription “Elizabeth II Cook Islands” encircling the top and below the date of the year, and for the reverse impression a native land bird of the Cook Islands, small Polynesian Warbler (Acrocephalus vaughani kerearako).

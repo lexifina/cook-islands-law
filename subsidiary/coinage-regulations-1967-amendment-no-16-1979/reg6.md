@@ -1,0 +1,2 @@
+# 6 250-dollar Captain Cook 250th Anniversary coin
+The design for the 250-dollar Captain Cook 250th Anniversary coin shall be for the obverse impression the effigy of Her Majesty the Queen in profile wearing a diamond tiara on festoons, scrolls, and collet-spikes, with the inscription “Elizabeth II Cook Islands” encircling the top and below the date of the year, and for the reverse impression the profile of Captain James Cook encircled with the wording “Captain James Cook - 250th Anniversary of Birth - 250 Dollars”.

@@ -1,0 +1,2 @@
+# 2 Two hundred-dollar Captain Cook coin
+The design for the 200-dollar Captain Cook coin shall be for the obverse impression the effigy of Her Majesty the Queen in profile wearing a diamond tiara on festoons, scrolls, and collet-spikes, with the inscription “Elizabeth II Cook Islands” encircling the top and below the date of the year, and for the reverse impression a design featuring Captain James Cook striding ashore from a long boat of the Resolution with the words “Captain James Cook” encircling the top and “200 Dollars” encircling the bottom.

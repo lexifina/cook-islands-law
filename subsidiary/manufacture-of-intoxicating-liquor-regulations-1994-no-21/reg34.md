@@ -1,0 +1,2 @@
+# 34 Authorised officer may lock coverings
+An authorised officer on duty at a manufacturing warehouse may lock, secure, and fasten such coverings, fastenings, pipes and vessel in the manufacturing warehouse in such manner as the Collector directs, and may keep them so locked, fastened, and secured at all times except when they are opened, unfastened, or unlocked by or in the presence of an authorised officer.

@@ -1,0 +1,2 @@
+# 24 Authorised officer may order manufacturing to cease
+Any authorised officer who has reasonable cause to believe that any manufacturing or transfer of intoxicating liquor from one vessel to another vessel or vessels is being carried out in contravention of the Act, these regulations or the manufacturer’s licence that authorised officer may order the manufacturing or transfer to cease forthwith.

@@ -1,0 +1,2 @@
+# 4 Application to workers employed by or under the Crown
+This Ordinance shall apply to workers employed by or under the Crown in respect of the Cook Islands Government and the Government of New Zealand in the same way and to the same extent as if the employer was a private person, except is the case of persons in the naval or military or air service of the Crown and persons in the civil employment otherwise than in Her Majesty’s Government of the Cook Islands and of New Zealand.

@@ -1,0 +1,9 @@
+## Part 1 Compensation
+# 5 Employer’s liability for compensation for death or incapacity
+(1) If in any employment personal injury by accident arising out of and in the course of the employment is caused to a worker, his employer shall, subject as hereinafter mentioned, be liable to pay compensation in accordance with the provisions of this Ordinance:
+Provided that—
+(a) the employer shall not be liable under this Ordinance in respect of any injury which does not incapacitate the worker for a period of at least 4 days from earning full wages at the work at which he was employed; and
+(b) if it is proved that the injury to a worker is attributable to the serious and wilful misconduct of that worker any compensation claimed in respect of that injury shall, unless the injury results in death or serious and permanent disablement, be disallowed.
+(2) For the purposes of this Ordinance, an accident resulting in the death or serious and permanent incapacity of a worker shall be deemed to arise out of and in the course of his employment, notwithstanding that the worker was at the time when the accident happened acting in contravention of any statutory or other regulations applicable to his employment, or of any orders given by or on behalf of his employer, or that he was acting without instructions from his employer, if such act was done by the worker for the purposes of and in connection with his employer’s trade or business.
+(3) No compensation shall be payable under this Ordinance in respect of any incapacity or death resulting from a deliberate self-injury.
+(4) No compensation shall be payable under this Ordinance in respect of any incapacity or death resulting from personal injury, if the worker has at any time represented to the employer that he was not suffering or had not previously suffered from that or a similar injury, knowing that the representation was false.

@@ -1,0 +1,14 @@
+# 9 Compensation in the case of temporary incapacity
+(1) Where temporary incapacity, whether total or partial, results from the injury, the compensation shall be the periodical payments hereinafter mentioned payable at such intervals as may be agreed upon or as the court may order, or a lump sum calculated accordingly having regard to the probable duration and probable changes in the degree of the incapacity.
+Such periodical payments shall be, or shall be at the rate proportionate to, a weekly payment of five-sixths the difference between the weekly earnings which the worker was earning at the time of the accident and the weekly earnings which he is earning or is capable of earning in some suitable employment or business after the accident:
+Provided that:
+(a) [Repealed]
+(b) if the incapacity lasts more than 4 days, compensation shall be payable in respect of the total period of incapacity;
+(c) neither the aggregate of the periodical payments, nor the lump sum payable under this subsection shall exceed the lump sum which would be payable in respect of the same degree of incapacity under the provisions of section 7 or 8, as the case may be, if the incapacity were permanent.
+(2) [Repealed]
+(3) On the ceasing of the incapacity before the date on which any periodical payment falls due, there shall be payable in respect of that period a sum proportionate to the duration of the incapacity in that period.
+(4) Where a worker in receipt of periodical payments under the provisions of this section intends to leave the neighborhood in which he was employed for the purposes of residing elsewhere he shall give notice of such intention to the employer who may agree with the worker for the redemption of such periodical payments by a lump sum, or for the continuance of such periodical payments. If the employer and worker are unable to agree, the periodical payments shall continue.
+(5) If a worker in receipt of periodical payments under the provisions of this section leaves the neighbourhood in which he was employed for the purposes of residing elsewhere without giving notice as provided in subsection (4), he shall not be entitled to any benefits under this Ordinance during or in respect of the period of his absence. If the period of such absence exceeds 6 months, the worker shall cease to be entitled to any benefits under this Ordinance.
+[Clause 9(1): amended, on 1 January 1974, by section 5 of the Workers' Compensation Ordinance Amendment Act 1973-74 (1973-74 No 28) ; on 1 April 1977, by section 2 of the Worker's Compensation Ordinance Amendment Act 1977 (1977 No 6) .]
+[Clause 9(1)(a): repealed, on 19 January 1970, by section 4 of the Workers' Compensation Amendment Act 1969 (1969 No 22) .]
+[Clause 9(2): repealed, on 14 January 1966, by section 3 of the Cook Islands Workers Compensation Ordinance Amendment Act 1965 (1965 No 3) .]

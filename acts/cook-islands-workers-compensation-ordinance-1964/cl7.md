@@ -1,0 +1,3 @@
+# 7 Compensation in the case of permanent total incapacity
+Where permanent total incapacity results from the injury the amount of compensation shall be a sum equal to 36 months’ earnings: Provided that in no case shall the amount of compensation in respect of permanent total incapacity be less than $1,250.
+[Clause 7: amended, on 19 January 1970, by section 3 of the Workers' Compensation Amendment Act 1969 (1969 No 22) ; on 1 January 1974, by section 4 of the Workers' Compensation Ordinance Amendment Act 1973-74 (1973-74 No 28) ; on 1 April 1977, by section 2 of the Worker's Compensation Ordinance Amendment Act 1977 (1977 No 6) .]

@@ -1,0 +1,5 @@
+# 8 Compensation in the case of permanent partial incapacity
+(1) Where permanent partial incapacity results from the injury, the amount of compensation shall be—
+(a) in the case of an injury specified in Schedule 2 to this Ordinance such percentage of the compensation which would have been payable in the case of permanent total incapacity as is specified therein as being the percentage of the loss of earning capacity caused by that injury; and
+(b) in the case of an injury not specified in the said Schedule such percentage of the compensation which would have been payable in the case of permanent total in capacity as is proportionate to the loss of earning capacity permanently caused by the injury.
+(2) Where more injuries than one are caused by the same accident, the amount of compensation payable under the provisions of this section shall be aggregated, but not so in any case as to exceed the amount which would have been payable if permanent total incapacity had resulted from the injuries.

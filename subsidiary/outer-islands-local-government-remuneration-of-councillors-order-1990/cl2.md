@@ -1,0 +1,2 @@
+# 2 Remuneration of Island Councillors
+Every Mayor, Deputy Mayor, Councillor elected to an Island Council and every Ariki and representative of the Aronga Mana who is a member of an Island Council shall be entitled to receive as from 1 December 1990 the remuneration set out in the Schedule attached hereto for every month or part of a month in which that person holds office as a member of an Island Council.

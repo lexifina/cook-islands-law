@@ -1,0 +1,2 @@
+# 21 Death of applicant
+In case of the death of any applicant for the registration of a design after the date of his application and before registration of the design has been effected, the Commissioner may, on being satisfied of the applicant's death, enter in the register, in place of the name, address, and nationality of the deceased applicant, the name, address, and nationality of the person owning the design on that ownership being proved to the satisfaction of the Commissioner.

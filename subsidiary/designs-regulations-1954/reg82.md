@@ -1,0 +1,2 @@
+# 82 Extension of time
+The times prescribed by these regulations for doing any act, or taking any proceeding thereunder may be extended by the Commissioner if he thinks it, and upon such notice to the parties and upon such terms as he may direct, and such extension may be granted though the time has expired for doing such act or taking such proceeding. An application for an extension of time under this regulation shall be made in Form 34.

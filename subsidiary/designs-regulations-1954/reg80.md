@@ -1,0 +1,2 @@
+# 80 Power to dispense with evidence
+Where under these regulations any person is required to do any act or thing or any document or evidence is required to be produced or filed, the Commissioner may, upon the production of such evidence and subject to such terms and conditions as he thinks fit modify or dispense with the doing of the act or thing or the production or filing of the document or evidence if he is satisfied that it is reasonable so to do.

@@ -1,0 +1,2 @@
+# 24 Applications under section 8
+If the application is for the registration of a design which has already been registered in respect of one or more articles, or consists of a registered design with modifications or variations not sufficient to alter the character or substantially to affect the identity thereof, and it is desired to claim the protection of section 8 of the Act for the application, it shall contain the number or numbers of the registration or registrations already effected.

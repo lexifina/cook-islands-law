@@ -1,0 +1,2 @@
+# 38 Appeal
+If the applicant desires to appeal from the Commissioner’s decision, he shall, within 1 month from the date of the decision, apply to the Commissioner in Form 6 requesting him to state in writing the grounds of, and the materials used by him in arriving at, his decision. Upon receipt of any such application, the Commissioner shall send to the applicant such statement as aforesaid in writing, and the date when the statement is sent shall be deemed to be the date of the Commissioner's decision for the purpose of an appeal.

@@ -1,0 +1,2 @@
+# 10 Size, etc of documents
+Subject to any direction that may be given by the Commissioner in any particular case, all applications, notices, papers haying representations affixed, and other documents lodged under the Act or these regulations shall be upon strong paper, and, except where otherwise required, on one side only, of a size approximately 13 in by 8 in, and having on the left hand part thereof a margin of approximately 2 in.

@@ -1,0 +1,2 @@
+# 14 Service upon agent
+In case of any such appointment, service upon the agent of any document relating to the proceeding or matter shall be deemed to be service upon the person so appointing him, and all communications directed to be made to that person in respect of the proceeding or matter may be addressed to the agent and all attendances upon the Commissioner relating thereto may be made by or through the agent.

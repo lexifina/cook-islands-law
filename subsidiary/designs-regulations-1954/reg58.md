@@ -1,0 +1,3 @@
+# 58 Request for information
+(1) Where any person desires to obtain the information which he is entitled to obtain under section 31 of the Act and can furnish the registration number of the design, he shall apply in Form 27 and the Commissioner shall thereafter furnish him with the information aforesaid.
+(2) Where the applicant is unable to furnish the registration number of a design, he shall apply in Form 28 and furnish to the Commissioner a representation or specimen (in duplicate) of the design applied to an article, and the Commissioner shall thereupon make such search among designs applied to the articles as may be possible, and shall furnish such information as can properly be given.

@@ -1,0 +1,2 @@
+# 77 Action consequent upon Court order
+Where an order has been made by the Court in any case under the Act, the person in whose favour the order has been made shall forthwith lodge an application in Form 33 accompanied by a scaled duplicate of the order or a certified copy of the order, and thereupon the register shall, if necessary, be, rectified by the making of any entry therein or the variation or deletion of any entry therein.

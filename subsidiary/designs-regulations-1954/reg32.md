@@ -1,0 +1,2 @@
+# 32 Name of portrait of living person
+Where the name or portrait of a living person appears on a design, the Commissioner shall be furnished, if he so requires, with consent from the person before proceeding to register the design. In the case of a person recently dead, the Commissioner may call for consent from his legal representative before proceeding with the registration of a design on which the name or portrait of the deceased person appears.

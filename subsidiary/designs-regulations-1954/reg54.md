@@ -1,0 +1,4 @@
+# 54 Opposition
+(1) Any person may, at any time within 1 month from the date of the advertisement in the Journal, give notice to the Commissioner of opposition to the proposed correction in Form 24.
+(2) Every such notice shall be accompanied by a copy thereof and a statement (in duplicate) setting out fully the nature of the opponent's interest, the facts on which he relies, and the relief which he seeks.
+(3) A copy of the notice and of the statement shall be sent by the Commissioner to the person making the request, and the Commissioner may give such directions (if any) as he may think fit with regard to the subsequent procedure.

@@ -1,0 +1,4 @@
+# 27 Preparation
+(1) Each representation of the design, whether to be applied to a single article or to a set of articles, shall be upon paper of the size prescribed by regulation 10 hereof and not on cardboard, and shall appear on one side only of the paper. The figure or figures shall be placed in an upright position on the sheet. When more figures than one are shown, these shall, where possible, be on one and the same sheet, and each shall be designated perspective view, front view, side view, plan, or otherwise, as the case may be.
+(2) When the representations furnished are drawings or tracings, they shall be in ink and, if on tracing cloth or tracing paper, shall be mounted on paper of the size prescribed by regulation 10 hereof.
+(3) Notwithstanding the foregoing provisions of this regulation, the Commissioner may accept photographic representations of the design in such form as he may think fit.

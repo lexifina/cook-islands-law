@@ -1,0 +1,2 @@
+# 59 Request for search
+The Commissioner shall, upon application for the purpose in Form 29, accompanied by a representation or specimen (in duplicate) of a design applied to an article, cause a search to be made among registered designs and state whether the design as applied to that article appears to be identical with, or closely to resemble, any registered design applied to that article of which the copyright is still existing.

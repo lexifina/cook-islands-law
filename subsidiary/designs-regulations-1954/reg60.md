@@ -1,0 +1,3 @@
+# 60 Designs not open to public inspection
+(1) Where the Commissioner has given a direction under section 9(1) of the Act prohibiting or restricting the publication of a design, the representation or specimen of the design shall not be open to public inspection while the direction remains in force.
+(2) The period under section 30(2) of the Act during which a design shall not be open to inspection, except as provided in that section, shall be, as regards designs to be applied to textile articles, 3 years, and as regards designs to be applied to wallpaper and lace, 2 years, from the date of the registration thereof.

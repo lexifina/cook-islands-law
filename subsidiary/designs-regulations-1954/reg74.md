@@ -1,0 +1,2 @@
+# 74 Recognition of signatures on documents
+Any document purporting to have affixed, impressed, or subscribed thereto or thereon the seal or signature of any person authorised by regulation 73 hereof to take a declaration or affidavit, in testimony that the declaration or affidavit was made and subscribed before him, may be admitted by the Commissioner without proof of the genuineness of the seal or signature or of the official character of the person or his authority to take the declaration or affidavit.

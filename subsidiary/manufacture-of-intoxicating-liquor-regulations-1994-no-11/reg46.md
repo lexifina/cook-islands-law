@@ -1,0 +1,14 @@
+# 46 Equipment and facilities
+(1) No person shall use any premises or permit any premises to be used for or in connection with the sale, preparation, or storage of intoxicating liquor, unless the premises—
+(a) have walls, floors, and ceilings that are suitably constructed, in good repair, and easy to clean:
+(b) have intoxicating liquor contact surfaces which are smooth, easily cleaned and in such repair as to be readily maintained in a clean and sanitary condition:
+(c) are kept adequately lighted at all times when work is being carried out:
+(d) are kept adequately ventilated at all times when work is being carried out:
+(e) are provided with adequate means of drainage for the removal of waste liquids, and such drains are maintained in clean, working order:
+(f) are provided with sinks and other sanitary fittings necessary for cleaning articles, and such sanitary fittings are maintained in clean, working order:
+(g) are provided with an adequate supply of hot and cold water, and soap and other suitable detergents:
+(h) are provided with adequate conveniently located toilet facilities for all persons engaged or employed in or about the premises. All toilet facilities shall have proximate access to adequate hand washing facilities, including adequate hot water, hand cleansing soap or detergent, and disposable towels or other sanitary means for hand drying:
+(i) are provided with leak-proof, non-absorbent containers for the sanitary storage of all solid waste and other garbage with all such waste stored so as to be inaccessible to vermin and animals and disposed of in such a manner as to prevent the creation of any nuisance or objectionable odours:
+(j) are provide with adequate means of preventing the entrance of vermin into intoxicating liquor handling and storage areas, and receive regular treatment designed to protect against the breeding or presence or rodents, flies, cockroaches, ants and other pests;
+(k) are at all times kept clean and free from foul odours and as far as practicable, free from dust.
+(2) Every person who contravenes any part of subsection (1) shall be guilty of an offence.

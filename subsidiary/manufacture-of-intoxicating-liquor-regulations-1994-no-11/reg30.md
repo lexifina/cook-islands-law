@@ -1,0 +1,3 @@
+# 30 Excise duty payable where intoxicating liquor not accounted for
+(1) Where a person who has, or has been entrusted with, the possession or custody of intoxicating liquor manufactured in the Cook Islands and subject to the control of the Customs does not account for that intoxicating liquor to the satisfaction of the Collector, that person shall, on demand in writing made by the Collector, pay the excise duty that would have been payable on the intoxicating liquor if it had been entered for home consumption on the day on which the Collector made the demand.
+(2) Nothing in this regulation shall effect the liability of a person arising under or because of any provision of these regulations or any security given under these regulations.

@@ -1,0 +1,3 @@
+## Part 10 Miscellaneous provisions
+# 47 Evidence in respect of licence, etc
+Without limiting the application, for the purposes of the Act and these regulations of section 276 of the Customs Act 1913 and any proceedings for an offence against these regulations, or for the recovery of fees or charges of excise duty payable under these regulations, every allegation in any information for any such offence, or made by or on behalf of the Crown in any statement of claim, that a person is not the holder of a licence, permit, or authority under the Act, or that the fees or excise duty have not been paid, shall be presumed to be true unless the contrary is proven.

@@ -1,0 +1,2 @@
+# 32 Allowance where intoxicating liquor is lost by accident
+Notwithstanding regulation 28(1) where an authorised officer is satisfied that any intoxicating liquor has been destroyed by fire or other inevitable accident, or loss by the leakage or bilging of any vessel, without the wilful act or negligence of the manufacturer, no excise duty shall be demanded from or paid by the manufacturer on intoxicating liquor so destroyed or lost.

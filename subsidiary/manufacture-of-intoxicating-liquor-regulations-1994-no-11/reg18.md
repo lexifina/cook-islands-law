@@ -1,0 +1,3 @@
+# 18 Manufacturer to provide locks
+(1) Every manufacturer shall provide and maintain to the satisfaction of an authorised officer sufficient fastenings and locks for properly securing the openings into any vessel and from any pipe in his or her manufacturing warehouse so that, when the locks or fastenings are on, nothing can flow or be otherwise moved into or from that vessel or pipe.
+(2) Every manufacturer commits an offence against these regulations who refuses or fails to provide and maintain such locks and fastenings, or prevents or hinders any authorised officer from affixing any such lock or fastenings.

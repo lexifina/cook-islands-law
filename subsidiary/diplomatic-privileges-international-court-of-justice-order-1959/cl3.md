@@ -1,0 +1,6 @@
+# 3
+(1) Except in so far as in any particular case any immunity or privilege is waived by the Government which they represent before the Court, the agents, counsel, and advocates of parties before the Court shall enjoy—
+(a) when engaged on their missions before the Court and during their journeys to and from the place where the Court is sitting in connection with any such mission, immunity from personal arrestor detention, and from seizure of their personal baggage, and inviolability for all papers and documents:
+(b) immunity from legal process of every kind in respect of words spoken or written and all acts done by them in this capacity:
+(c) when engaged on their missions before the Court and during their journeys to and from the place where the Court is sitting in connection with any such mission, the like exemption or relief from taxes as is accorded a foreign envoy, save that the relief allowed shall not include relief from Customs and excise duties or sales tax except in respect of goods imported as part of their personal baggage.
+(2) This clause shall not confer any immunity or privilege upon any person acting on behalf of the Government of New Zealand or upon any person resident in New Zealand acting on behalf of any other Government.

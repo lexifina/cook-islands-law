@@ -1,0 +1,2 @@
+# 5
+This order is hereby declared to be a reserved enactment for the purposes of sections 39 and 70 of the Cook Islands Amendment Act 1957 and of section 32 of the Samoa Amendment Act 1957.

@@ -1,0 +1,2 @@
+# 4
+This order shall be in force in the Cook Islands, Tokelau, and Western Samoa.

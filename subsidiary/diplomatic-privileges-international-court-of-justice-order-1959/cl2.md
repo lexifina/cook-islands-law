@@ -1,0 +1,2 @@
+# 2
+Except in so far as in any particular case any immunity or privilege is waived by the Court, the Judges and Registrar of the International Court of Justice (including any officer of the Court acting as Registrar) shall, when engaged on the business of the Court and during any journey to and from the place where the Court is sitting in connection with any such business, enjoy the like immunity from suit and legal process, the like inviolability of residence, and the like exemption or relief from taxes as is accorded to a foreign envoy.

@@ -1,0 +1,15 @@
+# Schedule 2 s 4(1) New Zealand Acts extended to the Cook Islands
+[Schedule 2: amended, on 28 July 1987, by Schedule 3 of the Currency Act 1986-87 (1986-87 No 32) .]
+Post Office Amendment Act 1965 (1965, No 9)
+Customs Amendment Act 1965 (1965, No 10)
+Property Law Amendment Act 1965 (1965, No 10)
+Administration Amendment Act 1965 (1965, No 43)
+Narcotics Act 1965 (1965, No 45)
+Republic of Zambia Act 1965 (1965, No 50)
+Republic of Kenya Act 1965 (1965, No 51)
+British Nationality and New Zealand Citizenship Amendment Act 1965 (1965, No 72)
+Incorporated Societies Amendment Act 1965 (1965, No 88)
+Industrial and Provident Societies Amendment Act 1965 (1965, No 89)
+New Zealand National Airways Amendment Act 1965 (1965, No 100)
+Customs Acts Amendment Act 1965: Parts 1 and 3 (1965, No 123)
+Transport Amendment Act (No 2) 1965: section 8 (1965, No 128)

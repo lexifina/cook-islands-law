@@ -1,0 +1,2 @@
+# 16 Charge and Set off in Respect of Shares or Interest of Members
+A registered society shall have a charge upon the shares or interests in the capital and on the deposits of a member or past member or deceased member, and upon any dividend, bonus, or profits payable to a member or past member or to the estate of a deceased member, in respect of any debt due to the society from that member or past member or estate, and may set off any sum credited or payable to a member or past member or estate of a deceased member in or towards payment of any such debt.

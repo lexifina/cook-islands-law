@@ -1,0 +1,6 @@
+# 38 Inquiry and Inspection
+(1) The Registrar may of his own motion, and shall on the application of a majority of the committee or of not less than one-third of the members of a registered society, hold an inquiry, or direct some person authorised by him by order in writing in this behalf to hold an inquiry, into the constitution, working, and financial condition of a registered society; and all officers and members of the society shall furnish such information in regard to the affairs of the society and produce the cash in hand and such books, accounts, papers, and securities of the society as the Registrar or the person authorised by him may require.
+(2) The Registrar shall, on the application of a creditor of the registered society, inspect, or direct some person authorised by him in writing in this behalf to inspect the books of the society, if the applicant—
+(a) proves that an ascertained sum of money is then due to him and that he has demanded payment thereof and has not received satisfaction within a reasonable time; and
+(b) deposits with the Registrar such sum as security for the costs of the proposed inspection as the Registrar may require.
+(3) The Registrar shall communicate the results of any such inspection to the creditor and to the society into whose affairs inquiry has been made.

@@ -1,0 +1,2 @@
+# 17 Shares or Interest Not Liable to Attachment
+Subject to the provisions of regulation 16, the share or interest of a member in the capital of a registered society shall not be liable to attachment or sale under any decree or order of any Court in respect of any debt or liability incurred by the member, and neither his assignee in insolvency or a receiver duly appointed shall be entitled to or have any claim on that share or interest.

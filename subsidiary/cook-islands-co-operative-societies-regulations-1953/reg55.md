@@ -1,0 +1,4 @@
+# 55 Prohibition of the Use of the Word “Co-operative”
+(1) No person other than a registered society shall trade or carry on business under any name or title of which the word “Co-operative” or its vernacular equivalent is part without the consent of the Minister: Provided that nothing in this regulation shall apply with respect to the continued use by any person or his successor in interest of any name or title under which he traded or carried on business at the commencement of these regulations.
+(2) Any person who commits a breach of this regulation is guilty of an offence, and is liable to a fine not exceeding £5, and in the case of a continuing offence to a further fine not exceeding £1 for each day during which the offence continues.
+[Regulation 55(1): amended, on 14 February 1967, by section 6 of the Cook Islands Co-operative Societies Regulations 1953 Amendment Act 1966 (1966 No 16) .]

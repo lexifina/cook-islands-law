@@ -1,0 +1,2 @@
+# 58 Penalty for Soliciting Violation of Contract
+Any person who, having knowledge or notice of the existence of a contract described in regulation 14 hereof, solicits or persuades any person to sell or deliver any article in violation of that contract is guilty of an offence and is liable to a fine not exceeding £25, and shall in addition be ordered to pay to the society concerned such damage as to the Court may seem fit.

@@ -1,0 +1,2 @@
+# 25 Votes of Members
+No member of any registered society shall have more than one vote in the conduct of the affairs of the society: Provided that in the case of an equality of votes the Chairman shall have a casting vote: Provided further that in the case of societies the membership of which includes one or more registered societies, each last-mentioned society may have such voting powers as are provided in the by-laws.

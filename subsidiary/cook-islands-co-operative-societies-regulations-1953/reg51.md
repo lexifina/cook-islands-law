@@ -1,0 +1,3 @@
+# 51 Appeal
+(1) Any party aggrieved by an award made under regulation 45 or 50 hereof by the Registrar or by an arbitrator or arbitrators appointed by him may appeal therefrom in the manner and time prescribed by the rules to the High Court of the Cook Islands.
+(2) On an appeal under the provision of subclause (1) the Court may dismiss the appeal or vary the award of the Registrar or arbitrator or arbitrators to make such other order as may appear just and proper, and shall make such order as to the costs of the arbitration and the appeal as it thinks fit, and the decision of the Court shall be final.

@@ -1,0 +1,4 @@
+# 6D Power to summon witnesses
+(1) For the purposes of the inquiry the Commission may of its own motion or on application, issue in writing a summons requiring any person to attend at the time and place specified in the summons and to give evidence, and to produce any papers, documents, records, or things in that person’s possession or under that person’s control that are relevant to the subject of the inquiry.
+(2) For the purpose of this Act, the power to issue summonses to the hearing or to do any other act preliminary or incidental to the hearing of any matter by the Commission, may be exercised by the Commission or its Chairperson, or by an officer of the Commission purporting to act by direction or with the authority of the Commission or its Chairperson.
+[Section 6D: inserted, on 18 July 1989, by section 5 of the Commissions of Inquiry Amendment Act 1989 (1989 No 14) .]

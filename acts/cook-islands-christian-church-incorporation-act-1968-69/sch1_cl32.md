@@ -1,0 +1,4 @@
+# 32 Draft programmes of work and budgets
+(1) The Treasurer shall prepare, in consultation at the option of the Treasurer with the Principal Officers of the Church and any Ekalesia as may be necessary, a draft annual work programme, draft budget or budgets and budget forecast for as many of the succeeding years as the General Assembly may determine.
+(2) The Treasurer shall circulate the draft work programme, draft budget or budgets and budget forecast to the Finance Planning and Evaluation Committee and to all Ekalesias or branches of the Church no later than one (1) month before the meeting of the General Assembly at which the drafts will be considered.
+(3) The Finance Planning and Evaluation Committee shall examine the draft work programme, draft budget or budgets (other than the administrative budget) and budget forecast circulated by the Treasurer and report on them to the plenary meeting of the General Assembly.

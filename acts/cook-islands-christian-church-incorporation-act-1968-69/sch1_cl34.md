@@ -1,0 +1,3 @@
+# 34 Control of the funds of the Church
+(1) Subject to the directions of the General Assembly or the Executive Council the Treasurer shall be responsible for the control of the funds of the Church and of its auxiliary and subsidiary bodies and for the accounting of all outgoings and expenditure of the Church. The Treasurer shall also ensure that the annual accounts or financial statements of the Church are audited.
+(2) Audited statements of accounts for each fiscal year shall be forwarded by the Treasurer to each participating Ekalesia no later than the 31st day of March after the close of the fiscal year or such other period as the General Assembly may determine.

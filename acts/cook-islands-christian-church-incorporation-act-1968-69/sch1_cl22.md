@@ -1,0 +1,9 @@
+# 22 Meetings of Executive Council
+(1) The Chairman of the Executive Council shall be Te Orometua Ngateitei and he shall preside at all meetings of the Council and whenever he is unable to preside at any meeting the Deputy Chairman shall preside and if either is unable to preside then the members present at the meeting shall elect one of their members to be the Chairman for the meeting.
+(2) The Executive Council shall meet at such times and places as the Chairman or Deputy Chairman may determine provided that any two members of the Executive Council may by notice in writing delivered to the Chairman or the Deputy Chairman cause a meeting of the Executive Council to be convened within seven (7) days from the date that the Chairman or the Deputy Chairman received such notice.
+(3) The Executive Council shall meet at least once every month.
+(4) The quorum for any meeting of the Executive Council shall be not less than five (5) members.
+(5) Every decision of the Executive Council shall be decided by a simple majority of the votes cast by the members present at the meeting and the Chairman shall have a deliberative as well as a casting vote in the event of an equality of votes cast at the meeting.
+(6) Every decision of the Executive Council decided by a simple majority of the votes cast at the meeting shall be binding on all the members of the Executive Council whether or not the member voted against the decision or was absent from the meeting at which the decision was made.
+(7) The proceedings and decisions of the Executive Council shall be strictly confidential and no disclosure of any kind whatsoever shall be made by any member of the Executive Council unless the Executive Council so directs in which case the sole official channel for the disclosure shall be the Secretary-General.
+(8) The Executive Council shall determine its own procedure.

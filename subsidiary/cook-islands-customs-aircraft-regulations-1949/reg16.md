@@ -1,0 +1,3 @@
+# 16
+(1) On the arrival at any Customs aerodrome of an aircraft from a place beyond the Cook Islands the fuel and lubricant which are contained in the tanks of the aircraft shall be exempt from Customs and other duties. No quantity, however, may be unloaded free of duty except temporarily and under Customs control.
+(2) On the departure of an aircraft from any Customs aerodrome to a place beyond the Cook Islands the fuel and lubricant intended for refuelling or lubrication of the aircraft shall be exempt from all Customs or other duties, or, alternatively, the duties levied on such fuel and lubricants shall be refunded.

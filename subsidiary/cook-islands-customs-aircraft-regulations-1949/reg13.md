@@ -1,0 +1,4 @@
+# 13
+If any person flies an aircraft in contravention of, or otherwise fails to comply with, these regulations or any provision thereof, or if in or in respect of any aircraft any act is committed in contravention of these regulations or any provision thereof, the owner or hirer of the aircraft (if other than the Crown) and the pilot thereof shall be, deemed to have contravened or, as the case may be, failed to comply with these regulations: Provided that—
+(a) it shall be a defence to any proceedings for such contravention of, or failure to comply with, these regulations if the contravention or failure is proved to have been due to accident, stress of weather, or other unavoidable cause; and
+(b) it shall be a defence to any proceedings under these regulations against the owner, hirer, or pilot of an aircraft to prove that the alleged contravention took place without his actual fault or privity.

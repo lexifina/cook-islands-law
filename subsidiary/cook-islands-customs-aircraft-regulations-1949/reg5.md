@@ -1,0 +1,4 @@
+# 5
+(1) No person in any aircraft entering the Cook Islands shall carry or allow to be carried in the aircraft any goods the importation of which is prohibited under the Customs Acts.
+(2) No person in any aircraft entering the Cook Islands shall break or alter any seal placed by a Customs or Revenue Officer at the aerodrome from which the aircraft departed for the Cook Islands upon any goods therein other than stores for use on the aircraft during the journey to the Cook Islands.
+(3) No person in charge of any aircraft shall cause or permit the aircraft to enter the Cook Islands from a place beyond the Cook Islands if a seal placed by a Customs or Revenue Officer at the aerodrome from which the aircraft departed for the Cook Islands upon any goods therein other than stores for use on the aircraft during the journey to the Cook Islands is broken or altered.

@@ -1,0 +1,3 @@
+## Arrival at Customs aerodrome from abroad
+# 7
+The pilot of an aircraft arriving at a Customs aerodrome from a place beyond the Cook Islands shall, on landing, forthwith take his aircraft to the examination station at that aerodrome: Provided that a pilot shall not be deemed to have contravened or failed to comply with this regulation if he proves that circumstances over which he had no control prevented him from taking his aircraft to the examination station, and that, after the requirements of regulation 8 had been duly complied with by him, all goods carried in the said aircraft were removed to the examining-place at the examination station in the presence of an officer of Customs.

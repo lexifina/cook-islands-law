@@ -1,0 +1,5 @@
+# 6 Insurance to continue from year to year unless terminated
+(1) The period of any insurance under section 5 shall be the period covered by the estimate of wages contained in the statement of wages delivered by the employer to the insurer: Provided that every such period of insurance shall be deemed to be extended until 31 March next after the end of the period and thereafter from year to year: Provided also that every such period or extended period of insurance shall end with whichever of the following dates first occurs, namely:
+(a) the date on which a new period or insurance commences by virtue of the delivery of a further statement of wages by the employer to the insurer:
+(b) the 31 March next after the date on which the employer having ceased to be an employer has delivered to the insurer a statement of wages as required by section 4(5) or 7(5) or has ceased to be an employer for a period of 12 months:
+(c) where a period of not less than one year has elapsed since the end of the period covered by the estimate of wages contained in the last statement of wages delivered by an employer to the insurer.

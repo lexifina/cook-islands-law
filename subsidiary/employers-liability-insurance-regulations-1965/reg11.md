@@ -1,0 +1,6 @@
+# 11 Premiums to be paid by employers
+(1) The amount of any premium to be paid by any employer as assessed by the insurer under the Ordinance shall be paid by the employer to the insurer within 1 month after the date of the assessment.
+(2) If the amount of any premium is not paid by an employer at the time when it becomes payable the employer shall be liable to pay to the insurer forthwith, in addition to the premium, an amount equal to 5% of the premium as a penalty for his default:
+Provided that the insurer may if he thinks fit reduce or remit in whole or in part any penalty so incurred, and may if he thinks fit refund in whole or in part any penalty so paid.
+(3) On payment of the amount of the premium assessed by the insurer, the insurer shall issue his official cash receipt and this together with the assessment shall constitute for the purposes of the Ordinance and all other purposes a certificate of insurance for the period shown on the assessment.
+(4) No employer shall directly or indirectly take or receive any money from any worker in his employment, whether by way of deduction from wages or otherwise in respect of any premiums payable by the employer in respect of the insurance provided by the Ordinance or these regulations.

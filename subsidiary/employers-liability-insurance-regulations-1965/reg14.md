@@ -1,0 +1,5 @@
+# 14 Settlement of claims
+(1) The employer shall sign all such warrants and authorities as the insurer may require for the purpose of enabling the insurer to have the conduct and control of any claim in accordance with section 28(3) of the Ordinance.
+(2) The employer shall render all reasonable assistance to the insurer to enable the insurer to conduct any such proceedings and defend any claims which the insurer decides to defend.
+(3) No employer shall without the consent in writing of the insurer, make any payment, settlement or arrangement in respect of any claim arising from injury to or the death of a worker and no employer shall, without the like consent, make any admission of liability in respect of any claim or allow any claim or allow any action to be undefended or judgment to go by default, by confession, or by consent.
+(4) If any employer fails without reasonable cause to comply with the provisions of this section he shall be liable to pay to the insurer any amounts which have been paid, or may become payable by the insurer in respect of the claim and proceedings concerned.

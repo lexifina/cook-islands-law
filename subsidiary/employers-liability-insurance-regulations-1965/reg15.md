@@ -1,0 +1,2 @@
+# 15 Value of benefits allowed as part of wages
+Where a worker is allowed by his employer free board and lodging or the free use of a house or any other emolument or benefit of whatsoever kind not paid in cash any such allowance shall for the purposes of these regulations be valued at such amount as any statutory authority governing the terms of the employment may have determined should be paid in cash in the absence of the allowance, or, in the absence of any such determination, at such amount as the insurer decides.

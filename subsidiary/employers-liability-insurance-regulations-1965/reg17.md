@@ -1,0 +1,2 @@
+# 17 Notices to the insurer
+Where it is not practicable to give notice as prescribed in these regulations direct to the insurer such notice may be given to any Resident Agent who shall be deemed to be acting for and on behalf of the insurer in receiving such notice. Where anything is required to be in any of the forms in Schedule 1 hereto it shall be sufficient if it is given in a form to the like effect and any of those forms may be modified to suit particular cases or to suit cases for which forms have not been prescribed.

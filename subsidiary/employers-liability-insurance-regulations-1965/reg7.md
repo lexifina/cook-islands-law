@@ -1,0 +1,2 @@
+# 7 Statement of wages to be delivered by employer to insurer at the end of period of insurance
+Where an employer ceases on 31 March in any year to be insured under the Ordinance by the insurer, the employer shall within the month following that date deliver to the insurer a statement of wages showing the amount of wages paid by him during the year ending with that date to all workers in respect of whom he was so insured.

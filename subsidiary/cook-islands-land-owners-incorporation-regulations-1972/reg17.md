@@ -1,0 +1,2 @@
+# 17 Auditor to audit accounts and check register
+The auditor duly appointed to audit the accounts of the body corporate must, as a part of the audit, check and examine the register and the particulars entered therein in accordance with regulations 24 and 25, and must, if he or she deems it necessary, append to his or her report on the annual accounts any comments on the form and contents of the register and on the system of keeping the register.

@@ -1,0 +1,3 @@
+# 24 Adjournment of meeting for absence of quorum or for any other reason, etc
+(1) If at the time and place appointed for such meeting or within 1 hour thereafter, there is not quorum present, or if for any other reason the meeting cannot be held, the meeting stands adjourned from day to day at the same time and place for not longer than 14 days till a quorum is present. If on the expiration of 14 days there has not been a quorum present the meeting lapses.
+(2) Where any annual general meeting lapsed as aforesaid the certified balance sheet and statement hereinbefore referred to must forthwith be transmitted by the chairperson to the Registrar.

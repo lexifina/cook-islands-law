@@ -1,0 +1,2 @@
+# 13 Records
+The books and records of the body corporate and of the committee must be kept in the custody of the chairperson or such other person as the committee may appoint, and must be open to inspection by the owners at the office of the body corporate at all reasonable times. The Court or a Judge thereof may direct that an owner or someone on the owner’s behalf be permitted to take copies of any account or accounts of the committee.

@@ -1,0 +1,2 @@
+# 5 Meeting
+Subject to the provisions of the Act and of these regulations and subject to any conditions imposed by resolution of a general meeting of incorporated owners, the members of a committee of management may meet together for the dispatch of business, adjourn, and otherwise regulate their meetings as they think fit. A quorum is deemed to exist if a majority of the members for the time being in office are present: Provided that in no circumstances may a quorum be less than 3 members.

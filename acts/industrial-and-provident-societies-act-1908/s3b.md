@@ -1,0 +1,5 @@
+# 3B Deputy Registrar of Industrial and Provident Societies
+(1) There may also from time to time be appointed under the Public Service Act 1912 a Deputy Registrar of Industrial and Provident Societies, who shall, under the control of the Registrar, perform such general official duties as he is called upon to perform by the Registrar.
+(2) On the occurrence from any cause of a vacancy in the office of Registrar (whether by reason of death, resignation, or otherwise), and in case of the absence from duty of the Registrar (from whatever cause arising), and so long as any such vacancy or absence continues, the Deputy Registrar shall have and may exercise all the powers, duties, and functions of the Registrar.
+(3) The fact that the Deputy Registrar exercises any power, duty, or function as aforesaid shall be conclusive evidence of his authority to do so, and no person shall be concerned to inquire whether the occasion has arisen requiring or authorising him to do so.
+[Section 3B: inserted, on 16 October 1957, by section 3 of the Industrial and Provident Societies Amendment Act 1957 (1957 No 28) .]

@@ -1,0 +1,4 @@
+# 3C District and Assistant Registrars of Industrial and Provident Societies
+(1) There shall from time to time be appointed under the Public Service Act 1912 as many District Registrars of Industrial and Provident Societies and Assistant Registrars of Industrial and Provident Societies as may be found necessary for the purposes of this Act.
+(2) Subject to the control of the Registrar, every District Registrar shall have and may exercise all the duties and powers of the Registrar. Subject to the control of the Registrar and of the District Registrar, every Assistant Registrar shall have and may exercise all the duties and powers of the Registrar. The fact that a District Registrar or an Assistant Registrar exercises any powers or functions conferred by this Act on the Registrar shall be conclusive evidence of his authority to do so.
+[Section 3C: inserted, on 16 October 1957, by section 4 of the Industrial and Provident Societies Amendment Act 1957 (1957 No 28) .]

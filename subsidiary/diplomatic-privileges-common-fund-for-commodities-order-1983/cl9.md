@@ -1,0 +1,2 @@
+# 9 Exemption from restrictions on importation or exportation of goods for official use
+The Common Fund has exemption from prohibitions and restrictions on importation or exportation in the case of goods directly imported or exported by the Common Fund for its official use and in the case of any publications of the Common Fund directly imported or exported by it, subject to compliance with such conditions as the Minister of Customs may determine for the protection of the public health the prevention of diseases in plants and animals, and otherwise in the public interest.

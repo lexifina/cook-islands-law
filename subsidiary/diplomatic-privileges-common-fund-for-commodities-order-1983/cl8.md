@@ -1,0 +1,2 @@
+# 8 Exemption from taxes on importation of goods
+The Common Fund has exemption from taxes on the importation of goods directly imported by the Common Fund for its official use in the Cook Islands or for exportation, or on the importation of any publications of the Common Fund directly imported by it, subject to compliance with such conditions as the Minister of Customs may determine for the protection of the revenue.

@@ -1,0 +1,6 @@
+# 2 Cook Commemorative Dollar
+(1) Despite anything in regulations 2(a) and 3(a) of the principal regulations, the design for the 1-dollar coin to be known as the Cook Commemorative Dollar, to be made and issued in the year 1969, shall be as follows:
+(a) for the obverse impression the effigy of Her Majesty the Queen in profile wearing a diamond tiara of festoons, scrolls, and collet-spikes with the inscription “Elizabeth II New Zealand” and the date “1969’’:
+(b) for the reverse impression Captain Cook’s chart of New Zealand showing the course of his or her first voyage around New Zealand, with the effigy of Captain Cook in profile to the left of the chart and the date “1769” above the bark Endeavour sailing off Young Nick’s Head to the right of the chart. There shall be above the chart the inscription “Cook’s Chart” and below the chart the inscription “One Dollar”, with a rope pattern around the periphery of the coin:
+(c) the said coin shall be circular and shall have the inscription “Commemorating Cook Bi-centenary 1769-1969” incused in an otherwise plain edge.
+(2) Except as aforesaid, all the provisions of the principal regulations relating to the 1-dollar coin shall apply to the coin referred to in subclause (1).

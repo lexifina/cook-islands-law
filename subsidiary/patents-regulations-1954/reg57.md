@@ -1,0 +1,3 @@
+## Part 10 Refusal of Patent without Opposition
+# 57 Notice to Applicant
+If at any time after the acceptance of a complete specification and before the grant of the patent it comes to the notice of the Commissioner, otherwise than in consequence of proceedings in opposition to the grant, that the invention so far as claimed in any claim of the complete specification has been published in any specification or other document falling within section 22(1) of the Act, the applicant shall be so informed and shall be allowed a period of 2 months within which to submit such amendment of his specification as will be to the Commissioner's satisfaction.

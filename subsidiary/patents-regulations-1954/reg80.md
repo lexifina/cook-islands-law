@@ -1,0 +1,2 @@
+# 80 Advertisement of Application
+The Commissioner shall forthwith advertise an application under regulation 79 hereof in 2 issues of the Journal, and the applicant shall notify registered licensees, and (in the case of an application under section 33 of the Act) the patentee, of the advertisement: Provided that where the supporting evidence is not filed with the application, the second advertisement of the application shall be made after the evidence has been filed.

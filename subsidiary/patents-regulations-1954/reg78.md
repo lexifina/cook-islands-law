@@ -1,0 +1,2 @@
+# 78 Inventions Relating to Defence or Atomic Energy
+Where directions given by the Commissioner under section 25(1) or under section 26(1) of the Act prohibiting the publication of information with respect to an invention forming the subject of an application for a patent have been revoked and a patent is granted on the application, no renewal fees shall be payable in respect of any period which commenced in the period during which the directions were in force.

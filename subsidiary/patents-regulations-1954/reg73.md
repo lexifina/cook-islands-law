@@ -1,0 +1,3 @@
+## Part 14 Renewal Fees
+# 73 When Payable
+A person who desires to keep a patent in force shall file a request in Form 20 before the expiration of the period prescribed in the first column of Schedule 4 hereto and shall pay the renewal fee prescribed in the second column of that Schedule: Provided that, where a patent is sealed after the expiration of the first period or any succeeding period (except in cases mentioned in regulation 78 hereof), a request in Form 28 in respect of the second period and any succeeding period may be filed at any time before the expiration of 4 months from the date of sealing the patent.

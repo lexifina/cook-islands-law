@@ -1,0 +1,3 @@
+# 53 Supply of Documents, etc, for Use of Commissioner
+(1) Copies of all documents, other than New Zealand specifications, referred to in the notice of opposition or any statement or evidence filed in connection with the opposition, authenticated to the satisfaction of the Commissioner, shall be furnished (in duplicate) for the Commissioner’s use, unless he otherwise directs.
+(2) Where a specification or other document in a foreign language is referred to, a translation thereof, verified by statutory declaration or otherwise to the satisfaction of the Commissioner and 2 copies of the translation, shall also be furnished.

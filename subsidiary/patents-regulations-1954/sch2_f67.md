@@ -1,0 +1,9 @@
+# Form No 67 Application for Entry in the Register of Patents of Claim to be Deemed a Licensee
+Patents Act 1953
+I (or We), [State name, address, and nationality], hereby apply that you will enter my (or our) claim to be deemed to have acted with the licence of the patentee (exclusive licensee) in accordance with the conditions in the enter dated ................ extending the term of patent No. ................
+Evidence in support of my (or our) claim accompanies this application.
+My (or Our) address for service in New Zealand is................
+Signature: ................
+To the Commissioner,
+The Patent Office,
+Wellington CI

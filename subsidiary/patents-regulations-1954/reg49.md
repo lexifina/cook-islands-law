@@ -1,0 +1,2 @@
+# 49 Counterstatement
+If the applicant desires to proceed with his application he shall, within 2 months of the receipt by him of the copies specified in regulation 48 hereof, file a counterstatement setting out fully the grounds upon which the opposition is contested and deliver to the opponent a copy thereof. If the applicant does not file a counterstatement within the time allowed, he shall be deemed to have abandoned his application.

@@ -1,0 +1,5 @@
+# 34 Descriptive Matter
+(1) No descriptive matter shall appear on constructional drawings, but drawings in the nature of flow sheets may bear descriptive matter to show the materials used and the chemical or other reactions or treatments effected in carrying out the invention.
+(2) Drawings showing a number of instruments or units of apparatus and their inter-connections, either mechanical or electrical, where each such instrument or unit is shown only symbolically, may bear such descriptive matter as is necessary to identify the instruments or units or their inter-connections.
+(3) Such descriptive matter shall be in absolutely black ink, and the letters shall not be less than one-quarter of an inch in height.
+(4) No drawing or sketch, other than a graphic chemical formula or a mathematical formula, symbol, or equation, shall appear in the verbal part of the specification, and if such a formula, symbol, or equation is used therein a copy thereof, prepared in the same manner as drawings, shall be furnished if the Commissioner so directs.

@@ -1,0 +1,3 @@
+# 23 Date of Divisional Application
+(1) Where an applicant has made an application for a patent and before the acceptance of the complete specification makes a fresh application for a patent for matter included in the first mentioned application or in any specification filed in pursuance thereof shall be ante-dated to a date not earlier than the date of filling of the first mentioned application or specification if the applicant includes in the fresh application a request to that effect.
+(2) The Commissioner may require such amendment of the complete specification filed in pursuance of either of the said applications as may be necessary to ensure that neither of the said complete specifications includes a claim for matter claimed in the other.

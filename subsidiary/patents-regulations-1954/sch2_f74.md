@@ -1,0 +1,9 @@
+# Form No 74 Summons to Witness
+Patents Act 1953
+In the matter of ................
+To [State name, address, and occupation].
+IN pursuance of the powers conferred upon me by section 96 of the Patents Act 1953 and by the regulations in force thereunder, I hereby require you to attend before me at ................, on ................, the................ day of ................, 19................at................o’clock of the ................noon, to give evidence on behalf of ................in the above-mentioned proceedings (and then and there to have and procedure [State any particular documents required], and all other books, deeds, papers, or other writings in your possession or under your control relating to the said proceeding.)* If you fail to comply with the provisions of this summons you are liable to a fine of £20.
+Given under my hand at ................, this ................day of................ 19................
+................
+Commissioner of Patents.
+*Delete if not applicable.

@@ -1,0 +1,2 @@
+# 15 Revocation of Agent's Authority
+An authorisation of an agent may be revoked at any stage in the proceedings, and an agent may withdraw, on giving notice to the Commissioner; and when any such authorisation is so revoked, or the agent has withdrawn, the Patent Office shall communicate directly with the applicant or with such other agent as he may appoint. The Commissioner shall notify an agent of the revocation of his authority or the applicant of the withdrawal of his agent.

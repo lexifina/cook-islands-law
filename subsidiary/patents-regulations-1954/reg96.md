@@ -1,0 +1,3 @@
+# 96 Preliminary Consideration by Commissioner
+(1) If upon consideration of the evidence the Commissioner is not satisfied that a prima facie case for an order under section 37 of the Act has been made out, he shall notify the applicant accordingly; and unless within 1 month from the notification the applicant requests to be heard in the matter, the Commissioner shall refuse the application.
+(2) If the applicant requests a hearing within the time allowed, the Commissioner after giving the applicant an opportunity of being heard, shall determine whether the application may proceed to advertisement or whether it shall be refused.

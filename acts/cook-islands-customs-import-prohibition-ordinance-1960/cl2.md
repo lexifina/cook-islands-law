@@ -1,0 +1,5 @@
+# 2 Importation and sale of medicinal preparations containing camphor prohibited
+(1) No person other than the Chief Medical Officer shall import into the Cook Islands or receive or hold for sale or sell or supply to any other person or cause to be sold or supplied to any other person, any medicinal preparation containing camphor.
+(2) For the purpose of this section medicinal preparation shall include any preparation or mixture intended for internal use or for both internal or external use.
+(3) Notice shall be given from time to time in the Cook Islands Gazette of the trade names or brands of all medicinal preparations the importation and sale of which by persons other than the Chief Medical Officer is prohibited under this Ordinance.
+(4) At any time after such notification any Medical Officer or Officer of Customs or Police may seize any medicinal preparation the importation or sale of which is prohibited by this section and any such preparation shall thereupon become the property of the Crown and shall be destroyed or otherwise disposed of as the Chief Medical Officer may direct.

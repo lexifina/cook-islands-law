@@ -1,0 +1,2 @@
+# 5 Report of Inquiry
+The Commission shall first publish or otherwise disclose the contents of any report made by it, to His Excellency the Queen’s Representative not later than 6 months from the coming into force of this Order, and expeditiously thereafter to Cabinet and Parliament. The Commission shall make available to the public all of its reports on the 14th day after the date of submission of its report to His Excellency the Queen’s Representative.

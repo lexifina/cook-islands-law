@@ -1,0 +1,8 @@
+# 5B Other assets of the Crown may vest in Corporation
+(1) The Queen's Representative may by Order in Executive Council and on behalf of the Crown or the legal owner for such consideration and on terms and conditions as may be set out in the Order, transfer or assign to the Corporation either in part or in whole any assets and liabilities of the Crown for the purposes of enabling the administration and management or disposal of those assets and liabilities in accordance with the provisions of this Act.
+(2) Assets that are fixed to, or are under or over, any land may be transferred or assigned pursuant to this section whether or not any interest in the land is also transferred or assigned. Where any such asset is so transferred or assigned, the asset and the land must be regarded as separate assets each capable of separate ownership.
+(3) Any asset or liability of the Crown may be transferred or assigned pursuant to this section whether or not any Act or agreement relating to the asset or liability permits such transfer or assignment or requires any consent to such a transfer or assignment; and—
+(a) the transfer or assignment does not entitle any person to terminate, alter, or in any way affect the rights or liabilities of the Crown, or the Corporation under any Act or agreement:
+(b) any satisfaction or performance by the Corporation in respect of the asset or liability is deemed to be also satisfaction or performance by the Crown:
+(c) any satisfaction or performance in respect of the asset or liability by any third party to the benefit of the Corporation is deemed to be also to the benefit of the Crown.
+[Section 5B: inserted, on 25 March 1999, by section 6 of the Cook Islands Government Property Corporation Amendment Act 1999 (1999 No 13) .]

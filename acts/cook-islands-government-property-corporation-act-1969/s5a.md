@@ -1,0 +1,3 @@
+# 5A Other property of Corporation
+On the passing of this Act and despite the Housing Corporation (Abolition) Act 1997 every estate or interest in real property together with all loans made whether fully or partly drawn and liabilities resulting therefrom and every security given for those loans of the Housing Corporation shall without conveyance, transfer or assignment vest in and become assets of the Corporation subject to all liabilities, charges, obligations and trusts affecting those assets immediately before the passing of this Act.
+[Section 5A: inserted, on 25 March 1999, by section 6 of the Cook Islands Government Property Corporation Amendment Act 1999 (1999 No 13) .]

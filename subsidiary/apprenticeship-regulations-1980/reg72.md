@@ -1,0 +1,3 @@
+## Part 14 Deduction by employer
+# 72 Deduction for sickness, accident or default
+An employer is entitled to make a rateable deduction from the wages of an apprentice for any time lost through sickness in excess of 40 hours in any 1,000 hour period, or for any time lost through his or her own default. Accidents not arising out of and in the course of the employment are deemed as sickness, and the provisions of the Apprenticeship Order relating to the payment of an deductions from wages and making up time in case of sickness also apply. The employer may require the production of a medical certificate before payment is made for time lost through sickness or accident.

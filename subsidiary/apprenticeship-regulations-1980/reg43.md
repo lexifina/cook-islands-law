@@ -1,0 +1,6 @@
+# 43 Termination of contract
+(1) Prior to the termination of any contract of apprenticeship notification must be given by the employer to the Council on Form 8 of the Schedule.
+(2) During the period or probation prescribed by any contract of apprenticeship the contract may be cancelled at any time by the employer, or by the apprentice where the apprentice has attained the age of 21 years or by the apprentice and his or her parent or guardian where the apprentice is under the age of 21 years.
+(3) If the termination of the contract is by agreement of the parties the consent of all parties, including the parent or guardian (if any) of the apprentice, must be endorsed on the notice.
+(4) After 28 days from receipt of the notification under subclause (3), the Administrator must cancel the registration of the contract by endorsing a note of the termination thereof on his or her copy. The employer must provide a statement of service on Form 9 of the Schedule and the Administrator must, upon receiving the statement issue the statement to the apprentice and notify all parties concerned of the cancellation.
+(5) If the Council is satisfied, that a contract of apprenticeship has come to an end by the death of 1 of the parties it may endorse on its copy a note of the fact and if it is satisfied of the date of death, may state that date in the endorsement.

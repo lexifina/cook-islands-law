@@ -1,0 +1,2 @@
+# 28 Powers of subcommittee
+Subcommittees set up for the purpose of inspection of training facilities, the training of apprentices and the ability of employers to train apprentices, has the powers as set out in section 9 of the Act provided that the subcommittee must not exercise any such power except by a unanimous decision of the members of the subcommittee unless the relevant full Panel resolves otherwise.

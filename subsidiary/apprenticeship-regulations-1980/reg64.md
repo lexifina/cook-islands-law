@@ -1,0 +1,2 @@
+# 64 Competency testing authority and test preparation
+Subject to the provisions of the Apprenticeship Orders the Council may set up a Competency Testing Committee from the appropriate Panel of Trade Advisers to prescribe the necessary test prescriptions, prepare tests, carry out the grading of results and to implement any other requirements as may be required by the Council relating to this regulation.

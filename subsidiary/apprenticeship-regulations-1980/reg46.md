@@ -1,0 +1,3 @@
+# 46 Cancellation of contract through misconduct
+(1) In any case where an apprentice so misconducts himself or herself or proves so incapable that if the apprentice were an employee other than an apprentice it would be reasonable for the employer to discharge the apprentice the employer may apply to the Council for cancellation of contract or to withhold an increment in wages due to the apprentice pursuant to section 16(a)(ii) together with section 20 of the Act.
+(2) Every such application to the Council must be made within 3 days of the situation arising and when such application is made the employer may withhold any wages accruing to, the apprentice from the date of application on Form 8 of the Schedule.

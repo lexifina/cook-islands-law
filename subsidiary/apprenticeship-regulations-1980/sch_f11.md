@@ -1,0 +1,23 @@
+# Form 11 Application by an Apprentice for transfer to another employer reg 44(2)
+Apprenticeship Act 1978-79 section 17
+To the Apprenticeship Council,
+Department of Education, RAROTONGA.
+I, ................
+(Full name and address)
+an Apprentice under a contract of Apprenticeship with ................ ................ at ................ , do hereby make application for my transfer from my present employer to ................ of ................ another employer in the same Trade/Branch and locality, who is willing and able to undertake the obligations of my present employer under the said contract, upon the grounds that:
+Dated at this day of 20
+................
+Signature of Apprentice
+I ................ the parent (or guardian) of the above named Apprentice,
+(Full name and address)
+join in the above-written application for transfer
+................
+................
+Signature of parent/guardian
+of Apprentice
+I ................
+(Full name and address)
+the proposed employer above mentioned, do hereby agree to accept the above named Apprentice in accordance with his or her contract of Apprenticeship with ................
+Dated at this day of 20
+................
+(Signature of Employer)

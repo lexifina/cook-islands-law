@@ -1,0 +1,4 @@
+# 47 Council consideration of misconduct case or incapability
+(1) The Council or the committee delegated authority by the Council, must consider the application after giving the employer, the apprentice, and his or her parent or guardian (if any) an opportunity to be heard, and may grant or refuse leave to discharge the apprentice.
+(2) Where any such leave is granted the employer is entitled to discharge the apprentice as from the date of the application, and in any such case the contract of apprenticeship is deemed to be cancelled.
+(3) Where such leave is refused the Council may make such order as it thinks fit with respect to payment of wages to the apprentice. If no such order is made the employer must pay to the apprentice all wages that would have been payable to the apprentice if payment had not been withheld.

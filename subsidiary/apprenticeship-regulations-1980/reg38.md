@@ -1,0 +1,4 @@
+# 38 Registration of contracts
+(1) No contract of apprenticeship to which the Act applies and which is entered into after the commencement of these regulations has any validity unless it has been consented to as required by the foregoing provisions of this regulation and has been duly registered.
+(2) Every contract of apprenticeship and every alteration thereto must be executed in triplicate and lodged with the Council for registration. One copy must be returned the employer, 1 to the apprentice or as the case may require, his or her parent or guardian, and 1 retained by the Council.
+(3) The parties to any contract to which this Act applies must within 28 days after the commencement of the employment of the apprentice or the making of an alteration, as the case may be, submit, the contract or the alteration to the Council.

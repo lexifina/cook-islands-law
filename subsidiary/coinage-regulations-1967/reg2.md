@@ -1,0 +1,10 @@
+# 2 Design of coins
+The designs for the following coins mentioned in the Schedule to the Decimal Currency Act 1964 shall be as follows:
+(a) 1 dollar: Every 1-dollar coin shall have for the obverse impression the effigy of Her Majesty the Queen in profile wearing a diamond tiara of festoons, scrolls, and collet-spikes, with the inscription “Elizabeth II New Zealand” and the date of the year, and for the reverse impression the Ensigns armorial of New Zealand on their shield surmounted by the Royal Crown surrounded by 2 fern fronds and with the words “One Dollar” underneath the shield. There shall be a wave pattern around the periphery of the coin.
+(b) 50 cents: Every 50-cents coin shall have the same obverse impression and inscription as the 1-dollar coin, and for the reverse impression Captain Cook’s bark Endeavour sailing South with Mount Egmont in the distance below the figure “50”:
+(c) 20 cents: Every 20-cents coin shall have the same obverse impression and inscription as the 1-dollar coin, and for the reverse impression a kiwi facing right with a fern bush in the background and the figure “20”:
+(d) 10 cents (one shilling): Every 10-cents (1 shilling) coin shall have the same obverse impression and inscription as the 1-dollar coin, and for the reverse impression a Maori carved head or koruru under the figure “10” with Maori rafter patterns:
+(e) 5 cents: Every 5-cents coin shall have the same obverse impression and inscription as the 1-dollar coin, and for the reverse impression a tuatara curled on a coastal rock on which is superimposed the figure “5”:
+(f) 2 cents: Every 2-cents coin shall have the same obverse impression and inscription as the 1-dollar coin, and for the reverse impression 2 golden kowhai flowers and leaves surrounding the figure “2”:
+(g) 1 cent: Every 1-cent coin shall have the same obverse impression and inscription as the 1-dollar coin, and for the reverse impression a stylized fern leaf enclosing the figure “1”.
+[Regulation 2(d): amended, on 12 March 1970, by regulation 4 of the Coinage Regulations 1967 Amendment No 2 1970 (SN 1970) .]

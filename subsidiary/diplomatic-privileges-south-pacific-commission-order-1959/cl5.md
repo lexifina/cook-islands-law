@@ -1,0 +1,2 @@
+# 5
+The Commission shall have the like inviolability of official premises and official archives as is accorded in respect of the official premises and official archives of a foreign envoy: Provided that the Commission shall not allow its premises to serve as a refuge for any person not entitled to immunity under this order against whom legal process has been issued by the competent New Zealand authorities.

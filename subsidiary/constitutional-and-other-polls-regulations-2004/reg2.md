@@ -1,0 +1,2 @@
+# 2 Forms
+The form to be used at a poll required by Article 37(7)(b)(ii) and (iii) of the Constitution for the purposes of ascertaining whether a two-thirds majority of persons entitled to vote as electors at the general elections to be held in September 2004, support the Constitution Amendment (No 27) Bill which proposes that the term of Parliament provided for in Article 37(5) of the Constitution be reduced from 5 years to 4 years, shall be as set out in the Schedule to these regulations.

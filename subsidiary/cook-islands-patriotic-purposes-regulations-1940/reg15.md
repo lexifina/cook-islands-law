@@ -1,0 +1,2 @@
+# 15
+The Patriotic Fund raised in any island shall be vested in Rarotonga jointly in the Resident Commissioner for the time being and the Treasurer of the Cook Islands for the time being, and in any other island in the Resident Agent for the time being, and shall be invested, applied, and disposed of by the persons or person in whom the same is vested as the Patriotic Committee may from time to time by resolution direct.

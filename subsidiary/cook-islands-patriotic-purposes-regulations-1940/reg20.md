@@ -1,0 +1,2 @@
+# 20
+No Court, bank, or other person shall be concerned to inquire whether any suit or action or any proceeding therein or any investment, application, or disposal of Patriotic Funds or any negotiable instrument or other document of the persons or person in whom a Patriotic Fund is vested, signed, or made for the purpose of any of the matters aforesaid has been duly directed by a Patriotic Committee or not.

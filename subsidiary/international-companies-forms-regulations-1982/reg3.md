@@ -1,0 +1,2 @@
+# 3 Forms in Schedule to be used
+Where a provision of the Act or of these regulations is specified in column 1 of Schedule 1, the form set out in Schedule 2, the number of which is specified in column 3 of Schedule 1 opposite to that provision, is prescribed as the form to be used for the purposes of that provision in relation to the matter or thing described in column 2 of Schedule 1 opposite to that provision.

@@ -1,0 +1,5 @@
+title.md
+loci_ca86_cr67-1987-no23_reg1.md
+loci_ca86_cr67-1987-no23_reg2.md
+loci_ca86_cr67-1987-no23_reg3.md
+loci_ca86_cr67-1987-no23_reg4.md

@@ -1,0 +1,3 @@
+# 3 Community Service Order
+(1) Every order for community service made under section 8 or 9 of the Criminal Justice Amendment Act 1976 must be sent to the Controller of the Community Service Group, and a signed copy of the order must be handed to the defendant on the making thereof or, where this is not practicable, must afterwards be served on him or her by being delivered to him or her personally or by being brought to his or her notice if he or she refuses to accept it.
+(2) A copy of every order for community service made under section 9 of the Criminal Justice Amendment Act 1976 must be forwarded to to Registrar of the Court in which any additional fine taken into account in the order was imposed.

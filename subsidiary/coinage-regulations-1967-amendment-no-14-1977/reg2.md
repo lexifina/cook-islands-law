@@ -1,0 +1,2 @@
+# 2 New design for 5-dollar coin
+The design for the 5-dollar coin made and issued bearing the year 1977 shall be as prescribed by regulation 6 of the Coinage Regulations 1967, Amendment No 11 except that the reverse impression shall be as follows: 5 Atiu Swiftlets (collocalia sawtelli) in flight with fully spread wings moving towards the lower left with 15 stars encircling the outer design edge and at the bottom the denomination “five dollars”.

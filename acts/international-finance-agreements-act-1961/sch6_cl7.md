@@ -1,0 +1,2 @@
+# 7 Limitation on Period for Acceptance of Membership
+New Zealand may accept membership in the Corporation pursuant to this Resolution until January 19, 1962, provided, however, that, if extraordinary circumstances are deemed by the Board of Directors to warrant an extension of the period during which New Zealand may accept membership pursuant to this Resolution, the Board of Directors may extend such period.

@@ -1,0 +1,2 @@
+# 7 Limitation on Period for Acceptance of Membership
+New Zealand may accept membership in the Bank pursuant to this Resolution until January 19, 1962, provided, however, that, if extraordinary circumstances are deemed by the Executive Directors to warrant an extension of the period during which New Zealand may accept membership pursuant to this Resolution, the Executive Directors may extend such period.

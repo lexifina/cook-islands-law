@@ -1,0 +1,2 @@
+# 3
+When seven persons are not elected on the first ballot, a second ballot shall be held in which the person who received the lowest number of votes shall be ineligible for election and in which there shall vote only (a) those Governors who voted in the first ballot for a person not elected and (b) those Governors whose votes for a person elected are deemed under 4 below to have raised the votes cast for that person above 15 per cent of the eligible votes.

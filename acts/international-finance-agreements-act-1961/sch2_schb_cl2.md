@@ -1,0 +1,2 @@
+# 2
+In balloting for the elective Executive Directors, each Governor eligible to vote shall cast for one person all of the votes to which the member appointing him is entitled under section 3 of Article V. The seven persons receiving the greatest number of votes shall be Executive Directors, except that no person who receives less than 14 per cent of the total of the votes which can be cast (eligible votes) shall be considered elected.

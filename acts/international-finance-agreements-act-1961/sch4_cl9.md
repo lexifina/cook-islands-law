@@ -1,0 +1,2 @@
+# 9 Limitation on Period for Acceptance of Membership
+New Zealand may accept membership in the Fund pursuant to this Resolution within six months of the effective date of this Resolution, which date shall be the date of its adoption by the Board of Governors; provided, however, that, if extraordinary circumstances are deemed by the Executive Directors to warrant an extension of the period during which the applicant may accept membership pursuant to this Resolution, the Executive Directors may extend such period until such later date as they may determine.

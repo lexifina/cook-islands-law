@@ -1,0 +1,2 @@
+# 2 Fifty-dollar coin
+The design for the 50-dollar coin shall be for the obverse impression the effigy of Her Majesty the Queen in profile wearing a diamond tiara on festoons, scrolls, and collet-spikes, with the inscription “Elizabeth II Cook Islands” encircling the top and below the date of the year, and for the reverse impression a 3-quarter profile of Sir Winston Churchill to the right with a view of Parliament in the left background and the words encircling at top “1874 Man of the Century 1974” and the denomination at the bottom.

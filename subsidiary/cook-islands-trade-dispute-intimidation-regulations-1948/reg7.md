@@ -1,0 +1,2 @@
+# 7
+Every person who makes any gift of money or other valuable thing to or for the benefit of any other person who is a party to any unlawful lockout or unlawful strike, or to or for the benefit of any registered union or other society or association of which any such other person is a member, shall be deemed to have aided or abetted the lockout or strike within the meaning of the last preceding regulation unless he proves that he so acted without the intent of aiding or abetting the lockout or strike.

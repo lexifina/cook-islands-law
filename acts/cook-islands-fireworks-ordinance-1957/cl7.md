@@ -1,0 +1,2 @@
+# 7 Police may be authorised to enter, search and if necessary seize
+Any officer under of Police, on being authorised so to do by warrant under the hand of a Judge or Commissioner or Registrar of the High Court, may, by force if need be, enter and search any land or buildings in or upon which he has reasonable cause to believe that there are any fireworks in respect of which a breach of this Ordinance has been committed, and any such fireworks found on such land or buildings shall be seized.

@@ -1,0 +1,2 @@
+# 2
+It is hereby declared that the emergency force raised under Part 1 of the Emergency Forces Act 1950, is serving together and acting in combination with every part of the military forces, other than the military forces of His Majesty raised in New Zealand, to which section 6 of the Visiting Forces Act 1939, applies, and with which the said emergency force is serving from time to time in support of United Nations action in Korea.

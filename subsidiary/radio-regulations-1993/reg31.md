@@ -1,0 +1,3 @@
+# 31 Re-examination
+(1) Where the Minister considers that it is desirable in the public interest to do so, the Minister may require any person to whom any class of certificate under these regulations has been issued, to submit himself or herself for re-examination in any or all of the subjects required for examination for the class of certificate concerned.
+(2) Where any person fails to submit himself or herself for re-examination in accordance with this regulation when so required by the Minister, or fails to qualify at the re-examination, the certificate or authorisation issued to that person may be suspended or revoked such period the Minister, in the Minister’s discretion, determines.

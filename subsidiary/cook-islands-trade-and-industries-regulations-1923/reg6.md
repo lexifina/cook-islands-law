@@ -1,0 +1,2 @@
+# 6
+The publication of any such matter by the Resident Commissioner and the republication by any other person of any matter published by the Resident Commissioner, or of any part of such matter, shall be absolutely privileged, and the matter so published or republished shall be a lawful subject of comment within the meaning of the law of defamation, and no action shall be brought by any person for the publication or republication of such matter whether on the ground of defamation or otherwise.

@@ -1,0 +1,2 @@
+# 5
+So far as such publication is deemed by the Resident Commissioner to be expedient in the public interest, it shall be lawful for him from time to time to publish, in such manner as he thinks fit, any information obtained by him in the course of any investigation under these regulations, and any report, findings, recommendations, or comments made with respect thereto by the Resident Commissioner.

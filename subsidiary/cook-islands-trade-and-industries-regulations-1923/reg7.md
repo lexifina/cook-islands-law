@@ -1,0 +1,2 @@
+# 7
+The liability of any employer or principal to any fine for offences against these regulations committed by a servant or agent in the course of his employment shall be determined by the same principles as those which determine the liability of that employer or principal for civil injuries done by that servant or agent, and such offence shall be deemed to have been committed by the principal or employer accordingly.

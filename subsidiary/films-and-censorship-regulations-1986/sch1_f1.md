@@ -1,0 +1,7 @@
+## Schedule 1
+# Form 1 Application for renter’s licence reg 2
+NAME OF APPLICANT: POSTAL ADDRESS: ADDRESS OF PREMISES FROM
+WHICH FILMS TO BE RENTED:
+(Signed)
+(date)
+APPROVED/DECLINED

@@ -1,0 +1,2 @@
+# 13 Witnesses’ fees and allowances
+Except as provided by regulation 12, any witness (including a medical witness) and any interpreter who attends at the instance of the police to give evidence at an inquest or to whom the coroner authorises payment may be paid fees, allowances, and expenses in accordance with the Code of Civil Procedure of the High Court, and the provisions of those regulations apply accordingly as if references therein to the court were references to a coroner.

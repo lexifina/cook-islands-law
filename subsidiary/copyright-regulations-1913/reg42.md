@@ -1,0 +1,2 @@
+# 42
+The adhesive label supplied as aforesaid shall be an adhesive paper label, square in shape, the design to be entirely enclosed within a circle, and the side of the label not to be greater than 3/4 inches in length. The label shall not be in a form which resembles any postage-stamp, nor bear the effigy of the Sovereign or any other person, nor any word, mark, or design such as to suggest that the label is issued by or under the authority of the Government for the purpose of denoting any duty payable to such Government.

@@ -1,0 +1,3 @@
+# 38
+(1) Unless otherwise agreed royalties shall be payable by means of adhesive labels purchased from the owner of the copyright and affixed to the copies of the work.
+(2) After the person reproducing the work has given the prescribed notice of his intention to reproduce the work the owner of the copyright shall, by writing sent by registered post, intimate to him some reasonably convenient place within New Zealand from which adhesive labels can be obtained, and on demand in writing and tender of the price shall supply from such place adhesive labels of the required denominations at a price equal to the amount of royalty represented thereby.

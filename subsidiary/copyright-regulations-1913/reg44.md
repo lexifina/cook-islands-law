@@ -1,0 +1,3 @@
+# 44
+(1) Unless otherwise agreed royalties shall be payable by means of adhesive labels purchased from the owner of the copyright and affixed in the manner provided by this part of these regulations.
+(2) After the person making the contrivances has given the prescribed notice of his intention to make or sell the contrivances the owner of the copyright shall by writing, sent by registered post, intimate to him some reasonably convenient place within New Zealand from which adhesive labels can be obtained, and on demand in writing and tender of the price shall supply from such place adhesive labels of the required denominations at a price equal to the amount of royalty represented thereby.

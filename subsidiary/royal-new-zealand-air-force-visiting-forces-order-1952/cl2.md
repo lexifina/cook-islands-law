@@ -1,0 +1,2 @@
+# 2
+It is hereby declared that the portion of the Royal New Zealand Air Force that is for the time being serving as part of the Middle East Air Force, Royal Air Force, is serving together and acting in combination with the portions of the air forces of Her Majesty to which section 6 of the Visiting Forces Act 1939 applies and with which the said portion of the Royal New Zealand Air Force is for the time being serving as part of the said Middle East Air Force.

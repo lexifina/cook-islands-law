@@ -1,0 +1,2 @@
+# 6
+On the registration of an overseas maintenance order (other than an overseas provisional order) or on the confirmation of an overseas provisional order the High Court shall, on the registration or confirmation, and unless satisfied that it is undesirable to do so, direct, pursuant to section 561 of the Act, that all payments due under such order shall thereafter be made through the Registrar of the High Court or such other person as the Court may specify for the purpose.

@@ -1,0 +1,2 @@
+# 24
+An order made under regulation 23 shall be termed a Cook Islands provisional order, and shall be provisional only, and shall have no effect unless and until confirmed by a competent overseas Court, and shall contain words to the following effect: “This order is provisional only and shall have no effect unless and until confirmed by a competent Court in the country where the defendant is for the time being resident”.

@@ -1,0 +1,2 @@
+# 21
+An overseas provisional order confirmed as aforesaid shall, from the date of confirmation, be of the same force and effect, and all proceedings may be taken thereon by an officer of the Government or any other person in the same manner (subject to the next succeeding clause hereof), as if it had been a maintenance order made by the High Court under the authority of the Act, and as if the High Court had jurisdiction to make an order in the terms thereof.

@@ -1,0 +1,2 @@
+# 8
+It shall be presumed, until the contrary is proved, that the Court purporting to make any overseas maintenance order had full power and jurisdiction to make such order in the terms in which it purports to be made, including jurisdiction over any person against whom it is made or whom it purports to bind so far as such jurisdiction appears to be exercised, whether provisionally or otherwise, by the terms of the order.

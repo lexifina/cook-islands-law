@@ -1,0 +1,2 @@
+# 13
+An overseas maintenance order (other than an overseas provisional order) when registered as aforesaid shall, from the date of registration, be of the same force and effect and all proceedings may be taken thereon, including proceedings by reason of any default arising after the date when the order was originally made, but prior to the date of registration, in the same manner as if it had been a maintenance order made by the High Court under the authority of the Act and as if the High Court had jurisdiction to make an order in the terms thereof.

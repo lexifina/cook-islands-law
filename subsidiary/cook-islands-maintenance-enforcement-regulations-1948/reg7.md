@@ -1,0 +1,2 @@
+# 7
+It shall be presumed, until the contrary is proved, and without the necessity of proving any seal or signature, that the seal of any Court purporting to be affixed to any document is the seal thereof and was lawfully affixed thereto, and that the signature appearing on any document and purporting to be that of a Judge or officer of any Court is the signature of such Judge or officer, and that such Judge or officer had the judicial or official capacity which he purports to have, and that such document was lawfully and properly signed by the person purporting to sign it.

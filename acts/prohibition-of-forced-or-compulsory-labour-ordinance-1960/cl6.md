@@ -1,0 +1,3 @@
+# 6 Penalty
+(1) Any person who acts in contravention of the provisions of this Ordinance commits an offence and shall be liable to a fine not exceeding 100 pounds or to imprisonment for a term not exceeding 1 year.
+(2) Where an offence under this Ordinance committed by a body corporate is proved to have been committed with the consent or connivance of any director, manager, secretary, or any other officer of the body corporate, or any person purporting to act in such capacity, he, as well as the body corporate shall be deemed to be guilty of an offence and shall be liable to be proceeded against and punished accordingly.

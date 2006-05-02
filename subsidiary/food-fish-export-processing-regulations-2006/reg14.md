@@ -1,0 +1,3 @@
+# 14 Withdrawal of inspection
+(1) Where the Secretary considers that conditions or procedures existing in any fish premises are contrary to any requirements, the Secretary may, after notifying the licensee in writing of the reasons for that opinion, withdraw inspection services from the fish premises, or part thereof, as the case may require, until such time as the Secretary is satisfied that those requirements are being fulfilled in that case.
+(2) If inspection is withdrawn from fish premises, or part thereof, under subclause (1), then, until notification from the Secretary to the licensee that inspection services have recommenced, no person may process, pack, or certify fish or fish products in or from those fish premises.

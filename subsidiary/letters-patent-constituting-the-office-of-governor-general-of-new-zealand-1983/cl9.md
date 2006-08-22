@@ -1,0 +1,3 @@
+# 9 Quorum of Executive Council
+The Executive Council shall not proceed to the despatch of business unless two members at the least (exclusive of any member presiding in the absence of Our Governor-General) be present throughout the whole of the meeting at which any such business is despatched, except that in a situation of urgency or emergency, members may be present by any method of communication that allows each member to participate effectively during the whole of the meeting.
+[Clause 9: amended, on 22 August 2006, by clause 2 of the Letters Patent (2006) Amending Letters Patent Constituting the Office of Governor-General of New Zealand .]

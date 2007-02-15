@@ -1,0 +1,2 @@
+# Schedule 1 Land
+All that parcel of land containing 2,236 m2 more or less situated on the island of Rarotonga and being Part of the land named by the High Court (Land Division) as Nukupure Part Section 3E, Ngatangiia. Rarotonga and being Part of the land contained in a Partition Order made by the said Court on 14 June 1983, which parcel of land is more particularly delineated and described in the plans deposited in the office of the Chief Surveyor at Rarotonga under No. RO 469 and 593.

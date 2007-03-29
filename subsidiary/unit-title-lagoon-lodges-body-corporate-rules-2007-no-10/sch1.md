@@ -1,0 +1,2 @@
+# Schedule 1 Land
+All that parcel of land containing 813 m2 more or less situated on the island of Rarotonga and being Part of the land named by the High Court (Land Division) as Onemaru Section 83E1B2, Lot 10, Arorangi, Rarotonga and being Part of the land contained in a Partition Order made by the said Court on 20 May 1975, which parcel of land is more particularly delineated and described in the plan deposited in the office of the Chief Surveyor at Rarotonga under No. L2816.

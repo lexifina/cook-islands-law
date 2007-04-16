@@ -1,0 +1,3 @@
+# 8 Special resolutions
+8.1 For the purposes of these Rules, a special resolution means , a resolution proposed at a general meeting of the Body Corporate of which at least 14 days notice specifying the intention to propose the resolution as a special resolution has been given.
+8.2 Where a resolution is proposed, as a special resolution, the vote of the meeting shall be taken in the same manner as if it had been proposed as an ordinary resolution and a poll had been demanded provided that a special resolution shall be deemed not to be carried unless persons entitled to exercise not less than 3 quarters of the number of votes exercisable in respect of all of the Units vote in favour of such special resolution.

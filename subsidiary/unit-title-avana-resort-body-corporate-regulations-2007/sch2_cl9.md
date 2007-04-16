@@ -1,0 +1,6 @@
+# 9 Resolution by way of entry in the minute book
+9.1 Anything that may be done in accordance with these Rules may be done by resolution passed Without a meeting or any previous notices having been given, by means of an entry in the minute book signed by all the Proprietors or their duly appointed proxies having the right to vote in that resolution and comprising the Proprietors for the time being of all the Units.
+9.2 It shall not be necessary for the Body Corporate to hold an Annual General Meeting or an Extraordinary General Meeting if everything required to be done at that meeting within the time prescribed for the holding of that meeting is done by means of an entry in. the minute book signed in accordance with this Rule.
+9.3 A memorandum pasted or permanently affixed in the minute book and signed by members of the Body Corporate may be deemed to be an entry accordingly.
+9.4 An entry may be signed on behalf of a Proprietor by an agent duly authorised in writing by that Proprietor.
+9.5 Any such resolution by entry in the minute book may consist of several separate documents in the like form each signed by one or more Proprietors provided that all Proprietors sign one or other of such separate counterpart documents.

@@ -1,0 +1,5 @@
+# Part 4 Constituencies comprising Island of Atiu
+# Tengatangi-Areora-Ngatiarua constituency
+All that area in the Island of Atiu bounded by a line commencing at Trig station CB1 and proceeding due west along a right line to the sea-coast; thence generally southerly, easterly, and northerly along the sea-coast to its intersection with a right line bearing of 45 degrees from CB1; thence south-westerly along that right line to the point of commencement, to include the villages of Areora, Tengatangi, and Ngatiarua, as delineated on Plan S.0.1015 deposited in the office of the Chief Surveyor at Rarotonga.
+# Teenui-Mapumai constituency
+All that area in the Island of Atiu bounded by a line commencing at Trig station CBI and proceeding due west along a right line to the sea-coast; thence generally northerly, and south-easterly, along the sea-coast to its inter-section with a right line bearing of 45 degrees from CB1; thence south-westerly along that right line to the point of commencement, to include the villages of Teenui and Mapumai, as delineated on the said Plan S.0.1015.

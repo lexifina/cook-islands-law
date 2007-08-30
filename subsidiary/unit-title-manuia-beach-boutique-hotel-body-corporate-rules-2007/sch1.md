@@ -1,0 +1,2 @@
+# Schedule 1 Land
+All that parcel of land containing 7,331 m2 more or less situated on the island of Rarotonga and being Part of the land named by the Land Court as Vaikanoa Section 89H, Arorangi, Rarotonga and being Part of the land contained in a Partition Order made by the said Court on 13 July 1922, together with a right of way as the said parcel of land and right of way are more particularly delineated and described in the plan deposited in the office of the Chief Surveyor at Rarotonga under L413.

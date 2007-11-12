@@ -1,0 +1,3 @@
+# 12 Office of the Public Expenditure Review Committee and Audit to be auditor
+(1) The Office of the Public Expenditure Review Committee is the auditor of the Commission, which office will have and may exercise the functions, duties and powers it has under the Public Expenditure Review Committee and Audit Act 1995-96 .
+(2) Without limiting subsection (1) , the Commission may with the agreement of the Office of Public Expenditure Review Committee and Audit, appoint a person or a firm to conduct audits of the Commission.

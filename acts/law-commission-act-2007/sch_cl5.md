@@ -1,0 +1,2 @@
+# 5 Crown Law Office may provide services for Commission
+The Crown Law Office, acting through the Solicitor-General may from time to time, at the request of the Commission, but subject to the availability of resources, execute any work or enter into arrangements for the execution or provision for the Commission of any work or service, or for the supply to the Commission of any goods, store, or equipment, on and subject to such terms and conditions as may agreed.

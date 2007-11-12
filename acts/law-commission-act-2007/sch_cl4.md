@@ -1,0 +1,2 @@
+# 4 Application of certain acts to members and staff of Commission
+No person is deemed to be employed in the service of Her Majesty for the purposes of the Public Service Act 1995-96 or the Cook Islands National Superannuation Fund Act 2000 by reason alone of that person’s appointment as a member of the Commission, or an officer or employee of the Commission or a person appointed by the Commission under clause 3 of this schedule.

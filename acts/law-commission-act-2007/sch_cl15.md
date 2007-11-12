@@ -1,0 +1,6 @@
+# 15 Proceedings privileged
+(1) No proceedings, civil or criminal, shall lie against the Commission for anything it may do or fail to do in the course of the exercise or intended exercise of its functions, unless it is shown that it acted in bad faith.
+(2) No proceedings, civil or criminal, shall lie against the Commission for anything it may do or fail to do or say in the course of the operation of the Commission, unless it is shown that the member acted in bad faith.
+(3) No member of the Commission, or office or employee thereof, or person appointed or engaged under clause 3 of this schedule, is required to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to the knowledge of the member, officer, employee, or person in the course of the operations of the Commission.
+(4) Anything said or any information supplied or any document produced by any person in the course of any proceedings before the Commission is privileged in the same manner as if the proceedings were proceedings in a court.
+(5) For the purposes of clause 3 of Part 2 of the schedule to the Defamation Act 1993 , any report made by the Commission in the course of the exercise or intended exercise of its functions is deemed to be an official report made by a person holding an inquiry under the authority of Parliament.

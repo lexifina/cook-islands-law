@@ -1,0 +1,2 @@
+# Schedule 1 Land
+All that parcel of land containing 2,042 m2 more or less situated on the island of Rarotonga and being Part of the land named by the High Court (Land Division) as Akaoa Section 8, Arorangi, Rarotonga and being Part of the land contained in an Order on Investigation of Title made by the said Court on 13 July 1903, which parcel of land is more particularly delineated and described in the plan deposited in the office of the Chief Surveyor at Rarotonga under D.2949.

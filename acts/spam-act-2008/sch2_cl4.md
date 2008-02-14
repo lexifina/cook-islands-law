@@ -1,0 +1,22 @@
+# 4 When consent may be inferred from publication of an electronic address
+(1) For the purposes of this Act, the consent of the relevant electronic account-holder may not be inferred from the mere fact that the relevant electronic address has been published.
+(2) However, if—
+(a) a particular electronic address enables the public, or a section of the public, to send electronic messages to—
+(i) a particular employee; or
+(ii) a particular director or officer of an organisation; or
+(iii) a particular partner in a partnership; or
+(iv) a particular holder of a statutory or other office; or
+(v) a particular self-employed individual; or
+(vi) an individual from time to time holding, occupying or performing the duties of, a particular office or position within the operations of an organisation; or
+(vii) an individual, or a group of individuals, from time to time performing a particular function, or fulfilling a particular role, within the operations of an organisation; and
+(b) the electronic address has been conspicuously published; and
+(c) it would be reasonable to assume that the publication occurred with the agreement of—
+(i) if paragraph (a)(i), (ii), (iii), (iv) or (v) applies, the employee, director, officer, partner, office-holder or self-employed individual concerned; or
+(ii) if paragraph (a)(vi) or (vii) applies, the organisation concerned; and
+(d) the publication is not accompanied by—
+(i) a statement to the effect that the relevant electronic account-holder does not want to receive unsolicited commercial electronic messages at that electronic address; or
+(ii) a statement to similar effect,
+the relevant electronic account-holder is taken, for the purposes of this Act, to have consented to the sending of commercial electronic messages to that address, so long as the messages are relevant to—
+(e) if paragraph (a)(i), (ii), (iii), (iv) or (v) applies, the work-related business, functions or duties of the employee, director, officer, partner, office-holder or self-employed individual concerned; or
+(f) if paragraph (a)(vi) applies, the office or position concerned; or
+(g) if paragraph (a)(vii) applies, the function or role concerned.

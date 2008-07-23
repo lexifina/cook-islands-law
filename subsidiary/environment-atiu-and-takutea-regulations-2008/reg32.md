@@ -1,0 +1,5 @@
+# 32 Household sewage
+(1) It is unlawful for any person or household owner to construct any structure for the containment and treatment of household human waste—
+(a) other than in accordance with the provisions of the Public Health (Sewage) Regulations; and
+(b) without prior written permit from the Public Health Department.
+(2) Any permit issued pursuant to subclause (1)(b) may be granted on such terms and conditions as the Island Environment Authority may prescribe.

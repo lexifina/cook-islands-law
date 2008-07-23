@@ -1,0 +1,3 @@
+# 25 Restrictions on water supply
+(1) The Island Council and Public Health may in relation to any water tank or reservoir referred to in regulation 24(2), as they deem necessary from time to time, and in any instances of drought or other necessary cause, impose any rules or conditions that may be appropriate for the conservation of water supplies for Atiu.
+(2) Every rule or condition imposed by the Island Council and Public Health pursuant to subclause (1) must be posted on the notice board at the meeting house and public buildings of each village on Atiu, and must be advertised on the television and radio system of Atiu.

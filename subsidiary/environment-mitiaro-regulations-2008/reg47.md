@@ -1,0 +1,5 @@
+# 47 Proof of offence
+(1) In any prosecution of an offence under these regulations it is sufficient proof of the offence to establish that it was committed by an employee or agent of the accused, whether or not the employee or agent is identified or prosecuted for the offence.
+(2) A certificate of an Enforcement Officer stating that the Enforcement Officer has analysed or examined a site, substance or product and stating the result of the analysis or examination is admissible in evidence in any prosecution for an offence under these regulations and, in the absence of evidence to the contrary, is proof of the statements contained in the certificate.
+(3) Despite the provisions of subclause (2) above, the party against whom a certificate of an inspector is produced may, with the leave of the court, require the attendance of the Enforcement Officer for the purposes of cross-examination.
+(4) No certificate of an Enforcement Officer may be received in evidence unless the party intending to produce it has given to the party against whom it is intended to be produced reasonable notice of that intention together with a copy of the certificate.

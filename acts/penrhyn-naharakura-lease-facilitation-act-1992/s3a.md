@@ -1,0 +1,3 @@
+# 3A Variation of lease
+Despite any provision contained in this Act or contained or implied in the Dead of Lease set out in the Schedule, the Queen’s Representative may by order in Executive Council, if advised by the Minister of Justice that the Minister is satisfied, following consultation by the Minister with the member of Parliament for the constituency of Penrhyn and the trustees of the Naharakura Development Trust that it will be in the best interests of the beneficiaries of the Trust, amend or vary the said Deed of Lease by deleting any provision therefrom, adding any provision thereto, or varying any provision thereof.
+[Section 3A: inserted, on 20 March 2009, by section 2 of the Penrhyn (Naharakura Lease) Facilitation Amendment Act 2009 (2009 No 6) .]

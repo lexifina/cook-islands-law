@@ -1,0 +1,2 @@
+# 15 Collector may enter brewery
+The Collector or any Customs officer may at all times enter any brewery and have free access to every part thereof and may remain therein as long as he or she deems necessary for the purposes of inspecting such brewery and may take account of all materials received or used therein and of all beer therein and may gauge or otherwise ascertain the capacity or contents of every vessel used or intended for use in such brewery.

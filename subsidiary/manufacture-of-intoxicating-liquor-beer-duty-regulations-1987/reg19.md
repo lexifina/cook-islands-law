@@ -1,0 +1,3 @@
+# 19 Offences by corporation
+(1) Where an offence under these regulations which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or is attributable to any knowledge on the part of any director, manager, secretary or other similar officer of the body corporate, or of any person who was purporting to act in any such capacity he or she as well as the body corporate shall be guilty of the offence and shall be able to be proceeded against and punished accordingly.
+(2) Where the affairs of a body corporate are managed by its members this provision shall apply in relation to the acts of a member in connection with his or her functions of management as if he or she were a director of the body corporate.

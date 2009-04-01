@@ -1,0 +1,3 @@
+# 12 Power to question persons
+(1) The Collector may question any person as to the particulars shown in any document delivered to him or her by any brewer in accordance with these regulations and may if he or she thinks fit require from such person proof by declaration or by the production of records of the content of such document.
+(2) Any person who on being so questioned refuses or fails to answer any question so put to him or her or to answer any such question if so required by the Collector or answers any such question incorrectly or refuses or fails without reasonable cause to make any such declaration or to produce any such records commits an offence.

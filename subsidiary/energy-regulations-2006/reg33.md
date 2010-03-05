@@ -1,0 +1,3 @@
+# 33 Inspection and testing of new installations, additions, and alterations
+(1) The electrician in charge of the work must inspect and test every new installation including semi-portable appliances and every addition and alteration to an existing installation in accordance with these regulations and AS/NZS 3000:2000 Wiring Rules, and other safety testing procedures approved by the Chief Electrical Inspector. The electrician is liable to a summary conviction if they fail to carry out or ensure to carrying out of any such inspection or test.
+(2) The inspections and tests carried out by the Electrical Inspector are supplementary to those carried out by or under the direction of the electrician in charge of the work.

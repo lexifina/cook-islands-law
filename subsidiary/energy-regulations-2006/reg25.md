@@ -1,0 +1,4 @@
+# 25 Right of supply
+(1) Every consumer within any part of the Authority’s area of supply is entitled to a supply of electricity on the same terms and conditions as those on which any other consumer within that part of the area is receiving in similar circumstances a corresponding supply. Provided that where the electricity distribution economics are significantly different for the area in which the consumer is located, the Minister may authorise the Authority to specify such different terms and conditions for consumers within the affected area as the Minister thinks fit.
+(2) The Authority must prepare standard terms and conditions, including a tariff schedule, under which a supply of electricity will be made available to the consumer and a copy must be made available to any consumer on request.
+(3) The terms and conditions and any amendment thereto and tariff schedule must be deposited with the Minister when issued.

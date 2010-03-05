@@ -1,0 +1,3 @@
+# 76 Sundry offences
+(1) Every person, other than an Authority who commits an offence against these regulations for which no other fine is prescribed, is liable on a conviction to a fine not exceeding $5,000 and where the offence is a continuing one, a further amount not exceeding $50 for every day or part of a day during which the offence has continued.
+(2) Every person who, without lawful authority, tampers with any electric supply line or electric plant or equipment subject to these regulations, commits an offence and is liable on conviction to a fine not exceeding $5,000 and where the offence is a continuing one, a further amount not exceeding $50 for every day or part of a day during which the offence has continued.

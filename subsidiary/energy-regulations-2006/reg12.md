@@ -1,0 +1,6 @@
+# 12 Compensation
+(1) Nothing in these regulations may be deemed in anyway—
+(a) to interfere with, affect, or abridge any rights or powers vested in the Government of the Cook Islands or the Minister or any other person, under any Act of Parliament authorising the construction, management, or working of any public works; or
+(b) to render the Government of the Cook Islands or the Minister or any other person liable to pay an Authority or licensee any compensation for injury to works, for any loss occasioned thereby. Provided that this provision is without prejudice to any liability arising otherwise than under these regulations.
+(2) Neither the granting of the licence nor anything contained in the licence either expressly or by implication imposes on the Government of the Cook Islands any liability to pay compensation or damages to any person or local authority by reason of the exercise by the Authority or the licensee of the powers conferred by the licence.
+(3) Neither the granting of the licence nor anything contained in the licence either expressly or by implication affects or prejudices any liability imposed by law on the Authority or the licensee to pay any compensation or damages to any person arising by reason of the exercise by the Authority or the licensee of the powers conferred by the licence.

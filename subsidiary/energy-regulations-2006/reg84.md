@@ -1,0 +1,2 @@
+# 84 Prescribed electrical work a trainee may do
+(1) A trainee who is being trained for the purposes of obtaining registration may assist in doing any prescribed electrical work that is relevant to the particular class of work for which that trainee is being trained for the purpose of obtaining registration, if the trainee is under the supervision of a registered person whose registration allows that person to do work.

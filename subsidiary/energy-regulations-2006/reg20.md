@@ -1,0 +1,2 @@
+# 20 Submission of records
+An Inspector or any officer appointed to assist the Inspector may require a supplier or an owner to submit to him or her for examination, any record of tests made in connection with his or her works. Similarly, a supplier or an owner may require the Inspector or any officer appointed to assist the Inspector to submit to him or her for examination, any record of tests made by the Inspector or any officer appointed to assist the Inspector. Both parties must comply with such requisitions.

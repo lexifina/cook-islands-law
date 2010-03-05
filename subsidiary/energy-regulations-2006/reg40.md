@@ -1,0 +1,4 @@
+# 40 Review of requirements
+(1) Any dispute between an Authority and a person or body as a result of any requirement imposed under the authority of these regulations or arising from terms and conditions for supply of electricity under these regulations may, on application by such person, body or the Authority, be determined by the Minister. Provided that this subclause does not apply to any dispute arising out of the amount of any tariff or the amount of any charge set in the Authority’s tariff schedule.
+(2) Where any party to any proceedings before the Minister is dissatisfied with any decision of the Minister as being erroneous in point of law, either party may appeal to the High Court on that question of law.
+(3) This regulation do not compel the Minister to decide any dispute as aforesaid or exclude any Court from deciding any such action.

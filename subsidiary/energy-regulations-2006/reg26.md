@@ -1,0 +1,2 @@
+# 26 Under-utilised capital assets
+Where an Authority has provided a capital investment in electricity distribution assets and the consumer’s electricity consumption has failed consistently to achieve the forecast level of consumption for which the consumer had requested supply and a lesser level of investment would have been satisfactory for the installation, the Authority may require the consumer to contribute towards the cost of the investment in the under-utilised capital assets.

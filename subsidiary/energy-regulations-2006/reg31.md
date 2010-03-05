@@ -1,0 +1,4 @@
+# 31 Permission to install electrical wiring, appliances, or generating plant
+(1) Every person commits offence and is liable on summary conviction who installs or commences to install any service main or distribution main, electrical wiring, fixed appliances, permanently connected semi-portable appliance, standby generating plant or private generating plant before he or she has obtained permission from the Electrical Inspectorate to carry out the work.
+(2) An electrical Wiring Permit is required by the electrician who is carrying out the work or in charge of the work. Every permit application must be accompanied by a fee as set out in Schedule A. This fee must be reviewed annually.
+(3) Work carried out by the Authority on meter installations, service main and distribution main is exempt from the requirements of subclause (2).

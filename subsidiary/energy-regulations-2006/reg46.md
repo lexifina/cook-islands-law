@@ -1,0 +1,5 @@
+## Part 6 Maintenance of lines and works
+# 46 Maintenance of Authority’s supply lines
+(1) Any Authority may enter from time to time on any land for the purpose of maintaining any works and may remain on such land for such time as is reasonably necessary to carry out such maintenance.
+(2) The Authority must maintain all electric supply lines, substations and works forming part of its supply system in good order and condition and must take all reasonable precautions to secure at all times continuity of service and immunity from danger. Provided that no responsibility attaches to any Authority where any part of its supply system is affected by an event or circumstances of which the Authority could not have reasonably been aware.
+(3) Every consumer must take all reasonable steps to maintain or cause to be maintained free from electrical hazard the installation and every portable or semi-portable appliance and every electric line connected thereto on the consumer’s premises, which do not form part of the Authority’s supply system.

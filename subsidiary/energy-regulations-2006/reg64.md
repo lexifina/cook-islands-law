@@ -1,0 +1,12 @@
+# 64 Work on switchboards
+(1) When work has to be carried out on any high voltage switchboard, then, unless the switchboard is otherwise so arranged as to ensure that the work may be carried out without undue risk, either—
+(a) the switchboard must be isolated and earthed; or
+(b) if the switchboard is so arranged that the conductors thereof can be isolated in sections, and the sections are separated by permanent or removable screens from all adjoining sections of which the conductors are alive so that work on any section may be carried out without undue risk, the section on which work has to be done must be isolated and earthed.
+(2) Every generating station or substation switchboard must be erected in such position as to provide in front and behind the switchboard the clear unobstructed spaces hereinafter mentioned, namely—
+(a) in the case of low voltage switchboards, an overhead clearance (except in enclosed spaces referred to in paragraph (c) of not less than 2.2 metres from the floor to any conductor under which it is necessary to pass, and a passageway in front of the switchboard with at least 1 metre horizontal clearance from the face of the switchboard or any bare live metal affixed thereto:
+(b) in the case of high voltage switchboards, other than operating desks or panels working solely at low voltage, an overhead clearance (except in enclosed spaces referred to in paragraph (c)) of not less than 2.5 metres from the floor to any conductor under which it is necessary to pass, and a passageway in front of the switchboard with at least 1 metre horizontal clearance from the face of the switchboard:
+(c) in every enclosed space behind any switchboard where only skilled men would be employed when the switchboard is alive (unless all live metal other than that being worked on is suitably screened)—
+(i) an overhead clearance of not less than 2.2 metres from the floor to any bare conductor under which it is necessary to pass; and
+(ii) a horizontal clearance of not less than 1.8 metres for high voltage, and not less than 1.2 meters for low voltage where it is possible to pass between any live conductors less than 2.2 metres above the floor; and
+(iii) a horizontal clearance of not less than 900 mm between any live conductor and less than 2.2 metres above the floor and any wall, screen, or similar object.
+(3) Where a passageway is provided behind any switchboard, the horizontal clearance must be at least 1 meter from the back of the switchboard and must be measured from any screen erected at the back of the switchboard.

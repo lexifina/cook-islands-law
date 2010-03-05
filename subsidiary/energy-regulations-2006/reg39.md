@@ -1,0 +1,2 @@
+# 39 Failure to pay for electricity
+If any consumer fails to pay any amount due for payment for electricity supplied and charges made in accordance with the Authority’s tariff schedule the Authority must serve written notice on the consumer that, without prejudice to any other remedy in that behalf, the Authority may, after the expiry of a stated reasonable period of time, disconnect the supply of electricity from the premises of that consumer.

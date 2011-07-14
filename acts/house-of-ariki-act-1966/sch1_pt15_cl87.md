@@ -1,0 +1,2 @@
+# 87 Subsequent action on Notice of Motion
+Upon the expiry of the period of Notice as required in Order 85, and upon a Sitting to be appointed by the Business Committee for consideration of Motions by the House the Order Paper shall contain the item “Motions” as prescribed in Order 56, and such Motions as may be ready for the consideration of the House shall appear upon the Order Paper or upon a Supplementary Order Paper attached thereto.

@@ -1,0 +1,2 @@
+# 80 Member may explain matters of personal nature
+By the indulgence of the House and the leave of the President a Member may, at the time appointed for Personal Explanations under the provisions of Order 56, explain matters of a personal nature although there is no Question before the House but such matters shall not be debated and the Member shall confine himself strictly to the vindication of his own conduct. The terms of the proposed statement shall first be submitted to the President.

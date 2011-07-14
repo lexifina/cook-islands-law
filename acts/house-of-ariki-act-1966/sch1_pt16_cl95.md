@@ -1,0 +1,2 @@
+# 95 Amendment to Amendment to leave out words if not yet put
+If the President, before putting a Question to leave out words as provided in Order 92, is informed that a Member wishes to move an Amendment to leave out parts only of those words, and if the President is of the opinion that the proposed Amendment of which he has been informed is substantially a new Amendment, he shall, if possible, put the Question to leave out words in such form as will enable the subsequent Amendment to be moved.

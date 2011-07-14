@@ -1,0 +1,2 @@
+# 146 Disposal of matter by House and reference back to Assembly
+Upon receiving the report or advice from the Committee of Whole or the Select Committee as the case may be the House shall then resolve upon the recommendation to be forwarded to the Assembly and the President shall forward the same to the Premier over his signature together with such explanatory note or notes and information as shall be required by section 7(3) of the Act.

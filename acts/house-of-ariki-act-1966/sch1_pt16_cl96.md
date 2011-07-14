@@ -1,0 +1,2 @@
+# 96 Two or more Amendments to same Motion
+When two or more Amendments are proposed to be moved to the same Motion, the President shall call upon the Movers in the order in which their Amendment relate to the text of the Motion, or, in cases of doubt, in such order as he shall decide: Provided that no Amendment may be moved which relates to any words which the House has decided shall not be left out of a Question.

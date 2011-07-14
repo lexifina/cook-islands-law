@@ -1,0 +1,2 @@
+# 45 Procedure if Closure moved or proceedings for closure in progress
+On the interruption of business under the provisions of Order 44, the Closure may be moved, and if it is moved or if proceedings under Order 120 are already in progress at three minutes to 1 pm, the President shall not interrupt the business until the Question consequent upon the moving of the Closure and any further Question provided for in the said Order have been decided. Thereafter the House shall be adjourned by the President without Question put.

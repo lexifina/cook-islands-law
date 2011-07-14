@@ -1,0 +1,2 @@
+# 176 Absence of quorum during Sitting
+If at any time during the sitting of a Select Committee, a quorum be not present, the proceedings of the Committee shall be suspended until a quorum be present and if no quorum be present within such time as the Members present may think reasonable, or in any case at the expiration of fifteen minutes, the Committee shall stand adjourned until some future time to be fixed by the Chairman.

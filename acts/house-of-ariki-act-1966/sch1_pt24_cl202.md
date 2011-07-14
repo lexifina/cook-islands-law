@@ -1,0 +1,2 @@
+# 202 Question to be put for withdrawal of strangers if moved
+If at a Sitting of the House or in a Committee of the Whole House, any Member brings to the notice of the House or of the Committee the desirability for the exclusion of strangers, the President shall forthwith put the Question: “That strangers do withdraw”, without debate or Amendment; provided that the President, whenever he thinks fit, may order the withdrawal of strangers from any part of the House.

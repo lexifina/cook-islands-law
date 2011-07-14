@@ -1,0 +1,2 @@
+# 175 Absence of quorum at time of meeting
+If after the lapse of ten minutes from the time appointed for the meeting of a Select Committee there shall not be a quorum present, the Clerk of the Committee shall enter on the Minutes the names of the Members present, who may then retire, and the Committee shall stand adjourned until its next meeting to be convened by the Clerk of the Committee, subject to the direction of the Chairman.

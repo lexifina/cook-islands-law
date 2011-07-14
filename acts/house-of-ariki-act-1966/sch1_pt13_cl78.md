@@ -1,0 +1,2 @@
+# 78 If Member fails to rise and ask Question
+If a Member fails to rise as provided in Order 77, then any other Member may make the Question his own, and may rise in his place and ask the Question in the manner prescribed in Order 77, but if no other Member so rises, the Member to whom the Question was addressed shall send copies of the Reply to the Member who asked for it, and to the Clerk, who shall cause the Reply to be printed in the records of the proceedings of the House.

@@ -1,0 +1,2 @@
+# 159 Rules of debate and conduct of business same in Committee as in House
+Except as otherwise provided by these Orders, the same rules for order in the House and putting questions, dealing with Amendments, taking divisions, and for regulating debate and the general conduct of business shall be observed in Committee of the Whole House as in the House itself; but disorder in a Committee may only be censured by the House, on receiving a Report (see Order 130).

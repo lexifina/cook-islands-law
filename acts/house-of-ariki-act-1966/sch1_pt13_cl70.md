@@ -1,0 +1,2 @@
+# 70 Notice to be given with written Question if Oral Reply required
+If a Member requires an oral Reply to his to written Question submitted in accordance with Order 69, he shall indicate this requirement in the Notice of Question, but not more than four Questions for oral Reply shall be asked by a Member at one Meeting. Subsequent action on such a Question shall be in accordance with Orders 71, 76, 77 and 78.

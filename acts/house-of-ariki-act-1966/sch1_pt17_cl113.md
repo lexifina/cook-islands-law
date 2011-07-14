@@ -1,0 +1,2 @@
+# 113 Motion that member be no longer heard
+If a Member uses objectionable words as provided in Order 112 and on being called to order fails to retract or explain such words and offer an apology to the satisfaction of the President, any Member may, with the consent of the President, move that the Member using the objectionable words be no longer heard, and the Question on that Motion shall be put forthwith without amendment or debate.

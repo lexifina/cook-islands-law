@@ -1,0 +1,2 @@
+# 40 President to open House
+On the day and at the time and place appointed, as provided in Order 5 for a meeting of the House the President shall, in the presence of members, take his seat as President of the House and shall call for prayers to be said. The President shall then address the House upon such general matters as may appear to him fitting and in keeping with the occasion of the opening of the House.

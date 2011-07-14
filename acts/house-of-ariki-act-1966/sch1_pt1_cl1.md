@@ -1,0 +1,2 @@
+# 1 Commencement of these Standing Orders
+These Standing Orders of the House of Ariki are made in pursuance of Article 11A paragraph (5) of the Constitution of the Cook Islands in the Second Schedule of the Cook Islands Constitution Amendment Act 1965 and in pursuance of section 11 subsection (8) of the House of Ariki Act 1966 and shall come into force on the date appointed for the commencement of the House of Ariki Act 1966 .

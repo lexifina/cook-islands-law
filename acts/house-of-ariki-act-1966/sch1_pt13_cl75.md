@@ -1,0 +1,2 @@
+# 75 Consideration of Supplementary Order Paper by House
+At the Sitting appointed as provided in Order 74 any Member may move the adjournment of the House for the purpose of discussing the Replies printed in the Supplementary Order Paper of the day. Discussion shall be confined to the subject matter of any Questions asked on Replies given on that day; and no speech shall exceed five minutes in length, and, unless the House otherwise agrees, the whole discussion shall not exceed two hours.

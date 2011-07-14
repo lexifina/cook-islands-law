@@ -1,0 +1,2 @@
+# 129 Member whose conduct is grossly disorderly shall be required to withdraw
+The President or the Chairman of a Committee shall order any Member or Members whose conduct is grossly disorderly to withdraw immediately from the House during the remainder of the Sitting: Provided that, if on any occasion the President or Chairman deems that his powers under the previous provisions of this paragraph are inadequate, he may name such Member or Members, in which event the same procedure shall be followed as prescribed in Order 130.

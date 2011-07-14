@@ -1,0 +1,2 @@
+# 77 Manner of asking question requiring Oral Reply
+Upon the Question requiring an oral Reply being reached on the Order Paper of the day as provided in Order 76, the President shall call upon the Member in whose name the Question stands. The Member so called shall then rise in his place and ask the Question by reference to its number on the Order Paper, and the Member to whom it is addressed shall give his Reply.

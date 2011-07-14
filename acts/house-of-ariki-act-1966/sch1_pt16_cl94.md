@@ -1,0 +1,2 @@
+# 94 Amendment to leave out words and substitute others in a Motion
+Upon any Amendment to insert words in, or add other words instead, a Question shall first be proposed by the President: “That those words be left out,” and if the Question is agreed to, the Question shall then be proposed by the President: “That those words be there inserted (or added)”. If the first Question is negatived, no further Amendment may be proposed to the words which the House has decided shall not be left out.

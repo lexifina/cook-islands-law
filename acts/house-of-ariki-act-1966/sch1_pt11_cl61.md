@@ -1,0 +1,2 @@
+# 61 Papers to be placed on Order Paper
+When any Papers have been laid upon the Table they shall be placed upon a List on the Order Paper for the next Sitting under the heading “Papers for Consideration” in the order in which they were laid upon the Table and after any such Papers already on such List. Such List shall show the date of presentation, the record number, the title, and the number (if any) under which such Paper will be bound in the records and the method by which the same was laid upon the Table.

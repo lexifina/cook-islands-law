@@ -1,0 +1,5 @@
+# 130 Motion to be proposed if Member named
+Whenever a Member shall be named by the President or the Chairman of a Committee immediately after the commission of an offence of disregarding the authority of the Chair, or of persistently and wilfully obstructing the business of the House by abusing the rules of the House or otherwise, then, if the offence has been committed by such Member in the House a Motion shall forthwith be proposed and seconded by two Members—
+| “That | such Member be suspended from the service of the house” |
+| And | the President shall forthwith put the Question on that Motion, no Amendment, adjournment or debate being allowed; |
+| And, | if the offence has been committed in a Committee of the Whole House, the Chairman shall forthwith suspend the proceedings of the Committee and report the circumstances to the House, and the President shall on a Motion being made forthwith as provided above put the same Question, no Amendment, adjournment or debate being allowed, as if the offence had been committed in the House itself. |

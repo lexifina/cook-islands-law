@@ -1,0 +1,4 @@
+# 111 Interruptions
+No member shall interrupt any other Member except—
+(a) by rising to a point of order, whereupon the Member speaking shall resume his seat and the Member interrupting shall simply direct attention to the point which he desires to bring to notice and submit it to the President for decision. When the point of order has been stated, the Member, except by leave of the President, shall not rise until the matter has been decided. When effect has been given to the decision where necessary, the Member who was speaking shall be entitled to proceed with his speech unless the decision so prevents him; or
+(b) to elucidate some matter raised by the Member speaking in the course of his speech; provided the member speaking is willing to give way and resume his seat, and that the Member wishing to interrupt is called by the President.

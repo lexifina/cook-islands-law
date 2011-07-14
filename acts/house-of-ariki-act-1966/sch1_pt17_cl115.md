@@ -1,0 +1,2 @@
+# 115 Conduct of officials not to be raised: Exceptions
+The conduct of the High Commissioner, the Premier and Ministers, the Speaker of the Assembly and Members thereof and Judges or other persons engaged in the administration of justice shall not be raised except upon a substantive Motion; and in any Amendment, Question to a Member or remarks in a debate on a Motion dealing with any other subject, any reference to the conduct of the persons aforesaid shall be out of order.

@@ -1,0 +1,2 @@
+# 204 Representatives of journals may receive general permission to attend
+The representative of any journal may receive a general permission from the President to attend the Sittings of the House; provided that if any journal publishes a report of the proceedings which the President onnsiders unfair or improper or, if in the opinion of the President the representative behaves in an unseemly manner within the precincts of the House, such permission may be revoked.

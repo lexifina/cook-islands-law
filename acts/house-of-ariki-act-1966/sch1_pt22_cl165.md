@@ -1,0 +1,2 @@
+# 165 Member absent for more than 3 meetings of Committee may forfeit seat on Committee
+If any Member of a Select Committee has absented himself without leave of absence or, in the opinion of the remaining Members of the Committee, without good cause from more than three consecutive meetings of such Committee, that Member shall be deemed to have forfeited his seat on the Committee and an election to the vacancy so created may be held at the ensuring Meeting of the House.

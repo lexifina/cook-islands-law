@@ -1,0 +1,4 @@
+# 62 Consideration of Papers
+(1) When the President announces “Consideration of Papers” he shall call the number of each Paper and the title thereof in the order in which the Papers appear on the Order Paper, and the person who presented the Paper may forthwith move “That the Paper be referred to the House for consideration”, “That the Paper be referred to the Committee (here specify the committee) with instructions to report back to the House”, “That the Paper be adopted by the House”, or some other Motion relevant to such Paper. (For relevancy of Motion in debates, see Order 116).
+(2) If the Member who presented the Paper does not desire to move a Motion in respect of it, any other Member who desires to debate such Paper may move some Motion relevant to the Paper.
+(3) If no Motion is made with respect to any Paper called on as aforesaid, it shall be dropped from the Order Paper and shall not appear further thereon.

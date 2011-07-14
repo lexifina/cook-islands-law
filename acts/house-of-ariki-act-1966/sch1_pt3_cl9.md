@@ -1,0 +1,2 @@
+# 9 Oath of Allegiance
+On the occasion of the first meeting of the House on each Member taking his seat and on the occasion of each new member taking his seat for the first time in the House the Clerk shall administer to each member or such new member ad the case may be before the High Commissioner the Oath prescribed by Article 9 of the Constitution and by section 9 of the Act and no member shall resume or return to his or her seat unless and until he or she has taken and subscribed such Oath.

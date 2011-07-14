@@ -1,0 +1,2 @@
+# 178 Divisions to be entered in Minutes
+In the event of any division taking place in any Select Committee, the Question proposed, the name of the proposer, and the respective votes thereupon of each Member present shall be entered in the Minutes of the proceedings of the Committee and such Minutes shall, when the House orders or the Committee so directs, be reported to the House on the Report of such Committee.

@@ -1,0 +1,2 @@
+# 139 Division
+If a Division is requested by any Member in accordance with Order 138, the Clerk shall call upon all those Members who are of the affirmative opinion to raise their right hands and upon their doing so he shall record the name of each Member so voting. The Clerk shall then call upon those Members who are of the negative opinion to raise their right hands and he shall record their names similarly. After having taken the votes the Clerk shall inform the President or Chairman who shall first declare the figures for and against and then the result.

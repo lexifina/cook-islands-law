@@ -1,0 +1,3 @@
+# 18 Vacancy in office of President
+(1) If the office of President becomes vacant during any period of twelve months for to which the members have been appointed the Clerk shall report the same to the House at its next sitting and the House shall proceed forthwith to the election of a new President in the manner hereinbefore prescribed by these Standing Orders.
+(2) If at any time the President shall be temporarily absent from the House the House may elect a vice president to preside and carry out the duties of the President until such time as the President shall return or until his appointment shall be terminated whichever event shall first happen.

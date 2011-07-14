@@ -1,0 +1,2 @@
+# 131 Period of suspension of offending member
+If a Member is suspended under Order 130, and except as provided in Order 134, his suspension on the first occasion in any Meeting shall be for the remainder of that Sitting; on the second occasion in any Meeting for seven days, excluding the day of suspension; and on the third or on any subsequent occasion during the same Meeting for twenty-eight days excluding the day of suspension.

@@ -1,0 +1,2 @@
+# 169 Destination of Minute Book if Committee ceases
+Upon the completion of the proceedings of any Select Committee set up to facilitate the business of the House (see Order 160(a)) or set up to consider a definite matter of House business (see Order 160(b)) or upon a Select Committee which was set up to stand indefinitely (see Order 160(c)) retiring either finally or prior to the re-election of Members to the said Committee, the Minute Book shall be passed by the retiring Chairman of such Committee to the Clerk of the House who shall file it in the records of the House.

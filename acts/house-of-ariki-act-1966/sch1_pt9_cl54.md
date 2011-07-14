@@ -1,0 +1,2 @@
+# 54 Procedure for adjournment if leave granted
+If the matter raised in the House as provided in Order 53 is considered by the President to be urgent, of public importance and in order, and either leave of the House is given without a dissentient voice, or, if it is not given, at least ten Members support the request, the desired Motion for the adjournment shall stand over until 3 pm of the same day, when the House shall sit and the Member shall open the debate by moving the adjournment of the House. The President shall adjourn the House at 5 pm without Question put.

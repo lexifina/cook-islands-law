@@ -1,0 +1,6 @@
+# 12 Proceedings privileged
+(1) No proceedings, civil or criminal, lie against the Board for anything it may do or fail to do in the course of the exercise or intended exercise of its functions, unless it is shown that it acted in bad faith.
+(2) No proceedings, civil or criminal, lie against any member of the Board for anything he or she may do or fail to do or say in the course of the operation of the Board, unless it is shown that the member acted in bad faith.
+(3) No member of the Board, or person appointed or engaged under clauses 2 or 3 of this Schedule, is required to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to the knowledge of the member, or person in the course of the operations of the Board.
+(4) Anything said or any information supplied or any document produced by any person in the course of any proceedings before the Board is privileged in the same manner as if the proceedings were proceedings in a Court.
+(5) For the purposes of clause 3 of Part 1 of Schedule 1 to the Defamation Act 1993, any report made by the Board in the course of the exercise or intended exercise of its functions is deemed to be an official report made by a person holding an inquiry under the authority of Parliament.

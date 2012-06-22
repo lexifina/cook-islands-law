@@ -1,0 +1,7 @@
+# 22 Disciplinary offences
+(1) For the purposes of disciplinary action in respect of offences reported under section 17(3)(d), any electrical worker, qualified engineer or trainee, is guilty of a disciplinary offence if that person is found in any disciplinary proceedings held under section 23(4)—
+(a) to have carried out, or caused to be carried out electrical work in a negligent, unsatisfactory, incompetent, or hazardous manner, or in a manner contrary to any enactment relating to electrical supply or electrical work which was in force at the time the work was done; or
+(b) to have intentionally or negligently created a risk to life or limb, or to have caused a serious fire hazard, through having used or caused to be used faulty or improper fittings; or
+(c) to have intentionally deceived or attempted to deceive any Inspecting Officer by purposely concealing inferior work or inferior fittings used as part of any electrical installation or by making any false or misleading statement to any such Inspector; or
+(d) to have neglected to apply for permission to carry out any electrical work or furnish any return required under any enactment relating to electrical work or to have furnished a false return; or
+(e) to have employed, directed, or permitted any unauthorised person to do any electrical work or to have done electrical work that under the terms of section 20 the person is not authorised to do.

@@ -1,0 +1,3 @@
+# 1 Title and commencement
+(1) This order may be cited as the Customs Port of Entry (Pukapuka) Order 1989.
+(2) This order comes into force on the day after its notification in the Gazette.

@@ -1,0 +1,5 @@
+## Part 2 General and miscellaneous provisions
+# 7 Penalties
+(1) Where any provision of these regulations is contravened or violated with respect to any vessel to which it applies, the master and owner of the vessel commits an offence against these regulations and are jointly and severally liable on summary conviction to a fine of not less than $100,000 and not more than $250,000.
+(2) Each shark constitutes a separate offence. If the fins of a shark have been removed, or a shark has otherwise been cut up, separated or dismembered in violation of regulation 5, each piece of the shark constitutes a separate offence.
+(3) If the master or owner of any vessel is found liable for committing an offence against any provision of these regulations for a second or subsequent occurrence, any license to conduct commercial fishing or transshipment of fish or fish products must be revoked and canceled pursuant to section 41 of the Act. In addition, any vessel involved in a violation of these regulations must be prohibited from operating in waters within the jurisdiction of the Cook Islands.

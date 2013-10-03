@@ -1,0 +1,4 @@
+# 31 Offences against these regulations
+(1) A person who makes any false or misleading statement in any matter under or concerning these regulations commits an offence and is liable upon conviction to a fine not exceeding $1,000 or imprisonment not exceeding 3 months, or both.
+(2) A person who is subject to a Community Treatment Order or Inpatient Treatment Order under these regulations and who fails, refuses or neglects to comply with any condition, requirement or direction imposed or given under the authority of that order commits an offence and is liable upon conviction to a fine not exceeding $10,000 or imprisonment not exceeding 12 months, or both.
+(3) A person who breaches any provision of these regulations for which no other offence is provided commits an offence and is liable upon conviction to a fine not exceeding $5,000 or imprisonment not exceeding 6 months, or both.

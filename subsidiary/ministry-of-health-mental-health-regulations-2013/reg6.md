@@ -1,0 +1,3 @@
+# 6 Preference to be given to care, support and treatment within family and community
+(1) Unless the person with a mental disorder cannot be cared for, supported, treated or protected within his or her family, or within the community in which the person lives, all persons providing care, support, treatment or protection of the person in accordance with these regulations must do so utilising the person’s family or community to the fullest extent possible.
+(2) Subclause (1) does not apply if the protection, lights or welfare of other persons requires that alternative arrangements be made for the provision of the care, support, treatment or protection.

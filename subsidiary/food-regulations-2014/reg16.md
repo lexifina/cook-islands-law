@@ -1,0 +1,7 @@
+# 16 Notification of intention to import listed food
+(1) A person who intends to import food for sale that is either on the High Risk Food List or Food of Regulatory Interest List must give prior notification to the Ministry of his or her intention to import food at least 30 days prior to the food being imported into Cook Islands.
+(2) A notification under this regulation must be given in writing and can be sent by email, fax or other documented means, but it is the responsibility of the notifier to ensure that the notification is received by the Ministry, and that it contains all of the information that the Ministry requires.
+(3) Along with the notice of intent to import specified in subclause (1), the importer must provide copies of the invoices, manifests, and other documentation associated with the product to be imported.
+(4) An authorised officer has authority to carry out any inspection and sampling that the officer requires.
+(5) After inspecting and sampling, and reviewing relevant documentation (including export certifications provided by competent authorities overseas), the authorised officer has authority to permit the proposed importation, or decline it and make appropriate arrangements for the disposal of the food.
+(6) Information related to the proposed importation of food is to be shared with the Customs Service and other relevant government Ministries and agencies.

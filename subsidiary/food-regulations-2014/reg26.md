@@ -1,0 +1,5 @@
+# 26 Food subject to physical checks
+(1) If, after documentary and identity checks, there is a need to hold the products for physical checks, the authorised officer has authority to notify the importer and Customs in writing of the intent to physically examine the product.
+(2) If it is necessary to conduct a physical check and it is not possible to do so in a timely manner while in the Customs controlled area, the authorised officer has authority to require the importer to move the product to another location within Cook Islands, and for it to be held without further distribution until a permit for the importation has been issued.
+(3) The authorised officer has authority to apply any appropriate device or thing to the container or product to ensure that it is not further distributed before examination.
+(4) When physical checks are carried out they may include any physical observation or test appropriate to assess compliance with the Act, and with these regulations or any applicable standard.

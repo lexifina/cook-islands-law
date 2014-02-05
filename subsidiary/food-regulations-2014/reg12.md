@@ -1,0 +1,5 @@
+# 12 Food additives
+(1) Food additives must not be used in any food imported or sold in Cook Islands, unless permitted by these regulations or any applicable standard.
+(2) Unless otherwise prescribed in these regulations or any applicable standard, the additives permitted for use in a food product are those additives permitted for use under the Codex General Standard on Food Additives, and the maximum level of each permitted additive in the final product is the maximum level that is permitted for use in the applicable standard.
+(3) If no Codex Standard or other applicable standard exists for additives to be used in a food, the processor or importer must be able to demonstrate to the satisfaction of the Director, the safety of the additives to be used for a particular product, prior to the importation or processing of the product.
+(4) Food business operators (including processors and importers) must ensure that additives present in their food comply with the requirements of the Codex Alimentarius, unless otherwise prescribed in these regulations or an applicable standard.

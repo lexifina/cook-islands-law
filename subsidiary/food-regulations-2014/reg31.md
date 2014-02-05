@@ -1,0 +1,4 @@
+# 31 Requirements relating to labelling of nutrient content
+(1) All pre-packaged food produced, processed, packed, distributed, or imported must comply with all approved standards for nutrient content labelling applied in accordance with section 16 of the Ministry of Health Act 2013.
+(2) The Director may give a written exemption to small scale or home-based food businesses producing pre-packaged food products for sale at markets or road side stalls or through other similar arrangements, from having to comply with the nutrient content labelling requirements.
+(3) Approved standards applied under this regulation may exempt foods produced for immediate consumption by restaurants, school tuckshops, vendors of street foods and take-away meals, or may apply specific standards in relation to such foods.

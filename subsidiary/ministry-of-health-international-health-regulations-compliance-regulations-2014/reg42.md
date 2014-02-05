@@ -1,0 +1,7 @@
+# 42 Measures to be taken in relation to aircraft and ships
+(1) The officer or person in charge of an aircraft or ship to which these regulations apply must make arrangements for the disinfection, decontamination, dis-insection or de-ratting of the aircraft or ship in a manner, and within a time, required by standards, rules, codes of practice or operating procedures applied under section 16 of the Act, or by the Director from time to time.
+(2) If the measures required under subclause (1) are not undertaken as directed, the Director has authority to take all necessary action in relation to the aircraft or ship, and all costs incurred in doing so are the responsibility of the owner or operator of the aircraft or ship.
+(3) An authorised officer has authority to require the isolation of an aircraft or ship while measures under this regulation are applied, and all officers and crew of the aircraft or ship must comply with any requirements imposed or directions made in relation to such a requirement.
+(4) If measures required under this regulation are not carried out as required, but the aircraft or ship is given permission by the Director to depart, then both of the following apply—
+(a) the Ministry must give an appropriate notification to the relevant competent authority of the next known point of entry:
+(b) in the case of a ship, appropriate notes must be made to the Ship Sanitation Control Certificate.

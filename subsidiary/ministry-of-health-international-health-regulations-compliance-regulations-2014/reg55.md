@@ -1,0 +1,7 @@
+# 55 Offences against these regulations
+(1) A traveller to whom these regulations apply, who breaches any obligation or requirement applying to travellers under these regulations, commits an offence, and is liable upon conviction to a fine not exceeding $2,000.
+(2) A member of the crew of an aircraft to which these regulations apply, who breaches any obligation or requirement applying to aircraft under these regulations, commits an offence, and is liable upon conviction to a fine not exceeding $2,000.
+(3) An officer or person in charge of a ship to which these regulations apply, who breaches any obligation or requirement applying to ships under these regulations, commits an offence, and is liable upon conviction to a fine not exceeding $5,000.
+(4) The owner or operator of an aircraft or ship to which these regulations apply, in relation to which any obligation or requirement applying to aircraft or ships under these regulations is breached, commits an offence, and is liable upon conviction to a fine not exceeding $10,000.
+(5) Any other person who breaches any obligation or requirement applying to that person under these regulations, commits an offence, and is liable upon conviction to a fine not exceeding $1,000.
+(6) The fines prescribed under this regulation are subject to regulation 56, which has application if the offence or breach results in any outbreak or spread of disease, or causes or contributes to a public health emergency of international concern.

@@ -1,0 +1,6 @@
+# 7 Principal authority for implementing these regulations
+(1) The principal authority and responsibility for the application, implementation and enforcement of these regulations and the International Health Regulations is vested in the Ministry.
+(2) The Ministry has the mandate and authority to be the competent authority and national focal point for all matters associated with the application, implementation and enforcement of the International Health Regulations, and is empowered to do all things necessary for or incidental to these roles under the International Health Regulations.
+(3) Standards, rules, operating procedures, guidelines or codes of practice may be applied under the authority of section 16 of the Act to any matter or thing relevant to the application, implementation and enforcement of these regulations or the International Health Regulations.
+(4) The Ministry has authority to display any sign at an airport or port for the purposes of providing information about any obligation or process relevant to the application or implementation of these regulations or the International Health Regulations.
+(5) A person who fails, refuses or neglects to comply with any requirement stated in a sign displayed under subclause (4) commits an offence against these regulations.

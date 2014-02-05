@@ -1,0 +1,3 @@
+# 23 Traveller to report to Director
+(1) If an authorised officer has grounds to suspect that the traveller has or might have a dangerous condition, or has recently been in close proximity to a person who has or might have a dangerous condition or has been exposed to a dangerous vector or vector borne disease or contaminated with a dangerous agent, the officer has authority to order the traveller to report to the Director, or to be isolated at a place nominated by the Director.
+(2) When exercising the power under this regulation, the authorised officer must promptly notify the Director of the order made.

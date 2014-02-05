@@ -1,0 +1,3 @@
+# 19 Screening technology
+(1) The Director has authority to authorise the use of any equipment or other technology or process to determine whether a traveller has a dangerous condition or symptoms of one, but any such screening technology authorised by the Director must not involve the entry into the traveller’s body of any instrument or thing.
+(2) If a traveller refuses to be screened with the approved screening technology and the person using it is not an authorised officer, the person responsible for using the screening technology must inform an authorised officer of the refusal as soon as practicable, and may detain the person until an authorised officer is present.

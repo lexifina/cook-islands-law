@@ -1,0 +1,8 @@
+# 36 Provision of information and inspection of baggage and cargoes
+(1) The officer or person in charge of an aircraft or ship to which this Part applies must ensure that all answers are provided to any questions asked by an authorised officer or by any other public servant authorised by the Ministry for this purpose, and that all such information or records are provided as required.
+(2) The officer or person in charge of an aircraft or ship to which this Part applies must ensure that requirements stated in Schedule 5 are complied with.
+(3) If a person becomes aware that any information which has been provided by that person, or any report which has been made in accordance with these regulations, is incomplete or inaccurate, the person must immediately give the complete or correct information to an authorised officer.
+(4) A person who gives or reports false or misleading information, or who causes any information to be given or reported that is false or misleading, under these regulations (whether the requirement to give or report the information is made of the person or another person), breaches these regulations if any of the following apply—
+(a) the person knew, or ought reasonably to have known, that the information or report was false or misleading; or
+(b) the person is negligent as to whether the information is false or misleading in that detail.
+(5) An authorised officer has authority to inspect baggage, cargo, containers, aircraft, ships, goods, postal parcels and human remains carried on any aircraft or ship to which these regulations apply, and all officers and crew must facilitate such inspections.

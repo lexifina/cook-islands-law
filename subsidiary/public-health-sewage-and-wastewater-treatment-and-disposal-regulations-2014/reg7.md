@@ -1,0 +1,8 @@
+# 7 Register of sanitary professionals and technicians
+(1) The Board has responsibility for registering sanitary professionals and technicians, and for maintaining a register of sanitary professionals and technicians approved by the Board to be registered in accordance with these regulations and the approved standards.
+(2) Sanitary professionals and technicians who must be registered under these regulations include sewerage system designers, installers and servicing agents, and any other class of professional or technician prescribed by the approved standards, who meet the requirements of the approved standards.
+(3) The Board has authority to determine and apply any other requirements in relation to necessary qualifications, training, practical experience and professional background, if they are additional to a requirement under the approved standards.
+(4) The construction or installation of a sewage system must be under the supervision of a registered sanitary professional or technician who is authorised by the Board to supervise or undertake such construction or installation.
+(5) The Ministry has authority to require that registered professionals and technicians be licensed, and to issue annual licences upon payment of a licence fee set under section 33(2) of the Ministry of Health Act 2013.
+(6) The date for the issue of annual licences under subclause (5) is to be determined by the Secretary of Health.
+(7) A person who designs, installs, constructs, maintains, or services a sewage system without holding a valid licence issued under this regulation commits an offence against these regulations.

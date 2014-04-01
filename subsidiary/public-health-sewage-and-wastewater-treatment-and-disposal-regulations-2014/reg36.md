@@ -1,0 +1,5 @@
+# 36 Proof of offence
+(1) In any prosecution for an offence against these regulations it is sufficient proof of the offence to establish that it was committed by an employee or agent of the accused, whether or not the employee or agent is identified or prosecuted for the offence.
+(2) A certificate of an inspector stating that the inspector has analysed or examined a site, system, substance or product, and stating the result of the analysis or examination, is admissible in evidence in any prosecution for an offence under these regulations, and in the absence of evidence to the contrary, is proof of the statements contained in the certificate.
+(3) Despite the provisions of subclause (2), the party against whom a certificate of an inspector is produced has a right, with the leave of the court, to require the attendance of the inspector for the purposes of cross-examination.
+(4) No certificate of an inspector is to be received in evidence unless the party intending to produce it has served it on the party against whom it is intended to be used.

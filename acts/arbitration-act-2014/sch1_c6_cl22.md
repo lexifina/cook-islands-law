@@ -1,0 +1,3 @@
+# 22 Language
+(1) The parties are free to agree on the language or languages to be used in the arbitral proceedings. Failing such agreement, the arbitral tribunal shall determine the language or languages to be used in the proceedings. This agreement or determination, unless otherwise specified, shall apply to any written statement by a party, any hearing, and any award, decision, or other communication by the arbitral tribunal.
+(2) The arbitral tribunal may order that any documentary evidence shall be accompanied by a translation into the language or languages agreed upon by the parties or determined by the arbitral tribunal.

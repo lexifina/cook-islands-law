@@ -1,0 +1,4 @@
+# 19 Determination of rules of procedure
+(1) Subject to the provisions of this Schedule, the parties are free to agree on the procedure to be followed by the arbitral tribunal in conducting the proceedings.
+(2) Failing such agreement, the arbitral tribunal shall decide all procedural and evidential matters and may, subject to the provisions of this Schedule, conduct the arbitration in such manner as it considers appropriate. The power conferred upon the arbitral tribunal includes the power to decide whether to apply the strict rules of evidence and the power to determine the admissibility, relevance, materiality, and weight of any evidence.
+(3) Every witness giving evidence, and every counsel or expert or other person appearing before an arbitral tribunal, shall have the same privileges and immunities as witnesses and counsel in proceedings before a court.

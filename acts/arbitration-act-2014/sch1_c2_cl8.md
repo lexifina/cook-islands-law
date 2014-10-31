@@ -1,0 +1,3 @@
+# 8 Arbitration agreement and substantive claim before court
+(1) A court before which proceedings are brought in a matter which is the subject of an arbitration agreement shall, if a party so requests not later than when submitting that party’s first statement on the substance of the dispute, stay those proceedings and refer the parties to arbitration unless it finds that the agreement is null and void, inoperative, or incapable of being performed, or that there is not in fact any dispute between the parties with regard to the matters agreed to be referred.
+(2) Where proceedings referred to in paragraph (1) have been brought, arbitral proceedings may nevertheless be commenced or continued, and an award may be made, while the issue is pending before the court.

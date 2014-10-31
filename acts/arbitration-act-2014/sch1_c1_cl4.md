@@ -1,0 +1,2 @@
+# 4 Waiver of right to object
+A party who knows that any provision of this Schedule from which the parties may derogate or any requirement under the arbitration agreement has not been complied with and yet proceeds with the arbitration without stating that party’s objection to such non-compliance without undue delay or, if a time-limit is provided therefore, within such period of time, is deemed to have waived the right to object.

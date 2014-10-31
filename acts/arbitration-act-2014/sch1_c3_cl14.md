@@ -1,0 +1,3 @@
+# 14 Failure or impossibility to act
+(1) If an arbitrator becomes de jure or de facto (in law or in fact) unable to perform the functions of that office or for other reasons fails to act without undue delay, that arbitrator’s mandate terminates on withdrawal from office or, if the parties agree, on the termination. Otherwise, if a controversy remains concerning any of those grounds, any party may request the High Court to decide on the termination of the mandate, which decision shall be subject to no appeal.
+(2) If, under this article or article 13(2), an arbitrator withdraws from office or a party agrees to the termination of the mandate of an arbitrator, this does not imply acceptance of the validity of any ground referred to in this article or article 12(2).

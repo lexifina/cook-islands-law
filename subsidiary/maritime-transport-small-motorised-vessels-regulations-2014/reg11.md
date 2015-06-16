@@ -1,0 +1,4 @@
+# 11 Inspection of motorised vessels
+(1) Any motorised vessel to which these regulations apply may be inspected for compliance with these regulations by the Director, or any person designated by the Secretary for that purpose, or by the Harbourmaster, or by a member of the Cook Islands Police Force, or any Fisheries Officer appointed under the Marine Resources Act, at any time deemed reasonable, to ensure that the correct safety equipment is on board and in good and workable condition.
+(2) Where a vessel does not meet the minimum required safety equipment on board, or is, in any way, deemed to be unseaworthy, the inspecting person may direct the driver or operator of the vessel not to take the vessel on any trip until the minimum required safety equipment requirement is met and the vessel is deemed seaworthy.
+(3) Any person who refuses to obey a direction under regulation 10(2) commits an offence and is liable upon conviction to a fine not exceeding $2,000.

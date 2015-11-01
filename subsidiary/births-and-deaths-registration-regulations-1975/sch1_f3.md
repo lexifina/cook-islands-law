@@ -1,0 +1,3 @@
+# Form No 3 Cook Islands Certificate of Date of Death reg 2
+I certify that, according to the record of deaths in my Office,................ died at................ on the................ day of................ 20................
+Registrar of Births and Deaths

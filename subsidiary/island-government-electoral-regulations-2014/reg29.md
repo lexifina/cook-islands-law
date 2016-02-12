@@ -1,0 +1,4 @@
+# 29 By-elections to fill vacancies
+(1) Subject to subclause (2), if a vacancy in the office of an elected member of an Island Government arises for any reason, the provisions of these regulations apply with all necessary modifications for the purposes of filling the vacancy.
+(2) If the vacancy occurs within 6 months immediately preceding the first day of the month during which the vacancy would be filled pursuant to scheduled Island Government elections under the Act, a by-election must not be held and the office remains vacant pending the outcome of the scheduled elections.
+(3) Where any vacancy has arisen prior to the commencement of these regulations, the provisions of these regulations apply to any by-election for such vacancies called by the Minister, and to be held on a date set by the Minister.

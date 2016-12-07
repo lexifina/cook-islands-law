@@ -1,0 +1,2 @@
+# 10 Eligibility for allocation of quota for the initial year
+A person is eligible to receive an allocation of a QMS stock for the initial year if, on the date which these regulations come into force, the person holds a license under the Act for 1 or more fishing vessels that entitles the holder to use the vessel or vessels to take for sale any fish of the stock in the fishery waters of the Cook Islands.

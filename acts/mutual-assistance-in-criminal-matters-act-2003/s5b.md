@@ -1,0 +1,5 @@
+# 5B Certain civil proceedings deemed to be criminal proceedings
+(1) A proceeding certified by the Attorney-General to have been instituted in respect of the forfeiture or restraint of property must be treated as a criminal proceeding, despite being civil in nature, if the property is, or is suspected on reasonable grounds to be or to be likely to be, tainted property or property of a corresponding value.
+(2) A proceeding certified by the Central Authority of the requesting country to have been instituted in respect of the forfeiture or restraint of property must be treated as a criminal proceeding, despite being civil in nature, if the property is, or is suspected on reasonable grounds to be or to be likely to be, tainted property or property of a corresponding value.
+(3) Proceedings treated as criminal proceedings under this section are criminal matters for the purposes of this Act.
+[Section 5B: inserted, on 24 June 2017, by section 5 of the Mutual Assistance in Criminal Matters Amendment Act 2017 (2017 No 7) .]

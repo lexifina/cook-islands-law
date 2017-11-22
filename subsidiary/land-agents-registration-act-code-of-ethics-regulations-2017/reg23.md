@@ -1,0 +1,3 @@
+# 23 Use of confidential information prohibited
+(1) A land agent must not use information, whether held by the land agent or by the practice, that is confidential to a client (including a former client) for the benefit of any other person or of the land agent.
+(2) For the purposes of this rule, confidential information is presumed to be held by a practice when any land agent who is a member of the practice has been a member of another practice that held the confidential information when that land agent was a member, unless the land agent concerned can demonstrate that he or she is not aware of the relevant confidential information.

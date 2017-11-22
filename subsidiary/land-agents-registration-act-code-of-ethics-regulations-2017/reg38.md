@@ -1,0 +1,2 @@
+# 38 Collateral rewards
+Except in respect of arrangements under which a third party has agreed to pay or contribute to normal fees payable by a client with the knowledge and consent of that client, a land agent must not directly or indirectly offer to, or receive from, a third party any reward or inducement in respect of any advice given, referral made, product or service purchased, or work done for a client.

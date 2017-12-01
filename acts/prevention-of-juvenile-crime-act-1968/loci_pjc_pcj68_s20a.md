@@ -1,0 +1,4 @@
+# 20A Appointment of Justice of Court
+(1) The Queen's Representative shall, on the recommendation of the Minister, appoint from time to time a Justice or Justices to exercise jurisdiction in the Children's Court and no Justice exercises such jurisdiction unless he or she is appointed so to do under this section. Provided that any Justice may exercise jurisdiction for the purpose of doing all necessary acts preliminary to the hearing, including the adjournment of the hearing, remanding the defendant, or releasing him or her on bail; and the provisions of section 24 apply to all such proceedings.
+(2) Notice in the Gazette of the appointment of a person or persons to exercise jurisdiction in a Children's Court is sufficient evidence of his or her authority so to do.
+[Section 20A: inserted, on 30 March 2000, by section 3 of the Prevention of Juvenile Crime Amendment Act 2000 (2000 No 4) .]

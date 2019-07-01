@@ -1,0 +1,6 @@
+# 6 Water supplies
+(1) Every person who shall desire a domestic or a commercial supply of water shall apply in writing to the Minister and if such application shall be approved, the Minister shall cause such a supply to be laid on from the waterworks. Every such person shall pay the expense of laying on such water-supply together with the reasonable cost of pipes, taps, apparatus, and accessories supplied in connection therewith. The Minister may require a deposit of money to be made before the laying on of any water-supply.
+(2) Water supplied for household purposes only shall be deemed to be a domestic supply.
+(3) Water supplied for other than household purposes shall be deemed to be a commercial supply provided that in any case where, in the opinion of the Minister, water supplied for other than household purposes does not exceed the quantity of water which may be supplied for household purposes, he may direct that such supply shall be regarded as a domestic supply for the purposes of this Ordinance.
+[Section 6(1): amended, on 10 November 1966, by section 3 of the Cook Islands Ordinances Amendment Act 1966 (1966 No 2) .]
+[Section 6(3): amended, on 10 November 1966, by section 3 of the Cook Islands Ordinances Amendment Act 1966 (1966 No 2) .]

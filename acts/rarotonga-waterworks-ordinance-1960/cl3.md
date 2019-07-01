@@ -1,0 +1,7 @@
+# 3 Minister may construct, extend, improve, or maintain waterworks
+(1) By notice published in the Gazette the Minister may from time to time declare that the water in any river, stream, lake, or pool is required for the purposes of this Ordinance and that it is his intention to use the water therein for the public supply in a manner to be specified in the notice.
+(2) Within 90 days of the publication of any notice under the preceding subsection any person may by notice addressed to the Minister lodge an objection to the use of such river, stream, lake, or pool for the public supply and all such objections shall be heard and determined in the High Court of the Cook Islands.
+(3) In considering objections lodged in accordance with the preceding subsection the High Court shall have regard to the public interest and may uphold or dismiss the objection or may state conditions under which the Minister may use the water in respect of which the notice has been given and any such determination by the High Court shall be binding on the Minister so far as that particular notice is concerned but shall not limit the right of the Minister to make a similar declaration in respect of the same water at some later date.
+(4) [Repealed]
+[Section 3: amended, on 10 November 1966, by section 3 of the Cook Islands Ordinances Amendment Act 1966 (1966 No 2) .]
+[Section 3(4): repealed, on 1 July 2019, by Schedule of the Infrastructure Act 2019 (2019 No 6) . ]

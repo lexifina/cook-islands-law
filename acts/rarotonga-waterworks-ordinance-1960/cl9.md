@@ -1,0 +1,4 @@
+# 9 Delegation of Powers of Minister
+(1) Subject to subsection (2) the Minister may from time to time delegate to any servant, workman, contractor, or agent, of the Ministry, or any wholly owned state owned enterprise deemed to be a subsidiary of the Cook Islands Government Property Corporation, as he thinks fit all or any of the other powers exercisable by him under this Ordinance and a person, natural or corporate, purporting to act pursuant to any delegation under this section shall be presumed to be acting in accordance with the terms of the delegation in the absence of proof to the contrary.
+(2) Despite subsection (1) the Minister may not delegate any powers provided in section 3(1).
+[Section 9: replaced, on 22 December 2015, by section 8 of the Rarotonga Waterworks Ordinance Amendment Act 2015 (2015 No 5) .]

@@ -1,0 +1,4 @@
+# 138 Sleeping accommodation
+(1) Where sleeping accommodations in individual cells, only one inmate may occupy each cell.
+(2) Where sleeping accommodation is not in individual cells current Health Department regulations as to accommodation standards must be observed.
+(3) Where there is a shortage of accommodation the Superintendent may, with the approval of the Director (given either generally or in a particular case) and with the concurrence of the medical officer in the particular case; authorise the accommodation of more than one inmate in a cell or, as the case may be, the provision of sleeping accommodation which does not comply with the standards mentioned in subclause (2); Provided that in an emergency it is necessary for the Superintendent to obtain the approval of the Director or the concurrence of the medical officer but they must afterwards be notified as soon as possible.

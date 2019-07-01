@@ -1,0 +1,2 @@
+# 100 Fees for higher education
+Any fees and other expenses of any such course in higher education or specialist course must be paid by the inmate, except in any special case approved by the Director. Despite any such approval given by the Director, the Director may require any fees or other expenses of any such course in higher that education or specialist course be charged to the inmate if his or her conduct at classes or lectures or his or her diligence is not satisfactory.

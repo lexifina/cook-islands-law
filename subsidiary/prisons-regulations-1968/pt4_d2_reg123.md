@@ -1,0 +1,3 @@
+# 123 Inmate unfit for detention
+(1) Whenever the medical officer has reason to believe that any inmate’s mental or physical health has been or likely to be injuriously affected by continued detention or by any conditions of detention, or that the life of any inmate will be endangered by detention, or that any sick inmate will not survive his or her sentence or is totally or permanently unfit for detention, the medical officer must, without delay, report the case in writing to the Superintendent with such recommendations as he or she thinks fit.
+(2) The Superintendent must forward such report and recommendations to the Director forthwith.

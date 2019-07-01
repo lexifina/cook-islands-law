@@ -1,0 +1,2 @@
+# 101 Attendance
+Attendance at classes in primary education may be made compulsory for any inmate if the Superintendent is of the opinion that his or her standard of education is too low and that he or she would benefit from further education. Attendance at any other course, class, or lecture may be made compulsory for any inmate if the Superintendent considers such course, class, or lecture would be beneficial to the inmate.

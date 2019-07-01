@@ -1,0 +1,2 @@
+# 80 Transfer of inmate to penal grade
+The Director or a Visiting Justice may direct the transfer to the penal grade of any inmate who has on 3 or more occasions been found guilty, whether by the Superintendent or a Visiting Justice or by a court, of conduct or acts which are offences against discipline under section 26(1) of the Act or who has been found guilty, whether by a Visiting Justice or by a court, of any conduct or act which is an offence against discipline under section 26(2).

@@ -1,0 +1,2 @@
+# 46 Property of inmate on admission
+All property taken from any inmate on his or her admission, and any of his or her property (other than toilet requisites, other personal articles, and books, approved by the Superintendent) that is brought into the prison after his or her admission, must be placed in the charge of the Superintendent: Provided that the Superintendent may refuse to receive any article into his or her charge, and may in any such case, on behalf of the inmate, make arrangements for the storage of the article at the inmate’s expense.

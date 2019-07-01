@@ -1,0 +1,2 @@
+# 148 Visitors
+Subject to regulations 107, 108, 109, and 110 and regulation 106(2) and (4), every inmate awaiting trial must be afforded all reasonable facilities for receiving visitors at reasonable times on any day except Christmas Day, Boxing Day, New Year’s Day, Anzac Day, Good Friday, Easter Monday, Queen’s Birthday Constitution Day, Saturday, and Sunday; and may be afforded facilities on any such day if the Superintendent approves.

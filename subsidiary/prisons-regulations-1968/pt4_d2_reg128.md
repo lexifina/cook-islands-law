@@ -1,0 +1,2 @@
+# 128 Inspections
+At least once in every 3 months, and whenever required by the Director, the medical officer must inspect every part of the prison and must send to the Director, through the Superintendent, a report on the cleanliness of the prison, the drainage, warmth, and ventilation, the quality of the provisions, the adequacy of clothing and bedding, the quantity and quality of the water, and any other matters which may affect the health of the inmates; and must draw attention to any deficiencies.

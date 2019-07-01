@@ -1,0 +1,5 @@
+# 159 Appeal against sentence
+(1) Subject to the provisions of this regulation, every inmate who has appealed, or applied or leave to appeal, only against a sentence imposed on him or her must pending the determination of his or her appeal or application, be treated in the manner required by the sentence.
+(2) Any inmate who has appealed or applied for leave to appeal against a conviction or order, and is not in custody only under the conviction or order to which the appeal or application relates, must, pending the determination or his or her appeal or application, be treated as if no such appeal or application had been made.
+(3) For the purposes of his or her appeal or application the inmate may receive visits from a medical practitioner or other professional adviser selected by him, or by his or her friends or his or her legal adviser, under the same conditions as those applying to visits by his or her legal adviser.
+(4) The provisions or regulation 151(2) and (3) apply to the inmate as if he or she were an inmate awaiting trial and as if the preparation of the appeal or application were the preparation of his or her defence.

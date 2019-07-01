@@ -1,0 +1,2 @@
+# 94 Denomination of inmate
+The denomination of any inmate shall be determined by his or her voluntary statement on his or her admission inmate may change his or her denomination from time to time by notifying the Superintendent, but no inmate under the age of 21 years may change his or her denomination without prior reference to his or her parents or guardian or, if they are dead or cannot be communicated with readily, to the Director.

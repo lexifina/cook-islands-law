@@ -1,0 +1,2 @@
+# 160 Removal to High Court or Supreme Court of New Zealand
+Where any inmate has been granted leave to be present at any proceedings before the High Court or the Supreme Court of New Zealand, or an order has been made that any inmate be taken to any place for the purpose or such proceedings, the inmate must be escorted by an officer and must, unless his or her release is ordered by the court, remain in the custody of the officer while he or she is absent from the prison.

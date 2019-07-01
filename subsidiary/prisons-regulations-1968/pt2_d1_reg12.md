@@ -1,0 +1,3 @@
+# 12 Information to be given to inmates
+(1) The Superintendent must cause a summary approved by the Director of those parts of the Act and of these regulations which relate to inmates to be posted in a conspicuous and accessible part of the prison.
+(2) He or she must see all inmates as soon as possible after their admission and must satisfy himself or herself that each inmate understands the provisions of the Act and of these regulations governing the treatment of inmates, including those relating to earnings and privileges, to the remission of sentences, to the proper method of making complaints, to food, clothing, bedding, and other necessaries, and to the disciplinary requirements of the prison.

@@ -1,0 +1,2 @@
+# 146 Retention of property in cell
+So far as is consistent with discipline and the good order or the prison, the Superintendent may allow any inmate awaiting trial to have in his or her cell any articles that were in his or her possession at the time of his or her admission and are not required for the purposes of justice or reasonably suspected or forming part of property improperly acquired by him.

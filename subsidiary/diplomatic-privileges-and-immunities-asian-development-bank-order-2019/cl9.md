@@ -1,0 +1,2 @@
+# 9
+The Asian Development Bank will have the like exemption from taxes and rates, other than taxes on the importation of goods as is accorded the Government of any other State. For the exemption from payment of Value Added Tax (VAT) the Asian Development Bank will submit to the Ministry of Finance all VAT tax receipts accumulated over the financial year to 30 June to enable a refund of VAT to be processed and paid.

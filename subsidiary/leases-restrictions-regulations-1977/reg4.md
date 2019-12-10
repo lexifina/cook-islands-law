@@ -1,0 +1,2 @@
+# 4 Failure to comply with these regulations
+Failure to comply with any of these regulations does not render any proceedings of the Committee void unless expressly so provided for in the Act or unless the Committee so directs: Provided that any such proceedings may be set aside either wholly or in part as irregular or may be amended or otherwise dealt with in such manner and upon such terms as the Committee thinks fit.

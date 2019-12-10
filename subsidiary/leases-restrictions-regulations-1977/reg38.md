@@ -1,0 +1,6 @@
+# 38 No right of renewal
+The Tribunal must not approve any lease, sublease, assignment of lease or assignment of sublease in which there is a clause giving the lessee or sub-lessee as the case may be a right to renew the term of the lease, unless the owners in the land have considered that clause and the Tribunal is satisfied that:
+(a) the nature and extent of the clause has been explained to those owners in the land in the Cook Islands Maori language by an officer of the High Court approved in writing by the Secretary of Justice or the Registrar to be competent for the purpose; and
+(b) an appropriate certificate duly signed to that effect by the person who carried out the explanation has been endorsed on the document; and
+(c) the person or persons to whom the explanation in Cook Islands Maori has been given was not held responsible for the cost of providing that explanation but that cost is met by the party or their representative who requires the clause to be recorded in English.
+[Regulation 38: inserted, on 14 October 2005, by regulation 5 of the Leases Restrictions (Amendment) Regulations 2006 (SN 2006/2) .]

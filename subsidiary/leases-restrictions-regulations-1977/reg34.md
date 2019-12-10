@@ -1,0 +1,3 @@
+# 34 Right of person to be heard
+Any person who has any interest in the land that is the subject matter of the application before the Tribunal may, upon verbal or written application being made to the Tribunal, be heard by the Tribunal in respect of the application, and the Tribunal may, after hearing such person and the parties to the application, either adjourn the application upon such conditions as the Tribunal may decide to impose or dismiss the application.
+[Regulation 34: inserted, on 14 October 2005, by regulation 5 of the Leases Restrictions (Amendment) Regulations 2006 (SN 2006/2) .]

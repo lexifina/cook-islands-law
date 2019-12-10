@@ -1,0 +1,5 @@
+# 25 Owners or Cook Islanders to be given first right of refusal in lease
+The Tribunal must not approve any sublease or assignment of lease or assignment of sublease unless the deed for the transaction expressly provides for—
+(a) the owners in the land residing on the island on which the land is situated to be given first notice of any intended assignment or subletting and first option to purchase or refuse to purchase such assignment or subletting and the Tribunal is satisfied that such provision is reasonable; or
+(b) a Cook Islander residing in the Cook Islands to be given first right of refusal where there are no owners in the land residing on the island on which the land is situated willing to purchase such assignment or subletting and the Tribunal is satisfied that the lessee has made reasonable attempts to give notice of the intended assignment or subletting and the Tribunal is satisfied that such provision is reasonable.
+[Regulation 25: inserted, on 14 October 2005, by regulation 5 of the Leases Restrictions (Amendment) Regulations 2006 (SN 2006/2) .]

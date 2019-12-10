@@ -1,0 +1,21 @@
+# Part 2 Statements privileged subject, in the case of a newspaper or a broadcasting station, to explanation or contradiction
+3 | A fair and accurate report of the proceedings of the legislature of any territory outside the Cook Islands or of any Committee of any such legislature.
+4 | A fair and accurate report of the proceedings of any Court of justice outside the Cook Islands whether those proceedings are preliminary, interlocutory, or final, and whether in open Court or not, or of the result of any such proceedings.
+5 | A fair and accurate report of the proceedings in any inquiry held under the authority of the Government or Parliament of any territory outside the Cook Islands, or a true copy of or a fair and accurate extract from or abstract of any official report made by the person by whom the inquiry was held.
+6 | A fair and accurate report of the proceedings of any international organisation of which the Cook Islands or any other territory within the Commonwealth, or the Government of the Cook Islands or any such territory, is a member, or of any international conference to which the Government of the Cook Islands or any other territory within the Commonwealth sends a representative.
+7 | A fair and accurate copy of or extract from any register kept in pursuance of any Act which is open to inspection by the public, or of any other document which is required by the law of the Cook Islands to be open to inspection by the public.
+8 | A notice or advertisement published by or on the authority of any Court of justice, whether within the Cook Islands or elsewhere, or any Judge or Officer of such a Court.
+9 | A fair and accurate report of the proceedings at any meeting or sitting in any part of the Cook Islands of—
+| (a) | any local authority or committee of a local authority or local authorities:
+| (b) | any person or body appointed or constituted by or under, and exercising functions under any Act (not being a Court of justice or a person holding an inquiry to which clause 5 of this Schedule relates),—
+| not being a meeting or sitting admission to which is denied to representatives of newspapers and other members of the public.
+10 | A fair and accurate report of the proceedings, or of the result of the proceedings, in any inquiry held in accordance with the rules of any association formed for the purpose of—
+| (a) | promoting or safeguarding the interests of any game, sport, or pastime to the playing or exercise of which members of the public are invited or admitted; or
+| (b) | promoting or safeguarding the interests of any trade, business, industry, or profession, or of the persons carrying on or engaged in any trade, business, industry, or profession; or
+| (c) | promoting or encouraging the exercise of or interest in any art, science, religion, or learning,—
+| being an inquiry relating to a person who is a member of or is subject by virtue of any contract to the control of the association.
+11 | A fair and accurate report of the proceedings, or of the result of the proceedings, in any inquiry held in accordance with the rules of any association formed for the purpose of promoting and safeguarding the standards of the news media of the Cook Islands.
+12 | A fair and accurate report of the proceedings at any public meeting held in the Cook Islands, that is to say, a meeting bona fide and lawfully held for a lawful purpose and for the furtherance or discussion of any matter of public concern, whether the admission to the meeting is general or restricted.
+13 | A fair and accurate report of the proceedings at a general meeting of any company or association constituted or registered by or under any Act or of any other incorporated company or association operating in the Cook Islands, not being a meeting admission to which is denied to representatives of newspapers and other members of the public.
+| [Clause 13: amended, on 10 December 2019, by Schedule 16 clause 12 of the Companies Act 2017 (2017 No 14).]
+14 | A copy or fair and accurate report or summary of any statement, notice, or other matter issued for the information of the public by or on behalf of the Government or any department or officer thereof, or any local authority or any member or officer thereof.

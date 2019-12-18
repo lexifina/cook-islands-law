@@ -1,0 +1,2 @@
+# 11 Linked life
+Contracts of insurance on human life or contracts to pay annuities on human life where the benefits are wholly or partly to be determined by reference to the value of, or the income from, property of any description (whether or not specified in the contracts) or by reference to fluctuations in, or in an index of, the value of property of any description (whether or not so specified).

@@ -1,0 +1,8 @@
+# 6A Term of office of directors
+(1) A director must be appointed for a term not exceeding 3 years as specified in his or her instrument of appointment, and may from time to time be reappointed.
+(2) However, no person may serve for more than 12 successive years as a director of the Board.
+(3) A director whose term of office expires continues in office until—
+(a) his or her successor is appointed; or
+(b) he or she is given notice in writing from the Chairperson of the Board of the Corporation that he or she will not be reappointed.
+(4) A director is not entitled to compensation, severance, or other benefits on, or because of, ceasing to be a director for any reason.
+[Section 6A: inserted, on 19 December 2019, by section 5 of the Ports Authority Amendment Act 2019 (2019 No 20) .]

@@ -1,0 +1,2 @@
+# 8 Validity, perfection, etc of security interest in minerals
+Despite clause 5 (Validity and perfection of security interest in intangibles, movable equipment, etc), the validity, perfection, and the effect of perfection or non-perfection of a security interest in as-extracted collateral is governed by the law of the jurisdiction in which the minehead or wellhead is located if the security interest is provided for in a security agreement entered into before the collateral is extracted.

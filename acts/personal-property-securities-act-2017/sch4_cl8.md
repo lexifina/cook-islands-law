@@ -1,0 +1,2 @@
+# 8 Certain other prior security interests deemed to be perfected during transitional period
+A prior security interest (other than a security interest to which clause 7 applies) is, during the transitional period, deemed to be perfected by registration under this Act if the prior security interest had (under the prior law and without the collateral relation to that prior security interest being taken into possession by the secured party) had priority over every other prior security interest (if any).

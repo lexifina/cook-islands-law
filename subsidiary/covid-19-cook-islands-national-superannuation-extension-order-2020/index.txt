@@ -1,0 +1,4 @@
+title.md
+loci_covid-cins_cinseo20_reg1.md
+loci_covid-cins_cinseo20_reg2.md
+loci_covid-cins_cinseo20_reg3.md

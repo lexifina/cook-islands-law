@@ -1,0 +1,2 @@
+# 40 Validity of acts
+All actions and decisions of the head of the ministry, or any ministry employee acting under the authority of the head of the ministry under this Act, the enactments listed in the Schedule, or any other relevant enactment, are deemed to have been validly done or made despite any defect, expiry, error, or lapse in the appointment of the person taking the action or making the decision.

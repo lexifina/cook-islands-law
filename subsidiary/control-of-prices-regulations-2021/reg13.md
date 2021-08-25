@@ -1,0 +1,3 @@
+# 13 Seizure of books or documents under search warrant
+(1) A person who seizes any books or documents under a search warrant must provide the occupier of the place where the books are seized with a notice in form 3 of Schedule 2.
+(2) If a person executing a search warrant is uncertain whether any item found may be lawfully seized and it is not reasonably practicable to determine whether that item can be seized at the place that is being searched, the person executing the warrant may, subject to subclause (1), remove the item for the purpose of examination or analysis to determine whether it may be lawfully seized.

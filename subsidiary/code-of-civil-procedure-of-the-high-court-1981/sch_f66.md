@@ -1,0 +1,9 @@
+# HC66 Warrant of committal r 252(4)
+(General title — Form 1)
+To a constable at ................).
+and To the Gaoler of the prison at................
+Whereas by an order bearing date the ................ day of ................ 20 ................, it was ordered that................ , of ................ , should stand committed to prison for contempt of this Court.
+This is therefore to command you, the said................ , to arrest the said ................ and safely convey and deliver him or her to the Gaoler of the prison at ................ , and you, the said Gaoler, to receive the said ................ and keep him or her safely in the said prison for the term of ................ or until the further order of this Court.
+Dated at................ , this................ day of ................ , 20................
+................
+Registrar

@@ -1,0 +1,9 @@
+# HC65 Order of commital for breach of or neglect to obey order r 252(4)
+(General title — Form 1)
+Whereas by an order of this Court, dated the ................ day of ................ , 20................, [Here recite the order]:
+Now, upon the application of the ................ , and upon hearing the ................ (or, as the case may be, and upon reading the affidavit of ................showing that a copy of the said order endorsed with a notice in the form number 63 and notice of this application have been severally served upon the ................), and upon [State such evidence as may have been given], the Court, being of opinion, upon consideration of the facts disclosed by the evidence given, that the said ................ has been guilty of a contempt of this Court by a breach of (or by neglecting to obey) the said order — that is to say, by [Here set out the particular matter or contempt] - orders that the said ................ be committed to the prison at ................ for the term of ................ for his or her contempt, and that a warrant of committal for the arrest of the said ................ be forthwith issued.
+And it is ordered that the said ................ do pay the costs of the ................ of this application and of the committal, amounting ................ to $ ................
+(Add, if so ordered, And it is further ordered that any application for the release of the said ................ from custody must be made to the High Court at ................).
+Dated at................ , this................ day of ................ , 20................
+................
+Registrar

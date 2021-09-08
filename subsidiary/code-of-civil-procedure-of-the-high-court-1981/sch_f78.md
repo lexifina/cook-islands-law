@@ -1,0 +1,9 @@
+# HC78 Writ of arrest r 287(1)
+(General title — Form 1)
+To a Constable at ................
+Whereas it has been made to appear to the satisfaction of me, the undersigned Judge by the affidavit of ................ , the plaintiff in the above action, that he or she, the above-named plaintiff, has a good cause of action against the above-named defendant for the sum of ................ dollars and ................ cents, for which a summons has been issued out of this Court (or out of the High Court at ................ ), and that there is probable cause for believing that he or she, the said defendant, is about to leave the Cook Islands, and to evade payment of the said sum of $ ................:
+Now, therefore, I do hereby command you, by virtue of the powers given to me by Rule 284 of the Code of Civil Procedure of the Cook Islands, that, unless the said defendant deposits with you, or with the Registrar of the High Court, the said sum of $ ................ , together with costs, $ ................ , to be paid, applied, and disposed of according to the judgment of the Court in this action, you do immediately bring him or her, the said defendant, before me, the said Judge, at the High Court at ................ , to be further dealt with according to law.
+And I do further command you to certify to me without delay what you shall do under this warrant.
+Dated at................ , this................ day of ................ , 20................
+................................
+Judge

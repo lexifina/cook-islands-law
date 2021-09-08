@@ -1,0 +1,6 @@
+# HC53 Order for rehearing r 221(7)
+(General title — Form 1)
+It is ordered that the judgment (or order) in this action and all subsequent proceedings thereon be set aside subject to the following terms and conditions; ................ ; and that a rehearing be had between the parties at the High Court at ................ ,on ................ day, the ................ day of ................ , 20 ................ , at the hour or ................ in the morning.
+Dated at................ , this................ day of ................ , 20................
+................
+Registrar

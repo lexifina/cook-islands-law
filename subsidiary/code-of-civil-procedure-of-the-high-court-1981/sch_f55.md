@@ -1,0 +1,6 @@
+# HC55 Order to proceed where change of parties after judgement r 226(3)
+(General title — Form 1)
+It is ordered that ................ , of ................ , [Occupation], the ................ of ................ , the plaintiff (defendant) in this action be substituted as plaintiff (defendant) for the original plaintiff (defendant) and that the said ................ be at liberty to issue execution against the said ................ or to take any such action as the said ................ would have been entitled to take against the said ................ for the amount of the unsatisfied judgment and costs in this action. (or that the question whether ................ , of ................ , the ................ of ................ , the original plaintiff in this action, is entitled to recover the amount of the judgment obtained against ................ , the defendant in this action, and costs, shall be tried in an action wherein the said ................ shall be plaintiff and the said ................ shall be defendant.)
+Dated at................ , this................ day of ................ , 20................
+................
+Registrar

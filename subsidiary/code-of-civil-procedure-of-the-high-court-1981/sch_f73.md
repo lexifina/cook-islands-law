@@ -1,0 +1,9 @@
+# HC73 Notice by sub-debtor disputing debt claimed r 264(1)
+(General title — Form 1)
+Take notice that I, the above-named sub-debtor, dispute the debt claimed to be due from me to the above-named judgment debtor.
+Dated at................ , this................ day of ................ , 20................
+................
+Sub-debtor
+To the Registrar of the High Court at ................
+and
+To the above-named Judgment Creditor and Judgment Debtor.

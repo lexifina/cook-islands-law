@@ -1,0 +1,13 @@
+# HC75 Notice to plaintiff where interpleader summons issued person making adverse claim to debt or other thing in action, money, or goods r 276(1)
+(Title - As in Form 74).
+Whereas the defendant in this action has filed an affidavit (a copy whereof is hereto annexed) stating that he or she has received notice from ................ , of ................ , claiming the subject-matter in this action (or part of the subject-matter in this action):
+Take notice that a summons has been issued to the said ................ to attend at the High Court at ................ , on ................ day, the ................ day of ................ , 20 ................ , at the hour of ................ in the ................ noon (and that the hearing of this action has been adjourned to the same place, day, and hour), when judgment will be given determining the rights and claims of yourself, the defendant, and the said................
+Dated at................ , this................ day of ................ , 20................
+................
+Registrar
+To the Plaintiff.
+NOTICE — The claimant is required within days after service of the said summons upon him or her, inclusive of the day of service, to file in the Court office and to serve upon you and upon the defendant, either a notice that he or she makes no claim, or particulars stating the grounds of his or her claim to the subject-matter in the action.
+The address for service of the defendant is at ................; and the address for service of the claimant is at ................
+The following information is to be written in the left hand margin of the form—
+The office of the Court is open to the public from ................ to ................ on Mondays to Fridays inclusive.
+If you are in doubt, consult the Registrar immediately.

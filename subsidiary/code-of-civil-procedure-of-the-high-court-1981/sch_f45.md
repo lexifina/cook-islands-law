@@ -1,0 +1,6 @@
+# HC45 Certificate of non-appearance r 184(17)
+(General title — Form 1)
+It is hereby certified that the application of the plaintiff (defendant) to take the evidence of ................ was called in Court this day, but neither of the parties having appeared, the application was struck out (or the ................ only having appeared, the application was struck out, with costs, as in the certificate annexed hereto).
+Dated at................ , this................ day of ................ , 20................
+................
+Examining Registrar

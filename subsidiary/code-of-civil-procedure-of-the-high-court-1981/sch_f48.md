@@ -1,0 +1,6 @@
+# HC48 Order suspending judgment, order, execution, or order commital, or for discharge of debtor r 210(1)
+(General title — Form 1)
+On the application of ................ , and the Court being satisfied that the defendant is unable to pay and discharge the sum recovered against him or her in this action (or the instalments due under the judgment (or order) in this action), it is ordered that the judgment (or order) be suspended (or that the execution issued in this action be suspended (or that the order of committal made in this action be suspended) for [State time], upon the following terms, namely— [State terms]. (or that the defendant be discharged from custody under the order of committal issued in this action upon the following terms, namely— [State terms, including, if so ordered, liability to rearrest if the terms are not complied with].
+Dated at................ , this................ day of ................ , 20................
+................
+Registrar

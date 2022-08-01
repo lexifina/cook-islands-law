@@ -1,0 +1,6 @@
+## Urgent directions by Secretary of Health or Commissioner of Police
+# 8 Commissioner of Police or Secretary of Health may give direction in urgent situation
+(1) If the Commissioner of Police or the Secretary of Health considers that there is insufficient time to make a direction under regulation 7, they may give a verbal or written direction, including to a particular person, in respect of anything that may be the subject of a direction under regulation 7.
+(2) However, the Commissioner of Police or the Secretary of Health must not give a direction unless satisfied that the direction is reasonably required to achieve the purpose of these regulations.
+(3) A direction has effect for a period of 72 hours only. After that period, a direction under regulation 7 is required to continue the matter to which a direction under this regulation relates.
+(4) The person who gives a verbal direction must, when it is practicable to do so, publically notify the direction in accordance with regulation 7(4) (although the direction has effect from the time it is given) or, if the direction applies to a particular person, give that person a written copy of the direction which must include the reasons for the direction.

@@ -1,0 +1,3 @@
+# 9 Appropriate scale and extent of the fishery
+(a) Despite a long period of access for the US fleet, there are only sporadic results and one comprehensive year of catch history to fully understand the likely catch rates and catch values of the domestic purse seine fishery.
+(b) Stock assessment conducted by the oceanography division of the French Space Agency (CSL) suggest that biomass of skipjack tuna in the Cook Islands waters is 189,000 tonnes and fishing effort of 30,000 tonnes will not significant reduce spawning biomass below the 40% reference point commonly utilized in fisheries management.

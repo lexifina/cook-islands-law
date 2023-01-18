@@ -1,0 +1,4 @@
+# 15 Limits on fishing effort
+(a) The effort of purse seine fishing vessels shall be limited to 1,250 days per annum in the fishery waters.
+(b) If the Secretary determines that the level of total purse seine catch in the fishery waters exceeds 30,000 metric tonnes in any consecutive 4 quarter period, he or she must review the impact of this level of catch on achievement of the objectives of the Fishery Plan, and may reduce the total effort of purse seine fishing, or apply appropriate limits to fishing in the fishery waters, which may include time/area closures.
+(c) The Secretary may apply additional limits to fishing with the approval of the Minister and after consultation with the key stakeholders in the purse seine fishery when he or she is of the opinion that it is in the interest of the sustainability or economic viability of the purse seine fishery.

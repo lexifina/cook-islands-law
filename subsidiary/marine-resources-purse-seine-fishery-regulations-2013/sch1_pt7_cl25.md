@@ -1,0 +1,2 @@
+# 25 Savings
+(a) This Fishery Plan must be interpreted in a manner consistent with the provisions of the Act provided however that if any provision of this Fishery Plan or any conditions imposed by or under this Fishery Plan are held to be invalid, the invalidity does not affect the provisions of any other part of the Fishery Plan or conditions imposed, and to this end the remaining provisions of the Fishery Plan or other conditions must be treated as severable from the invalid provisions or conditions.

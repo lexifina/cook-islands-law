@@ -1,0 +1,2 @@
+# 48 General penalty for breach of regulations
+Any person who contravenes any provision of these regulations or acts in contravention of any licence, permit or authorisation granted pursuant to these regulations commits an offence and, unless otherwise provided in these regulations or in the Act, is liable to a fine not exceeding $250,000, and where the offence is a continuing one, a further fine not exceeding $5,000 for every day that the offence has continued.

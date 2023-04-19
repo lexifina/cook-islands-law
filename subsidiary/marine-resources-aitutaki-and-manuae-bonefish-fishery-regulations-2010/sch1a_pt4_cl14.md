@@ -1,0 +1,3 @@
+# 14 Consultative Process
+(1) Pursuant to section 7(3) of the Act and the need to consult with interested parties the Aitutaki and Manuae Bonefish Management Committee shall conduct public consultations with interested parties that may include, but not limited to village Councillors, Aitutaki Game Fishing Club, and lagoon tour operators.
+(2) Following the public consultations conducted by the management committee the recommendations received shall be further considered by the Council before referring such recommendation to the Secretary for consideration as part of the review of this Fishery Plan.

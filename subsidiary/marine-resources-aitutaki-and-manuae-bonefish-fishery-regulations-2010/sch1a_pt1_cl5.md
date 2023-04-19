@@ -1,0 +1,3 @@
+# 5 Target species and area of applicatioņ
+(a) For the purposes of this Fishery Plan, the bonefish fishery, is defined to encompass all fishing activities involved in the catching of bonefish species (Family: Albulidae) locally known as the kiokio, from the lagoon and surrounding reefs of Aitutaki and Manuae.
+(b) Two species of bonefish have been reported to occur in the Pacific. The more common of the two species is Albula glossodonta and the less common species is Albula forsteri. Both species have been reported to exist in Aitutaki and Manuae. The bonefish sport fishery and status of the fishery at Aitutaki is summaries in Annex 1.

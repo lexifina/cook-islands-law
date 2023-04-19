@@ -1,0 +1,3 @@
+# 10 Authority to manage Bonefish Fishery
+(1) Pursuant to section 6 of the Marine Resources Act 2005, the Queen’s Representative has the power to declare a designated fishery and has done so by Order in Executive Council thereby declaring the bonefish fishery to encompass all fishing activities involved in the catching of bonefish from the lagoons and surrounding reefs of Aitutaki and Manuae, having made such order, having regard to scientific, social, economic, environmental and other relevant considerations, it is determined that such fishery, is important to the national interest and requires management measures for ensuring sustainable use of the fishery resources.
+(2) There shall be established an Aitutaki and Manuae Bonefish Management Committee under this Plan.

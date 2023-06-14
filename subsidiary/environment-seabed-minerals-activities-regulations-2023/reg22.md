@@ -1,0 +1,4 @@
+# 22 Conditions of consent
+(1) Under section 36AA(2)(b) of the Act, the permitting authority may grant consent to the activity subject to 1 or more conditions that it considers necessary to deal with the adverse effects of the activity on the marine environment, which may include the duration of the consent.
+(2) The permitting authority may obtain advice or information from the Service (which may engage approved experts if it considers it necessary), or information or advice from relevant Crown agencies, or advice from an approved expert (through the Service), to assist the permitting authority's formulation of any conditions.
+(3) If the permitting authority obtains any advice or information, it must (through the Service) provide a summary to the applicant within 10 days after receiving it.

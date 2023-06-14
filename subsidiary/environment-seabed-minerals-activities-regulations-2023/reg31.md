@@ -1,0 +1,2 @@
+# 31 Service must determine if application complete
+The Service must, within a reasonable period after receiving an application, and after taking account of any expert review commissioned under regulation 32, any request for further information under regulation 33, or any information or advice obtained under regulation 34, determine whether or not the application is complete in that it complies with regulations 29 and 30.

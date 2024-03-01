@@ -1,0 +1,3 @@
+# 7 Capacity-building and employment of Cook Islanders
+The title holder must cooperate in capacity-building of the people of the Cook Islands in connection with seabed mineral activities, and any related transfer of technology that may be agreed in the title, including providing opportunities in consultation with the Authority for the participation of Cook Islanders in the seabed mineral activities in accordance with the approved local engagement, training, and business development plan.
+[Schedule 2 clause 7: amended, on 1 July 2020, by section 30(5) of the Seabed Minerals Amendment Act 2020 (2020 No 18) .]

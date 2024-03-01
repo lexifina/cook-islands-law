@@ -1,0 +1,3 @@
+# 6 Closure of site
+The title holder must, at the termination of the title, remove installations, equipment and materials related to the title operations, so as to ensure that the title area does not constitute a danger to persons, shipping, or the marine environment; comply with any prescribed requirements, relating to site closure, and provide a final report to the Authority including information on the closure and rehabilitation of the title area in accordance with any approved closure plan.
+[Schedule 2 clause 6: amended, on 1 July 2020, by section 30(4) of the Seabed Minerals Amendment Act 2020 (2020 No 18) .]

@@ -1,0 +1,10 @@
+# 38 Obligations of associates and affiliates
+(1) Any agreement or other arrangement between the licence holder and associates or affiliates engaged or to be engaged in all or put of the regulated activity must contain appropriate terms by which the associate or affiliate acknowledges the terms and conditions of the licence, to the extent applicable to the activities undertaken by the affiliate or associate.
+(2) A licence holder must ensure that all affiliates and associates—
+(a) undertaking work and tasks authorised by the licence are made aware of the terms and conditions of the licence, and any subsequent revisions or amendments; and
+(b) undertake their operations to ensure compliance with the terms and conditions, the Act and these regulations.
+(3) A licence holder who delegates, contracts, or otherwise arranges for work or tasks under the licence to be carried out by an affiliate, associate, or other third party is not discharged from the licence holder’s obligations under the Act, these regulations, and the licence.
+(4) A licence holder must notify the Authority in writing of any proposed changes to the affiliates or associates that will carry on any regulated activity on behalf of the licence holder not less than 30 days before the suggested date of implementation of the proposed change. The Authority may at any time request that the licence holder provides it with further information to determine that the licence holder continues to satisfy the qualification criteria under section 64.
+(5) A direction to a licence holder under section 112 of the Act extends to any affiliate or associate carrying on the regulated activity for or on behalf of the licence holder, and the licence holder must give a copy of the direction to the affiliate or associate.
+(6) Nothing in this regulation precludes the Authority or an inspector from issuing a direction directly to any affiliate or associate under section 112 of the Act.
+(7) A licence holder that fails to comply with any of subclauses (1), (2), and (4) commits an offence and is liable on conviction to a fine not exceeding $250,000.

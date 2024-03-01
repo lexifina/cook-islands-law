@@ -1,0 +1,2 @@
+# 6 Compliance and enforcement
+This licence and its terms and conditions are issued under and subject at all times to the Act and the regulations, as amended from time to time. Any breach of the Act, the regulations and the licence terms and conditions may lead to enforcement action being taken by the Authority. This can include the issuing of written warnings or directions by the Authority under the Act, the variation, suspension or cancellation of the licence under section 117 of the Act, the imposition of penalties, and institution of criminal proceedings.

@@ -1,0 +1,4 @@
+# 32 Duty to deal with applications promptly
+(1) Cabinet, the responsible Minister, the Authority, the licensing panel, and other relevant Crown agencies must deal with any application for an exploration licence as promptly as is reasonably practicable in the circumstances and within the prescribed periods under these regulations.
+(2) However, an application is not required to be dealt with within a prescribed period where exceptional circumstances exist because the nature, complexity, or volume of applications demand a longer period for review or determination than the relevant prescribed period.
+(3) If an application is not dealt with within a prescribed period the Authority must inform applicants of the reasons justifying any extension of time and the date on which the relevant determination is expected.

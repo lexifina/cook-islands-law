@@ -1,0 +1,6 @@
+# 21 Evaluation of applications by licensing panel
+(1) The licensing panel will, in accordance with section 30 of the Act, establish its own procedures in writing for evaluating an application or applications based on advice received from the Authority.
+(2) For the purposes of section 68(1)(a) of the Act, the licensing panel must evaluate an application against the evaluation criteria in Schedule 7, taking account of the applicable evaluation guidelines.
+(3) In the case of 2 or more competing applications in response to a tender round, the licensing panel must also assess and rank the applications competitively as set out in the relevant invitation to apply.
+(4) The chair of the licensing panel must prepare a report giving the panel’s reasons for its recommendation to the responsible Minister under section 70(1) of the Act and against the relevant evaluation criteria.
+(5) The chair may, as part of that report and where the panel recommend the grant of an exploration licence, recommend any specific conditions that it considers appropriate to deal with likely adverse effects of the regulated activity on the marine environment or other marine users for consideration by the Authority under section 72(2)(c) of the Act and regulation 26(2).

@@ -1,0 +1,3 @@
+# 8A Local governments, government departments, Crown Agencies and statutory corporations — personal property management
+Every Outer Islands Council, Vaka Council, Government Department, Crown Agency and statutory corporation, which has or is vested with the control, management or administration of any personal property must exercise that right, power or entitlement subject to the direction of the Corporation: Provided that no such direction may be given without prior consultation with the relevant authorities.
+[Section 8A: inserted, on 24 March 1999, by section 7 of the Cook Islands Investment Corporation Amendment Act 1999 (1999 No 8) .]

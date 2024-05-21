@@ -1,0 +1,2 @@
+# 2 Commencement
+This Act comes into force on the day after the date it is assented to by the King's Representative.

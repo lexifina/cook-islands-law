@@ -1,0 +1,4 @@
+# 21 Termination of permission
+(1) The Minister may at any time, by notice in the Gazette, terminate, in respect of the person specified in the notice, all or any of the permissions conferred on that person by this Part of these regulations: Provided that the Minister shall not revoke any permission conferred on a medical practitioner by regulation 14 or 15 except on the recommendation of the Medical Council.
+(2) If the Minister, pursuant to subclause (1), terminates the permission conferred on any person by any provision of this Part, that provision shall forthwith cease to apply with respect to that person.
+(3) The Minister may, by a like notice, revoke any notice under subclause (1), and thereupon the material provision of this Part of these regulations shall again apply in respect of the person whose permission thereunder was terminated.

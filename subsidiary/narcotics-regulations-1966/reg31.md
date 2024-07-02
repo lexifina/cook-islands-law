@@ -1,0 +1,3 @@
+# 31 Restrictions on supply on prescription
+(1) No person shall supply any narcotic on more than one occasion on the same prescription or more than four days after the date of the prescription: Provided that if the medical practitioner signing a prescription (other than a prescription to which regulation 29(4) applies) so directs on the prescription, it may be supplied on not more than two occasions, at an interval to be specified on the prescription, the first such occasion being not more than four days after the date of the prescription:
+(2) No person shall dispense a prescription for the supply of more than 16 oral doses of any preparation containing heroin or shall dispense more than one such prescription for the same person within any period of 24 hours.

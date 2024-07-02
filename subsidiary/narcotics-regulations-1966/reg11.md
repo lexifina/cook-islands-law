@@ -1,0 +1,3 @@
+# 11 Licences not to be assigned
+(1) Subject to regulation 17(3), no licence, and no right thereby conferred, shall be exercised by any person other than the licensee, or be assigned, charged, or alienated to or in favour of, or be capable of devolving upon, any person, whether by act of the parties or by operation of law.
+(2) Notwithstanding anything in subclause (1), where a licence is granted to an officer of a Government Department or other instrument of the Crown, or to a person pursuant to regulation 10(1)(a), in the name of his office, any person holding or acting in that office for the time being, but no other person, shall be the licensee.

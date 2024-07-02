@@ -1,0 +1,8 @@
+# 28 Custody of narcotics
+(1) Subject to subclause (3) and to any conditions which may be imposed under regulation 4 or 20, every person in possession of a narcotic that is not required for immediate use shall—
+(a) keep it in a locked cupboard of substantial construction (which, after 31 March 1969, shall be constructed of metal) or in a locked compartment which, in the case of a building, shall be constructed of metal or concrete or both; and
+(b) ensure that the cupboard or compartment is securely fixed to, or is part of, the building, ship, aircraft, or vehicle within which the narcotic is kept for the time being; and
+(c) ensure that the key of the cupboard or compartment is kept in a safe place when that key is not being used to lock or unlock the cupboard or compartment and, where the building, ship, aircraft, or vehicle within which the narcotic is kept for the time being is left unattended, that safe place shall not be within that building, ship, aircraft, or vehicle.
+(2) Subject to subclause (3), no person in possession of a narcotic, which is kept for the time being within any building, ship, aircraft, or vehicle, shall leave that building, ship, aircraft, or vehicle unattended, unless he has taken all reasonable steps to secure that building, ship, aircraft, or vehicle, and the part of it in which the narcotic is kept, against unlawful entry.
+(3) Nothing in this regulation shall apply to a narcotic which is contained in a first-aid outfit that is provided in accordance with the Shipping Lifesaving Appliances Rules 1968.
+[Regulation 28: replaced, on 3 October 1968, by regulation 8 of the Narcotics Regulations 1966, Amendment No 2 1968 (SR 1968/179) .]

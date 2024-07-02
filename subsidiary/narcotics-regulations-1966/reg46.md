@@ -1,0 +1,2 @@
+# 46 Application of other regulations to hospital records
+Regulations 38(2), 39, 40, 42, 43, and 47 shall apply with any necessary modifications to the persons and records to whom or which regulations 44 and 45 apply: Provided that regulation 47 shall apply only in respect of narcotics disposed of from the store or dispensary of the hospital or other institution to a person outside that hospital or other institution.

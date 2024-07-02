@@ -1,0 +1,6 @@
+# 44 Hospital records
+(1) Every Medical Superintendent of an institution within the meaning of the Mental Health Act 1911 or the Hospitals Act 1957, and every manager or other person in charge of a private hospital or other institution, in which a pharmacist is employed, shall ensure that records are kept at that hospital or other institution in accordance with this regulation and regulations 45 and 46.
+(2) Every such Medical Superintendent, manager, or other person in charge of a hospital or other institution, who is authorised by or under these regulations to deal in narcotics, and every chief pharmacist, shall keep, in respect of each store and dispensary of the hospital or other institution, a separate Main Narcotics Register in Form 1 in Schedule 2, and, in respect of each ward of the hospital or other institution, a Ward Book in the like form.
+(3) In this regulation, and in regulation 45, chief pharmacist means a pharmacist employed in a hospital or other institution as a chief pharmacist or as a pharmacist in charge of a dispensary or in a similar capacity.
+[Regulation 44(2): amended, on 3 October 1968, by regulation 11(1) of the Narcotics Regulations 1966, Amendment No 2 1968 (SR 1968/179) .]
+[Regulation 44(3): inserted, on 3 October 1968, by regulation 11(2) of the Narcotics Regulations 1966, Amendment No 2 1968 (SR 1968/179) .]

@@ -1,0 +1,8 @@
+# 17 General authority to possess
+(1) Every person authorised by or under these regulations to deal in narcotics or to import or export narcotics or to cultivate a prohibited plant may possess those narcotics, or the narcotics derived from that plant, to the extent expressed or implied in such authority.
+(2) Without prejudice to any Order in Council made under section 3(2) of the Act, any member of the Police, or of the New Zealand Naval Forces, or the New Zealand Army, or the Royal New Zealand Air Force, and any officer of the Departments of Health, Customs, or Scientific and Industrial Research, and any analyst appointed under the Food and Drugs Act 1947, may possess narcotics for the purposes of and in connection with his official duties.
+(3) Any person may possess narcotics on behalf of a person authorised to possess those narcotics by subclause (1) or (2), subject to the same restrictions and conditions as those to which possession by the last-mentioned person is subject.
+(4) Without prejudice to subclauses (1) to (3), in any case where the seeds of a prohibited plant are not narcotics within the meaning of the Act—
+(a) any person referred to in subclause (2) may possess such seeds for the purposes of and in connection with his official duties:
+(b) any person may possess such seeds on behalf of a person authorised or licensed under these regulations to cultivate the plant or authorised to possess those seeds by paragraph (a), subject to the same restrictions and conditions as those to which possession by the last-mentioned person is subject.
+[Regulation 17(4): inserted, on 17 June 1971, by regulation 2 of the Narcotics Regulations 1966, Amendment No 3 1971 (SR 1971/123) .]

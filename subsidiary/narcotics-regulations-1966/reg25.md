@@ -1,0 +1,2 @@
+# 25 Labelling of packages
+Except where the narcotic is supplied by way of dispensing by a practitioner who dispenses his own medicines or pursuant to a prescription which conforms with the requirements of regulation 29, no person shall supply any narcotic unless the package containing the narcotic is plainly marked, in letters of a colour contrasting strongly with the colour of the background, with the name of the narcotic and with the exact amount of the narcotic expressed by weight or as a percentage of the weight so marked of the article contained in the package.

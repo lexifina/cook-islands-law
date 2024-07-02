@@ -1,0 +1,3 @@
+# 32 Duty to report untoward effects of medicines
+(1) If at any time the importer, manufacturer or supplier of any therapeutic product has reason to believe that any substantial untoward effects have arisen from the use of the medicine (whether in the Cook Islands or elsewhere), the importer, manufacturer or supplier must immediately notify the Head of Ministry in writing of the nature of those effects and the circumstances in which they have arisen, so far as they are known to that person.
+(2) A person who breaches this regulation commits an offence and is liable upon conviction to a fine not exceeding $5,000.

@@ -1,0 +1,2 @@
+# 8 Professional standards applying to other healthcare professionals to be taken into account
+The Board must ensure that the professional standards determined under regulation 7, and by other Boards relating to the work of healthcare professionals, take account of the role of other healthcare professionals affecting the work and duties of pharmacists, pharmacy assistants and pharmacy technicians.

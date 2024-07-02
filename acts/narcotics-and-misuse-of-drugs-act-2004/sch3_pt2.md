@@ -1,0 +1,3 @@
+# Part 2
+CODEINE (3-methylmorphine); its isomers, esters, and ethers, if any; its salts, and the salts of its isomers, esters, and ethers, if any; and any substance, preparation or mixture containing any proportion of the said substance or of any such isomer, ester, ether, or salt, other than a preparation or mixture named or described in Part 6.
+PROPOXYPHENE (alpha-4(N,N-dimethylamino)-1,2-diphenyl-3-methyl-2-propionoxybutene); its isomers, ester, and ethers, if any; its salts and the salts of its isomers, esters, or ethers, if any; except in preparations of propoxyphene described in clause 6 of Part 5.

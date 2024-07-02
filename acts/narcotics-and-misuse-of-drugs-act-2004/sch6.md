@@ -1,0 +1,11 @@
+# Schedule 6 Regulations and orders continued in force
+Narcotics Regulations (SR 1966/82)
+Amendment No 1 (SR 1967/173)
+Amendment No 2 (SR 1968/179)
+Amendment No 3 (SR 1971/123)
+Narcotics Order (SR 1966/154)
+Narcotics Order (SR 1967/30)
+Narcotics Order (No 2) (SR 1967/156)
+Narcotics Order (SR 1968/178)
+Narcotics Order (SR 1969/129)
+Narcotics Order (SR 1971/122)

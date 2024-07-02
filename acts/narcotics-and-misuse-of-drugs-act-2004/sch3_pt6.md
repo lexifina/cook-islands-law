@@ -1,0 +1,14 @@
+# Part 6
+The following preparations, and mixtures, namely:
+| (a) | preparations containing any proportion of the following substances or of any salt of any such substance, namely, acetyldihydrocodeine, codeine, dihydrocodeine, ethylmorphine, and pholcodine when—
+| | (i) | compounded with 1 or more other pharmacologically active ingredients in such a way that the substance cannot be recovered by readily applicable means or in a yield which would constitute a risk to health; and
+| | (ii) | containing not more than 100 milligrams of the substance in each dosage unit and with a concentration of not more than 2.5% in undivided preparations:
+| (b) | preparations containing a derivative of barbituric acid named or described in Part 4 or 5 of this Schedule, in solutions containing not more than 0.5% of that derivative of barbituric acid:
+| (c) | preparations of cocaine containing not more than 0.1% of cocaine base, being preparations compounded with 1 or more other pharmacologically active ingredients (none of which are substances named or described in Schedule 1 or 2 to this Act or in Parts 1 to 5 of this Schedule) in such a way that the preparation has no, or a negligible, risk of abuse, and in such a way that the cocaine cannot be recover by ready applicable means or in a yield which would constitute a risk to health:
+| (d) | preparations of difenoxin containing, per dosage unit, not more than 0.5 mg of difenoxin and a quantity of atropine sulphate equivalent to at least 5% of the dose of difenoxin:
+| (e) | preparations of opium or morphine containing not more than 0.2% of morphine, being preparations compounded with 1 or more other pharmacologically active ingredients (none of which are substances named or described in Schedule 1 or 2 to this Act or in Parts 1 to 5 of this Schedule) in such a way that the opium and morphine, as the case may be, cannot be recovered by readily applicable means or in a yield which would constitute a risk to health:
+| (f) | single dosage units of diphenoxylate containing in each unit not more than 2.5 milligrams of diphenoxylate calculated as base and not less than 25 micrograms of atropine sulphate:
+| (g) | liquid preparations of diphenoxylate containing, in each millilitre, not more than 0.5 milligrams of diphenoxylate calculated as base and not less than 5 micrograms of atropine sulphate:
+| (h) | preparations of propiram containing not more than 100 mg of propiram per dosage unit and compounded with at least the same amount of methylcellulose:
+| (i) | ipecacuanha and opium powder containing 10% of opium in powder and 10% of ipecacuanha root in powder intimately mixed with finely powdered lactose:
+| (i) | mixtures containing not more than one of the preparations specified in paragraphs (a) to (g) of this Part, being mixtures whereof none of the other ingredients is a substance named or described in Schedule 1 or 2 to this Act or in Part 1 to 5 of this Schedule.

@@ -1,0 +1,4 @@
+# 47 Temporary manager
+(1) In any case where a licensee or manager is ill or is absent for any reason, or is dismissed, or resigns, the licensee may appoint as a temporary manager a suitable person who is not then the holder of a manager’s certificate.
+(2) If the appointment is for a period of less than 24 hours, the appointee assumes all the obligations under this Act of the person making the appointment and the provisions of section 87 do not apply.
+(3) If the appointment is for a period of greater than 24 hours the appointee must within 2 working days after the appointment, apply for a manager’s certificate; and, if such an application is made, the temporary manager is, from the time of the appointment until the application is determined, deemed for the purposes of this Act to be the holder of a manager’s certificate.

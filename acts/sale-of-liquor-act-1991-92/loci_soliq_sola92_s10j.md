@@ -1,0 +1,3 @@
+# 10J Authority deemed to be Commission of Inquiry
+(1) The Authority is, within the scope of its jurisdiction, deemed to be a Commission of Inquiry under the Commissions of Inquiry Act 1966 and, subject to the provisions of this Act and any regulations made under this Act, the provisions of that Act apply accordingly.
+(2) For the purposes of this section, the power to issue summonses requiring the attendance of witnesses before the Authority or the production of documents, or to do any other act preliminary or incidental to the hearing of any matter by the Authority, may be exercised by the Chairperson or by the Secretary purporting to act by direction or with the authority of the Chairperson.

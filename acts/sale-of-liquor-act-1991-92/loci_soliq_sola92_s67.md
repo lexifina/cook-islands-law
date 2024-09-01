@@ -1,0 +1,2 @@
+# 67 Licensee or manager may demand keys
+A licensee or manager may if he believes on reasonable grounds that any person is or is likely to become so intoxicated that he or she will become a danger to themselves or others by the use of a motor vehicle then that manager or licensee may demand that the person hand over the keys to his or her motor vehicle or the manager or licensee may take the steps described in section 66(2).

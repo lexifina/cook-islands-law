@@ -1,0 +1,6 @@
+# 57 Sale or supply of liquor to minors
+(1) Every person commits an offence and is liable to a fine not exceeding $5,000 and not less than $500 who, being the licensee or a manager of any licensed premises, sells or supplies any liquor, or allows any liquor to be sold or supplied, on or from the licensed premises to any minor.
+(2) Every person commits an offence and is liable to a fine not exceeding $1,000, and not less than $100 who, not being the licensee or a manager of any licensed premises, sells or supplies any liquor, on or from the licensed premises to any minor.
+(3) Subsection (2) applies irrespective of any liability that may attach to the licensee or any manager in respect of the same offence.
+(4) It is a defence to a charge under subsection (1) or (2) if the defendant proves that the person who sold or supplied the liquor believed on reasonable grounds that the person to whom it was sold or supplied had attained the age of 18 years.
+(5) No person is guilty of an offence against subsection (1) or (2) by selling or supplying liquor to any person who then supplies it to another person who is a minor, unless it is proved that the defendant knew or had reasonable grounds to believe that the liquor was intended for that other person.

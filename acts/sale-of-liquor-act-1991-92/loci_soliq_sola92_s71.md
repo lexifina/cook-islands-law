@@ -1,0 +1,3 @@
+# 71 Making false representation to licensees, etc
+(1) Every person commits an offence and is liable to a fine not exceeding $1,000 and not less than $100 who falsely represents in writing to the licensee or a manager of any licensed premises, or to any employee of the licensee, that he or she is a person to whom liquor may be sold or supplied under the licence.
+(2) Every person commits an offence and is liable to a fine not exceeding $500 and not less than $50 who falsely represents otherwise than in writing to the licensee or a manager of any licensed premises, or to any employee of the licensee, that he or she is a person to whom liquor may be sold or supplied under the licence.

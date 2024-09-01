@@ -1,0 +1,2 @@
+# 80 Matters of proof relating to content of liquor
+In any proceedings for an offence against any of the provisions of this Act in relation to any spirits, wine, ale, beer, porter, honeymead, stout, cider, perry, or other fermented, distilled, or spirituous liquor it is not necessary for the prosecution to prove that it contains 1.15% or more alcohol by volume unless at least 20 working days before the hearing the defendant puts the question in issue by written notice to the effect served on the prosecution.

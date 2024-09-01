@@ -1,0 +1,6 @@
+# 72 Closure of licensed premises in case of riot
+(1) Where a riot occurs, or there is reasonable ground for believing that a riot may occur, in any place, any High Court Judge or Justice of the Peace may, at the request of the Commissioner of Police or any Member of the Police for the time being acting in that place, order every licensee in or within a specified distance of that place to close his or her licensed premises for the sale of liquor during such time as may be specified in the order.
+(2) Any member of the Police may use such force as may be necessary for the purpose of closing any licensed premises to which the order applies.
+(3) No order made under this section has any effect beyond the expiry of the day on which it is made.
+(4) Every person commits an offence and is liable to a fine not exceeding $5,000 and not less than $500 who, being he licensee or a manager of any licensed premises to which the order applies, keeps the premises open for the sale of liquor in contravention of the order.
+(5) Every person commits an offence and is liable to a fine not exceeding $1,000 and not less than $100 who sells any liquor on or from any licensed premises to which the order applies at any time while the order remains in force.

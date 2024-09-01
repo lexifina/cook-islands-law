@@ -1,0 +1,4 @@
+# 62 Permitting minors to be on licensed premises
+(1) Every person commits an offence and is liable to a fine not exceeding $1,000 and not less than $200 who, being the licensee or manager of any licensed premises, allows any minor to enter or remain on licensed premises on the licensed premises in contravention of section 61.
+(2) It is a defence to a charge under subsection (1) if the defendant proves that he or she believed on reasonable grounds that the person to whom the charge relates and attained the age of 18 years.
+(3) It is a defence to a charge under subsection (1) if the defendant satisfies the court that, as soon as the defendant or any employee of the licensee became aware of the situation, reasonable steps were taken to remove each person concerned from the licensed premises.

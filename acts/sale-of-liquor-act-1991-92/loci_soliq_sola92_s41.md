@@ -1,0 +1,3 @@
+# 41 Licensee or manager to be on duty at all times
+(1) At all times when liquor is being sold or supplied to the public on any licensed premises either the licensee or a manager must subject to sections 47 and 48 be on duty and responsible for compliance with this Act and the conditions of the licence.
+(2) At all times while any manager is on duty in respect of any licensed premises, the name of the manager must be prominently displayed inside the premises so as to be easily read by persons using the premises; and the person so named at any time is deemed for the purposes of this Act to be the manager at that time.

@@ -1,0 +1,2 @@
+# 56 Allowing unlicensed premises to be used for sale of liquor
+Every person commits an offence and is liable to imprisonment for a term not exceeding 6 months or community service for a term not exceeding 6 months or a fine not exceeding $5,000 and not less than $500 who, being the occupier or one of the occupiers of any unlicensed premises, allows any other person to sell, or expose or keep for sale, any liquor on or from the premises.

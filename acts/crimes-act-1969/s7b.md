@@ -1,0 +1,4 @@
+# 7B Attorney-General's consent required where jurisdiction claimed under section 7A
+(1) Proceedings for an offence against section 109A, 127, 128, or 280A cannot be brought in the High Court against a person without the Attorney-General's consent, if jurisdiction over the person is claimed by virtue of section 7A.
+(2) A person over whom jurisdiction is claimed by virtue of section 7A may be arrested for an offence against section 109A, 127, 128, or 280A or a warrant for the person's arrest for the offence may be issued and executed, and the person may be remanded in custody or on bail, even though the Attorney-General's consent to the bringing of proceedings against the person has not been obtained.
+[Section 7B: inserted, on 7 May 2003, by section 3 of the Crimes Amendment Act 2003 (2003 No 6) .]

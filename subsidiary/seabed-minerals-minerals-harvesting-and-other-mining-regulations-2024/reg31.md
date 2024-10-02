@@ -1,0 +1,5 @@
+# 31 Review of licence decision
+(1) For the purposes of section 75(1) of the Act, the prescribed time within which an applicant may apply to the responsible Minister for a review of a licence decision ends 10 days after the date on which the applicant is notified of the decision.
+(2) For the purposes of section 75(2)(a) of the Act, the prescribed period within which the responsible Minister must refer a request for review to the licensing panel is 20 days after receiving the application for review.
+(3) For the purposes of section 68(1) of the Act, if a request for review is referred to a licensing panel, the prescribed period within which the panel must consider the request is 60 days.
+(4) For the purposes of section 75(2)(b) of the Act, the prescribed period within which the responsible Minister must affirm the licence decision or submit a new or amended recommendation to Cabinet is 20 days after the Minister receives a recommendation from the licensing panel as a result of a referral under subclause (2).

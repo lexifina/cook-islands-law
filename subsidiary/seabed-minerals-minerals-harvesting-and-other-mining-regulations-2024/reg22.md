@@ -1,0 +1,6 @@
+# 22 Evaluation of applications by licensing panel
+(1) The licensing panel must, under section 30 of the Act, establish its own procedures, in writing, for evaluating an application or applications based on the report or revised report received from the Authority and any documents or information received under regulations 20 and 21.
+(2) For the purposes of section 68(1)(a) of the Act, the licensing panel must evaluate an application against the evaluation criteria in Schedule 9, taking account of all applicable standards or applicable guidelines.
+(3) In the case of 2 or more competing applications in response to a tender round, the licensing panel must also assess and rank the applications competitively as set out in the relevant invitation to apply.
+(4) The chair of the licensing panel must prepare a report giving the panel’s reasons for its recommendation to the responsible Minister under section 70(1) of the Act and against the relevant evaluation criteria.
+(5) If the panel recommends the grant of a mining licence, the chair may, as part of that report, include any specific conditions contemplated by regulation 27(2) that it considers appropriate for consideration by the Authority under section 72(2)(c) of the Act.

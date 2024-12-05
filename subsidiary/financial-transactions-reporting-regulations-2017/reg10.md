@@ -1,0 +1,3 @@
+# 10 Exemption from requirements of Act for transactions relating to native freehold land
+(1) Where a reporting institution is dealing with a conveyancing transaction in which the seller(s) of the land interest is a person(s) who is recognised by the Court or in accordance with custom as having rights to that land on the basis of their familial or blood connection, a reporting institution is not required to meet the requirements of the Act in relation to that person for that conveyancing transaction.
+(2) Subclause (1) does not apply to a conveyancing transaction in which a further assignment of land is undertaken by a person who does not have a familial or blood connection to that land but has a right to sell their interest in the land.

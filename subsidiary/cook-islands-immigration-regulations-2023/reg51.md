@@ -1,0 +1,2 @@
+# 51 Sponsors that are government departments, state-owned enterprises, or other government agencies
+A government department, a state-owned enterprise, an island government, or other government agency that applies to act as a sponsor must have the agreement of the head or chief executive of that department, state-owned enterprise, island government, or agency (however that position is described) to the making of the application.

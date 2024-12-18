@@ -1,0 +1,3 @@
+# 42 Criteria to qualify for international child, adult student, research, or intern visa or permit
+(1) The criteria that must be satisfied for a person to qualify for an international child, adult student, research, or intern visa or permit of a type set out in the first column of Schedule 4 are set out in the relevant descriptions in the first column and the second column relating to the particular visa or permit type.
+(2) The conditions that apply on the grant of a student visa or permit of a type set out in the first column of Schedule 4 are set out in the third column descriptions relating to that visa or permit type.

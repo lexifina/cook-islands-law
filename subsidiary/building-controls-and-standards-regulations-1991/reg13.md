@@ -1,0 +1,8 @@
+# 13 Fees and deposits
+(1) Applications and requests must not be accepted by the Building Controller unless the relevant fees shown in Schedule 4 have been paid to the Cook Islands Government through the Building Controller. Such fees are not refundable except in the case of building permit fees paid under regulation 6(1) and as provided under regulation 15.
+(2) After the examination of any application the Building Controller may determine and ask the applicant to deposit—
+(a) a sum of money as security against any probable damage to Government property such as roads, water supply lines, sewers, etc, while carrying out the permitted work; and
+(b) a sum of money to cover the cost of any vehicular crossing or other similar alteration to a roadway, or alteration to other Government property that may result from the execution of the permitted work.
+(3) The Building Controller may assess any application to see if the complexity of the proposed work requires the help of independent consultants to examine compliance with specific provisions of the Code. If so the Building Controller must ask the applicant to deposit an estimated sum of money to cover the cost of such consultation.
+(4) Where the sums of money deposited under subclauses (2) and (3) are in excess of the actual final expenditure on the related work, the Building Controller must refund the unspent sum of money to the applicant within 14 working days of closing of the accounts relating to the work.
+(5) As and when it is known that the actual expenditure on the work covered by subclauses (2) and (3) may exceed the earlier estimates, the Building Controller must ask the applicant to deposit such additional sums of money as appropriate.

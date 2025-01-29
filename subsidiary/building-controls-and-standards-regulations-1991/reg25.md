@@ -1,0 +1,10 @@
+# 25 Additional functions of Building Controller
+In addition to the powers and responsibilities of the Building Controller under the Act, he or she has the following functions—
+(1) The Building Controller must not dispense with or relax the observation or performance of the regulations or otherwise modify them except as provided in these regulations.
+(2) The Building Controller must exercise all of his or her powers or functions under these regulations reasonably. A person does not commit a breach of these regulations by failing to comply with any unreasonable request, notice, or order of the Building Controller.
+(3) The fact that the Building Controller may have unreasonably failed to issue a permit or certificate, serve a notice, make a request or give an order, is not a justification or excuse for a breach of these regulations by the applicant.
+(4) A person does not have a claim against the Government of Cook Islands or any of its officers on account of any loss suffered by reason of a failure by the Building Controller as specified in subclause (3).
+(5) Where the Building Controller is required by these regulations to consider, determine or satisfy himself or herself on a particular matter on which it is reasonably necessary to exercise specialist professional skills and judgement that he or she does not possess, then he or she must—
+(a) delegate to some other person who is so qualified, those of the powers, duties, authorities, and jurisdiction of the Building Controller as are relevant to the specialised aspects of that particular matter; or
+(b) follow the procedure for the acceptance of design and construction given in Part A2 of the Code.
+(6) Where the Building Controller has to consider matters, the jurisdiction of which overlaps with that of other Government officers or authorities, or where such jurisdiction is entirely with other Government officers or authorities, the Building Controller must discuss such matters with the officers and authorities concerned and obtain their consent, approval or determination before taking any action.

@@ -1,0 +1,11 @@
+# 32 Appeals against determinations of Building Controller
+(1) Any person who is not satisfied with any decision or order of the Building Controller or his or her delegate may submit relevant details to the Appeals Board appointed by the Minister under section 18 of the Act.
+(2) One member of the Board must be from the building industry, another from among consultants associated with the building industry and the third, a government servant other than from the Building Controller’s office but with reasonable interest in and knowledge of buildings. The Minister must nominate one of the members as the Chairman of the Board.
+(3) The secretarial assistance for the Board must be provided by the office of the Crown Law and all correspondence must be addressed to the Chairman of the Appeals Board and sent to the Solicitor General.
+(4) The Board must meet once every month to consider outstanding appeals. If there are no outstanding appeals the meeting concerned shall be postponed.
+(5) Unless circumstances dictate otherwise, the Board must give its decision on any appeal during its first 2 sittings after the receipt of the appeal.
+(6) Any evidence called by the Board under section 18 of the Act must be given with utmost promptness.
+(7) The Board must take into account the public good as regards safety, health, and amenity as well as the individual circumstances of the case, in reaching its decisions.
+(8) All decisions of the Board must conform to the Act, these regulations, and the Code.
+(9) When conveying its decisions to the appellant and the Building Controller, the Board must allocate reasonable costs against the appellant if the appeal is wholly or partly rejected.
+(10) All appeals sent to the Board must be accompanied by a deposit equal to 20% of the total monetary amount claimed in the appeal, but in no case greater than $5,000. The Crown Law’s office must temporarily credit the deposit to the Government Account. After the Board has given its decision on the appeal, any costs allocated to the appellant under subclause (9) must be finally credited from the temporary credit of the deposit. Any balance must be refunded to the appellant within 7 working days after the Board’s decision. If the deposit falls short of the Board’s allocation of costs, the appellant must be given 7 days to pay the outstanding debt to the Government.

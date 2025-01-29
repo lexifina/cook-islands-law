@@ -1,0 +1,7 @@
+# 10 Issue of building permit
+(1) Subject to subclauses (2) and (3), where the Building Controller is satisfied—
+(a) that the application under regulation 6 and the connected documents are in accordance with these regulations; and
+(b) that the proposed building will comply with the requirements of the Code,
+he or she must issue a building permit (Schedule 3) within 21 working days of the last date on which the application and all connected documents under regulation 6 were received by him or her.
+(2) The Building Controller may delay the issue of a building permit beyond the limit under subclause (1) if in his or her opinion there are suitable reasons. In such a case the Building Controller must advise the applicant of the reasons for the delay within 5 working days of the last date on which the application and all connected documents under regulation 6 were received by him or her.
+(3) Any request under regulation 6(4) for exemption from or variation of specific provisions of the Code must be referred by the Building Controller to the Building Control Committee. The Committee must give due regard for the safety, health, and amenity of the users of the building and of the public before reaching a decision to recommend acceptance or rejection of the request. When conveying his or her decision to the applicant, the Building Controller must list the reasons which influenced the decision.

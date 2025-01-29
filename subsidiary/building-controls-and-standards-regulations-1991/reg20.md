@@ -1,0 +1,4 @@
+# 20 Inspection on completion of work
+(1) On completion of any permitted work, including the removal of temporary sheds, site workshops, site offices and such like at the site, the applicant must advise the Building Controller of the completion and request him to inspect it. The appropriate fee prescribed in Schedule 4 must also accompany the request.
+(2) In the case of large works the advice under subclause (1) may be given progressively in separate well-defined portions of the work, with the prior agreement of the Building Controller.
+(3) The Building Controller must inspect the work or portions of work within 7 days of receipt of the advice and determine as far as superficial inspection may allow, whether the work materially conforms with the approved documents, and otherwise conforms with these regulations and the Code.

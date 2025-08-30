@@ -1,0 +1,2 @@
+# 59 Security for duty on goods temporarily imported
+The condition under which a person giving security may be released from the provisions of that security for the purposes of section 148(2) of the Act is that, unless otherwise permitted by the Comptroller, written notice of an intention to export the goods must be given not less than 6 working hours before the time at which the goods are due to be shipped for export.

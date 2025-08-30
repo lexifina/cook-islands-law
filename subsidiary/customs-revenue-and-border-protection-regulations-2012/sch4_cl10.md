@@ -1,0 +1,5 @@
+# 10 Treatment of packing materials and containers
+(1) Packing materials and containers in which a good is placed exclusively for transportation and shipment must not be taken into account in determining the origin of a good.
+(2) Packing materials and containers in which a good is packaged for retail sale, when classified together with that good, must not be taken into account in determining whether all of the non-originating materials used in the production of the good have met the applicable change in tariff classification or process of production requirements as set out in a product specific rule.
+(3) If a good is subject to a regional value content requirement, the value of the packing materials and containers in which the good is packaged for retail sale must be taken into account as originating or non-originating materials, as the case may be, in calculating the regional value content of the good.
+(4) If the packaging material and container is not customary for the good, its value must not be included as originating in a regional value content calculation for the good.

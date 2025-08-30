@@ -1,0 +1,2 @@
+# 57 Goods abandoned to the Crown
+The authority of the Comptroller under section 145(1)(c) of the Act to refund or remit duty on goods abandoned to the Crown must be exercised subject to the condition that the goods be disposed of or destroyed under the supervision of the Customs, in accordance with any directions issued by the Comptroller (including any direction that the disposal or destruction be undertaken at the expense of the importer or owner of the goods).

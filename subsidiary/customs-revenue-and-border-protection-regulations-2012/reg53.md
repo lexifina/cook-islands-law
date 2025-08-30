@@ -1,0 +1,5 @@
+# 53 Goods damaged or deteriorated in condition
+The authority of the Comptroller under section 145(1)(a) of the Act to refund or remit duty on goods that are damaged or have deteriorated in condition prior to their release from the control of the Customs is subject to the following conditions:
+(a) the Comptroller must be satisfied that the damage or deterioration was not caused by the wilful act or negligence of the importer, or licensee of any Customs controlled area where the goods had been stored, or of any of the employees, or persons acting on behalf of the importer or licensee:
+(b) the amount of the refund or remission of duty on any goods must be in proportion to the extent to which the Comptroller is satisfied that the goods are damaged or deteriorated in condition:
+(c) despite paragraph (b), duty must not be refunded or remitted in full unless the goods have been destroyed under the supervision of the Customs in accordance with any directions issued by the Comptroller, or have been exported.

@@ -1,0 +1,3 @@
+# 58 Samples allowed free of duty
+(1) A sample of the bulk of goods that are subject to the control of the Customs may be delivered free of duty on the condition that, if required by the Comptroller, the goods are marked or put up in such a form as to render them unsuitable for sale.
+(2) Samples of any goods that are a small importation of product intended for marketing purposes to indicate likely product demand, colour range, style, or similar purpose, may be delivered free of duty on the condition that, if required by the Comptroller, the goods are marked or put up in such a form as to render them unsuitable for sale.

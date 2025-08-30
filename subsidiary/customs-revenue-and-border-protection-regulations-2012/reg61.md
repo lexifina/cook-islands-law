@@ -1,0 +1,6 @@
+# 61 Conditions on which drawback allowed
+(1) Except as provided in regulation 62, drawback of duty may be allowed subject to the following conditions:
+(a) unless otherwise allowed by the Comptroller, written notice of not less than 6 working hours must be given of an intention to ship goods for export under drawback and the exporter must, when required by the Customs, make the goods available for examination:
+(b) where imported or excisable goods are exported or are to be exported under drawback, the exporter must show on the drawback entry the kind, number, and date of the entry on which duty was paid, and must if so required by the Customs produce the invoice or invoices relating to that entry together with such other documents or particulars as may be required by the Customs to verify the claim for drawback:
+(c) on completion of the packing of the goods, the packages must, if so required by the Comptroller, be secured and sealed by any officer, and be immediately conveyed to the place of shipment and shipped; or, if not so immediately conveyed and shipped, the packages must be removed to some place of security approved by the Comptroller:
+(2) The Comptroller may, in his or her discretion, dispense with all or any of the requirements of subclause (1)(b).

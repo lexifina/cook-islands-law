@@ -1,0 +1,6 @@
+# 10 Annual licence fees
+(1) The annual licence fee payable in respect of a Customs controlled area specified in Schedule 1 is the amount specified in relation to that Customs controlled area in that schedule.
+(2) Subject to subclause (3), the annual licence fee is payable on 1 July in any year.
+(3) Where a licence is granted subject to the payment by the licensee of the prescribed annual licence fee, the prescribed annual licence fee, apportioned on a monthly basis for periods of less than 12 months, must be paid within 5 working days after the date on which notice is given of the decision to grant the licence.
+(4) In any circumstance where a licence for a Customs controlled area is revoked or surrendered under the Act, the whole or part of the annual licence fee may be refunded, remitted, or waived by the Comptroller.
+(5) Where alternative amounts are shown in Schedule 1 for a fee payable in respect of any Customs controlled area, the fee is the lower amount if the total gross revenues obtained by the licensee, in the most recently completed fiscal year, from the sale of dutiable goods held in the Customs controlled area or areas did not exceed $200,000; in all other cases the fee is the higher amount.

@@ -1,0 +1,5 @@
+# 55 Goods diminished in value
+The authority of the Comptroller under section 145(1)(a) of the Act to refund or remit any duty on goods that have diminished in value prior to their release from the control of the Customs is subject to the following conditions:
+(a) the refund or remission of duty is restricted to goods that have diminished in value while stored in a Customs controlled area licensed for the purpose described in section 13(b) of the Act:
+(b) in respect of imported goods, duty may be refunded or remitted only to the extent to which the duty that would be payable on the goods if exported from the country of exportation to the Cook Islands at the time at which the application for the refund or remission is made is less than the duty payable as determined in accordance with section 94 of the Act:
+(c) despite paragraphs (a) and (b), duty must not in any case be refunded or remitted in full unless the goods have been destroyed under the supervision of the Customs in accordance with any directions issued by the Comptroller.

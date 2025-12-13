@@ -1,0 +1,3 @@
+# 11 Dividends in respect of rejected claims
+(1) If a creditor applies for an order under section 273(1)(b) reversing or modifying the decision of the liquidator to reject the creditor's claim, the liquidator may make provision for the dividend on the claim, and the probable cost of the application in the event of the claim being admitted.
+(2) If notice of an application under section 273(1)(b) has not been given within the time specified in the rules of court for appeals to the Court from a decision of the liquidator, the liquidator must exclude all claims that have been rejected from participation in the dividend.

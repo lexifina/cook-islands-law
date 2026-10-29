@@ -1,0 +1,8 @@
+cl1.md
+cl2.md
+cl3.md
+cl4.md
+loci_wa_wcbo25_cl1.md
+loci_wa_wcbo25_cl2.md
+loci_wa_wcbo25_cl3.md
+loci_wa_wcbo25_cl4.md

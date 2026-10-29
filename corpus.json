@@ -1,0 +1,51 @@
+{
+  "corpus": "ck/national/acts",
+  "name": "Laws of the Cook Islands (consolidated Acts and subsidiary legislation)",
+  "label": "Cook Islands",
+  "language": "en",
+  "history": "current-only",
+  "history_from": "1908-08-04",
+  "record_to": "2026-10-29",
+  "checked_on": "2026-10-29",
+  "record_note": "cookislandslaws.gov.ck publishes only the current consolidation, so each law has one version here: the text as retrieved on 2026-10-29, dated by the latest day its own record (Table of Amendments, history notes, commencement) gives for a change taking effect. Earlier text is not available; the notes and tables are kept as text and in data/amendments.csv.",
+  "built": "2026-10-29",
+  "in_force_trailer": "In-force",
+  "baseline_trailer": "Consolidated",
+  "has_future_branch": false,
+  "laws": {
+    "acts": 272,
+    "subsidiary": 390
+  },
+  "dates": {
+    "commit": "latest past commencement or history-note date of each law (In-force-basis trailer), else its own commencement or assent, else the retrieval day",
+    "baseline_trailer": "Consolidated",
+    "other_trailers": [
+      "In-force-basis",
+      "Parent-act"
+    ],
+    "time": "12:00 Pacific/Rarotonga (UTC-10:30 until 1978-11-12; UTC-10 with half-hour summer time until 1991-03-03; UTC-10 since)",
+    "before_1970": "clamped to 1970-01-01; the real day is in the trailer"
+  },
+  "author": {
+    "consolidated": "Cook Islands Legislative Service",
+    "amendment": "none yet",
+    "unexplained": "Cook Islands Legislative Service"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "groups": "any one line",
+    "conditions": "all of a line",
+    "when_absent": "not extracted for the Cook Islands; savings and transitional rules are in the amending laws",
+    "default_reach": {
+      "rule": "presumption against retroactivity",
+      "meaning": "an enactment is presumed not to affect rights acquired, or proceedings begun, before it took effect unless it says so",
+      "authority": "common-law presumption; the Acts Interpretation Act 1924 as in force in the Cook Islands (in this repository) governs the effect of repeals",
+      "decided_here": false
+    }
+  },
+  "tool": "tools/in_force_on.py",
+  "citation": {
+    "file": "(acts/[^/]+)/s([0-9]+[a-z]*)\\.md",
+    "cites": "([Ss]ection|s\\.?) ?{n}([^0-9a-zA-Z]|$)"
+  }
+}

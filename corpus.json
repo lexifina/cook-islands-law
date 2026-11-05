@@ -7,14 +7,14 @@
   "history_from": "1908-08-04",
   "record_to": "2026-10-29",
   "checked_on": "2026-10-29",
-  "record_note": "cookislandslaws.gov.ck publishes only the current consolidation, so each law has one version here: the text as retrieved on 2026-10-29, dated by the latest day its own record (Table of Amendments, history notes, commencement) gives for a change taking effect. Earlier text is not available; the notes and tables are kept as text and in data/amendments.csv.",
+  "record_note": "cookislandslaws.gov.ck publishes only the current consolidation, so each law has one version here: the text as retrieved on 2026-10-29, dated by the latest day its own record (Table of Amendments, history notes, commencement) gives for a change taking effect. Earlier text is not available; the notes and tables are kept as text and in data/amendments.csv. Separate diplomatic and welfare current records have labelled source corrections. Old combined paths remain unchanged for compatibility. The judges Order commencement remains unverified; its original observation-date baseline is unchanged.",
   "built": "2026-10-29",
   "in_force_trailer": "In-force",
   "baseline_trailer": "Consolidated",
   "has_future_branch": false,
   "laws": {
     "acts": 272,
-    "subsidiary": 390
+    "subsidiary": 392
   },
   "dates": {
     "commit": "latest past commencement or history-note date of each law (In-force-basis trailer), else its own commencement or assent, else the retrieval day",
@@ -47,5 +47,15 @@
   "citation": {
     "file": "(acts/[^/]+)/s([0-9]+[a-z]*)\\.md",
     "cites": "([Ss]ection|s\\.?) ?{n}([^0-9a-zA-Z]|$)"
+  },
+  "compatibility_paths": {
+    "subsidiary/diplomatic-privileges-and-immunities-extension-of-more-favourable-treatment-order-2020-dip": [
+      "subsidiary/diplomatic-privileges-and-immunities-extension-of-more-favourable-treatment-order-2020",
+      "subsidiary/diplomatic-privileges-and-immunities-pacific-resilience-facility-order-2026"
+    ],
+    "subsidiary/welfare-benefits-and-pension-rates-order-2026-welfare-child-benefit-order-2025": [
+      "subsidiary/welfare-benefits-and-pension-rates-order-2026",
+      "subsidiary/welfare-child-benefit-order-2025"
+    ]
   }
 }

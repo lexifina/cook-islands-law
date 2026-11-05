@@ -180,7 +180,7 @@ Ministry of Cultural Development Act 1990,act,,LOCI.MCDA.MCDA90,2013-12-07,recor
 Ministry of Finance and Economic Management Act 1995-96,act,,LOCI.MFEM.MFEM95,1997-04-24,record,71,1,2,acts/ministry-of-finance-and-economic-management-act-1995-96/
 Ministry of Foreign Affairs Act 1984,act,,LOCI.MOFA.MOFA84,1984-09-26,record,18,0,0,acts/ministry-of-foreign-affairs-act-1984/
 Ministry of Health Act 2013,act,,LOCI.MHA.MHA13,2024-09-01,record,41,1,3,acts/ministry-of-health-act-2013/
-Ministry of Marine Resources Act 1984,act,,LOCI.MMRA.MMRA84,2019-07-01,record,18,0,16,acts/ministry-of-marine-resources-act-1984/
+Ministry of Marine Resources Act 1984,act,,LOCI.MMRA.MMRA84,2019-07-01,record,18,3,16,acts/ministry-of-marine-resources-act-1984/
 Ministry of Marine Resources Legislation Act 2019,act,,LOCI.MOMRL.MOMRL19,2019-12-17,record,17,0,0,acts/ministry-of-marine-resources-legislation-act-2019/
 Ministry of Statistics Act 1977,act,,LOCI.MOPEA.MOPEA77,2024-01-01,record,13,4,14,acts/ministry-of-statistics-act-1977/
 Money-Changing and Remittance Businesses Act 2009,act,,LOCI.MCRBA.MCRBA09,2009-06-30,record,34,0,0,acts/money-changing-and-remittance-businesses-act-2009/
@@ -211,7 +211,7 @@ Ports Authority Act 1994-95,act,,LOCI.PAA.PAA95,2019-12-19,record,76,5,44,acts/p
 Premier's Department Act 1973-74,act,,LOCI.PREMIER.PDA73-74,1982-04-06,record,24,3,5,acts/premiers-department-act-1973-74/
 Prevention of Juvenile Crime Act 1968,act,,LOCI.PJC.PJC68,2017-12-01,record,50,7,48,acts/prevention-of-juvenile-crime-act-1968/
 Prevention of Marine Pollution Act 1998,act,,LOCI.POMPA.POMPA98,2018-02-24,record,38,2,7,acts/prevention-of-marine-pollution-act-1998/
-Primary Producers Federation Act 1980,act,,LOCI.PPFA.PPFA80,1987-12-18,record,19,0,1,acts/primary-producers-federation-act-1980/
+Primary Producers Federation Act 1980,act,,LOCI.PPFA.PPFA80,1987-12-18,record,19,1,1,acts/primary-producers-federation-act-1980/
 Prisons Act 1967,act,,LOCI.PRIS67.PRIS67,2019-07-01,record,38,5,32,acts/prisons-act-1967/
 Privy Council (Judicial Committee) Act 1984,act,,LOCI.PRIVCOU.PRIVCOU84,2000-12-01,record,6,2,0,acts/privy-council-judicial-committee-act-1984/
 Proceeds of Crime Act 2003,act,,LOCI.PCA03.PCA03,2017-06-24,record,106,5,40,acts/proceeds-of-crime-act-2003/
@@ -308,7 +308,6 @@ Building Controls and Standards Regulations 1991,subsidiary,BUILDING CONTROLS AN
 Captive Insurance Regulations 2013,subsidiary,CAPTIVE INSURANCE ACT 2013,LOCI.CAPIA.CIR13,2014-05-01,record,18,1,1,subsidiary/captive-insurance-regulations-2013/
 Carpentry and Joinery Industry Apprenticeship Order 1980,subsidiary,APPRENTICESHIP ACT 1978-79,LOCI.APPRENTICE.CJIAO80,1980-12-03,record,26,0,0,subsidiary/carpentry-and-joinery-industry-apprenticeship-order-1980/
 Code of Civil Procedure of the High Court 1981,subsidiary,JUDICATURE ACT 1980-81,LOCI.JUDA.CCPHC81,2021-09-08,record,469,5,18,subsidiary/code-of-civil-procedure-of-the-high-court-1981/
-Coinage Regulations 1967,subsidiary,CURRENCY ACT 1986-87,LOCI.CA86.CR67,1970-03-12,record,6,1,2,subsidiary/coinage-regulations-1967/
 "Coinage Regulations 1967, Amendment No 1 1969",subsidiary,CURRENCY ACT 1986-87,LOCI.CA86.CR67-1969,1969-06-13,record,3,0,0,subsidiary/coinage-regulations-1967-amendment-no-1-1969/
 "Coinage Regulations 1967, Amendment No 10 1975",subsidiary,CURRENCY ACT 1986-87,LOCI.CA86.CR67-1975-NO10,1975-10-01,record,9,0,0,subsidiary/coinage-regulations-1967-amendment-no-10-1975/
 "Coinage Regulations 1967, Amendment No 11 1976",subsidiary,CURRENCY ACT 1986-87,LOCI.CA86.CR67-1976,1976-08-26,record,10,0,0,subsidiary/coinage-regulations-1967-amendment-no-11-1976/
@@ -328,6 +327,7 @@ Coinage Regulations 1967 (Amendment No 23) 1987,subsidiary,CURRENCY ACT 1986-87,
 "Coinage Regulations 1967, Amendment No 4 1973",subsidiary,CURRENCY ACT 1986-87,LOCI.CA86.CR67-1973-NO4,1973-06-11,record,5,0,0,subsidiary/coinage-regulations-1967-amendment-no-4-1973/
 "Coinage Regulations 1967, Amendment No 6 1974",subsidiary,CURRENCY ACT 1986-87,LOCI.CA86.CR67-1974,1984-12-16,record,9,1,1,subsidiary/coinage-regulations-1967-amendment-no-6-1974/
 "Coinage Regulations 1967, Amendment No 9 1975",subsidiary,CURRENCY ACT 1986-87,LOCI.CA86.CR67-1975,1975-05-12,record,9,0,0,subsidiary/coinage-regulations-1967-amendment-no-9-1975/
+Coinage Regulations 1967,subsidiary,CURRENCY ACT 1986-87,LOCI.CA86.CR67,1970-03-12,record,6,1,2,subsidiary/coinage-regulations-1967/
 Commission of Inquiry (Commission of Political Review) Order 1998,subsidiary,COMMISSIONS OF INQUIRY ACT 1966,LOCI.CIA.CICPRO98,1998-08-06,record,5,0,0,subsidiary/commission-of-inquiry-commission-of-political-review-order-1998/
 Commission of Inquiry into Land Order 1995,subsidiary,COMMISSIONS OF INQUIRY ACT 1966,LOCI.CIA.CILO95,1995-09-25,record,7,0,0,subsidiary/commission-of-inquiry-into-land-order-1995/
 Commission of Inquiry (Italian Hotel Project) Order 1989,subsidiary,COMMISSIONS OF INQUIRY ACT 1966,LOCI.CIA.CIIHPO89,1989-02-13,record,3,0,0,subsidiary/commission-of-inquiry-italian-hotel-project-order-1989/
@@ -400,8 +400,9 @@ Development Investment (Investment Code) Order 2003,subsidiary,DEVELOPMENT INVES
 Development Investment Regulations 1996,subsidiary,DEVELOPMENT INVESTMENT ACT 1995-96,LOCI.DIA.DIR96,2020-01-01,record,21,3,9,subsidiary/development-investment-regulations-1996/
 Diplomatic Privileges and Immunities (Asian Development Bank) Order 2019,subsidiary,DIPLOMATIC PRIVILEGES AND IMMUNITIES ACT 1968,LOCI.DPI.ADBO19,2019-11-02,record,16,0,0,subsidiary/diplomatic-privileges-and-immunities-asian-development-bank-order-2019/
 Diplomatic Privileges and Immunities (Asian Infrastructure Investment Bank) Order 2020,subsidiary,DIPLOMATIC PRIVILEGES AND IMMUNITIES ACT 1968,LOCI.DPI.AIIBO20,2020-05-13,record,16,0,0,subsidiary/diplomatic-privileges-and-immunities-asian-infrastructure-investment-bank-order-2020/
-Diplomatic Privileges and Immunities (Extension of More Favourable Treatment) Order 2020 Diplomatic Privileges and Immunities (Pacific Resilience Facility) Order 2026,subsidiary,DIPLOMATIC PRIVILEGES AND IMMUNITIES ACT 1968,LOCI.DPI.EMFTO20,2026-10-29,retrieved,11,0,0,subsidiary/diplomatic-privileges-and-immunities-extension-of-more-favourable-treatment-order-2020-dip/
+Diplomatic Privileges and Immunities (Extension of More Favourable Treatment) Order 2020,subsidiary,DIPLOMATIC PRIVILEGES AND IMMUNITIES ACT 1968,LOCI.DPI.EMFTO20,2020-03-27,record,6,0,0,subsidiary/diplomatic-privileges-and-immunities-extension-of-more-favourable-treatment-order-2020/
 Diplomatic Privileges and Immunities (Green Climate Fund) Order 2016,subsidiary,DIPLOMATIC PRIVILEGES AND IMMUNITIES ACT 1968,LOCI.DPI.GCFO16,2016-12-07,record,5,0,0,subsidiary/diplomatic-privileges-and-immunities-green-climate-fund-order-2016/
+Diplomatic Privileges and Immunities (Pacific Resilience Facility) Order 2026,subsidiary,DIPLOMATIC PRIVILEGES AND IMMUNITIES ACT 1968,LOCI.DPI.DPIPRFO26,2026-04-22,record,5,0,0,subsidiary/diplomatic-privileges-and-immunities-pacific-resilience-facility-order-2026/
 Diplomatic Privileges (CFTC) Order 1979,subsidiary,DIPLOMATIC PRIVILEGES AND IMMUNITIES ACT 1968,LOCI.DPI.DPCFTCO73,1979-09-01,record,4,0,0,subsidiary/diplomatic-privileges-cftc-order-1979/
 Diplomatic Privileges (Common Fund For Commodities) Order 1983,subsidiary,DIPLOMATIC PRIVILEGES AND IMMUNITIES ACT 1968,LOCI.DPI.CFFC083,1983-09-30,record,10,0,0,subsidiary/diplomatic-privileges-common-fund-for-commodities-order-1983/
 Diplomatic Privileges (Customs Co-operation Council) Order 1963,subsidiary,DIPLOMATIC PRIVILEGES AND IMMUNITIES ACT 1968,LOCI.DPI.DPCCCO63,1963-05-15,record,16,0,0,subsidiary/diplomatic-privileges-customs-co-operation-council-order-1963/
@@ -657,7 +658,8 @@ Visiting Forces (New Zealand with Australia and United Kingdom) Order 1971,subsi
 Visiting Forces Order 1966,subsidiary,VISITING FORCES ACT 1992-93,LOCI.VISFORCE.VFO66,1966-03-28,record,3,0,0,subsidiary/visiting-forces-order-1966/
 Visiting Forces (Penal Arrangements) Order 1963,subsidiary,VISITING FORCES ACT 1992-93,LOCI.VISFORCE.VFPAO63,2026-10-29,retrieved,3,0,0,subsidiary/visiting-forces-penal-arrangements-order-1963/
 Visiting Forces (Relative Ranks) Regulations 1971,subsidiary,VISITING FORCES ACT 1992-93,LOCI.VISFORCE.VFRRR71,1971-11-01,record,3,0,0,subsidiary/visiting-forces-relative-ranks-regulations-1971/
-Welfare (Benefits and Pension Rates) Order 2026 Welfare (Child Benefit) Order 2025,subsidiary,WELFARE ACT 1989,LOCI.WA.WBPRO26,2026-10-29,retrieved,8,0,0,subsidiary/welfare-benefits-and-pension-rates-order-2026-welfare-child-benefit-order-2025/
+Welfare (Benefits and Pension Rates) Order 2026,subsidiary,WELFARE ACT 1989,LOCI.WA.WBPRO26,2026-07-01,record,4,0,0,subsidiary/welfare-benefits-and-pension-rates-order-2026/
+Welfare (Child Benefit) Order 2025,subsidiary,WELFARE ACT 1989,LOCI.WA.WCBO25,2025-07-01,record,4,0,0,subsidiary/welfare-child-benefit-order-2025/
 Western Samoa Act 1961,subsidiary,REPUBLIC AND COMMONWEALTH LEGISLATION,LOCI.REPUB.WSA61,1970-08-25,record,1,1,1,subsidiary/western-samoa-act-1961/
 Wills Act 1837,subsidiary,IMPERIAL LEGISLATION,LOCI.IMPERIAL.WA37,2026-10-29,retrieved,4,0,0,subsidiary/wills-act-1837/
 Wills Amendment Act 1852,subsidiary,IMPERIAL LEGISLATION,LOCI.IMPERIAL.WAA52,2026-10-29,retrieved,1,0,0,subsidiary/wills-amendment-act-1852/

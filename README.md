@@ -1,5 +1,7 @@
 # The laws of the Cook Islands, as a git repository
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is CK's national law, which global-law reads at `cook-islands/national/acts/`.
+
 The consolidated legislation of the Cook Islands as a git repository: 272 Acts (including the Constitution of the Cook Islands) and 390 pieces of subsidiary legislation made under them. The source is [cookislandslaws.gov.ck](https://cookislandslaws.gov.ck), the consolidated-law database of the Legislative Service (Legislative Service Act 1968-69). There is one file per section, regulation, clause, rule, schedule or form (20669 files), with one paragraph per line, so `git blame` and `git diff` work line by line.
 
 **What this repository is not, yet: a history.** cookislandslaws.gov.ck publishes only the current consolidated text of each law and keeps no earlier versions (its "historical" view is empty for every law). So each law is a single commit holding its whole current text. Nothing before that text can be rebuilt from this source. New consolidations will be added from now on as later commits, so the history grows forward from here. The amendment history the site prints is kept: each law's Table of Amendments (amending law, date of assent or signature, date of commencement) and the history note under each provision (`[Section 4(1) account: inserted, on 1 January 2022, by section 4 of the Banking Amendment Act 2019 (2019 No 10).]`) are in the files and in [`data/amendments.csv`](data/amendments.csv).

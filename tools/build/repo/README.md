@@ -1,55 +1,85 @@
-# The laws of the Cook Islands, as a git repository
+# Cook Islands: law history in git
 
-The consolidated legislation of the Cook Islands as a git repository: {{ACTS}} Acts (including the Constitution of the Cook Islands) and {{SUBSIDIARY}} pieces of subsidiary legislation made under them. The source is [cookislandslaws.gov.ck](https://cookislandslaws.gov.ck), the consolidated-law database of the Legislative Service (Legislative Service Act 1968-69). There is one file per section, regulation, clause, rule, schedule or form ({{UNITS}} files), with one paragraph per line, so `git blame` and `git diff` work line by line.
 
-**What this repository is not, yet: a history.** cookislandslaws.gov.ck publishes only the current consolidated text of each law and keeps no earlier versions (its "historical" view is empty for every law). So each law is a single commit holding its whole current text. Nothing before that text can be rebuilt from this source. New consolidations will be added from now on as later commits, so the history grows forward from here. The amendment history the site prints is kept: each law's Table of Amendments (amending law, date of assent or signature, date of commencement) and the history note under each provision (`[Section 4(1) account: inserted, on 1 January 2022, by section 4 of the Banking Amendment Act 2019 (2019 No 10).]`) are in the files and in [`data/amendments.csv`](data/amendments.csv).
+The law of the Cook Islands as a git history: one file per section (or regulation, rule, clause, schedule or form), one commit per version on the day it took effect. The official site keeps only the current text of each law, so each law has one version so far, credited to the publisher of the consolidation; the amending laws, and the days their changes took effect, are in each law's Table of Amendments and in the history note under each provision. A later consolidation is added as a new commit, so `git log` and `git blame` show each change from this version on.
 
-The record holds {{CONSOLIDATED}} laws, dated between {{FIRST}} and {{LAST}}, in {{COMMITS}} commits.
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the Cook Islands' national law, which global-law reads at `cook-islands/national/acts/`.
 
-## A lawyer's questions as git commands
+**What is in it now:** 272 Acts and 388 pieces of subsidiary legislation made under them, each in its current consolidation as retrieved on 29 October 2026, with in-force days from 4 August 1908 to 29 October 2026; four more catalogue entries, the Appropriation Acts 2022 to 2025, have no text on the site. [`laws.csv`](laws.csv) lists every law with its day and folder; [`data/amendments.csv`](data/amendments.csv) lists the 5,542 rows of the Tables of Amendments and history notes, with the amending law and day each names.
+
+Each Act is a folder in `acts/`, and each piece of subsidiary legislation one in `subsidiary/`, named after its title, with one file per provision, plus `title.md` (its name, Table of Amendments, long title and enacting words) and `index.txt` (its files in order): `acts/employment-relations-act-2012/s37.md` is section 37, Annual leave, of the Employment Relations Act 2012. Two older combined folders in `subsidiary/` are kept unchanged beside the four orders they held; [`data/path-corrections.json`](data/path-corrections.json) maps them, and they are not extra laws.
+
+The text is in English, as cookislandslaws.gov.ck prints it, with each provision's history notes at its end; the Cook Islands Māori text of the Constitution Act, `subsidiary/papa-ture-metua-o-te-kuki-airani-ture-nui-1964/`, is here as the site files it.
+
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What does section 4 of the Banking Act 2011 say? | `python tools/in_force_on.py {{TODAY}} acts/banking-act-2011 s4` |
-| The whole of a law, in order | `python tools/in_force_on.py {{TODAY}} acts/banking-act-2011` |
-| Which laws amended an Act, and when they commenced | `cat acts/banking-act-2011/title.md` (its Table of Amendments) |
-| What a section's history notes say | `grep -h '^\[' acts/banking-act-2011/s4.md` |
-| Every provision an amending Act touched, by its notes | `grep -i 'Banking Amendment Act 2019' data/amendments.csv` |
-| What changed in a law since this build (after later builds) | `git log -p -- acts/banking-act-2011` |
-| The list of laws, with their dates | [`laws.csv`](laws.csv) |
+| Every change to section 37 of the Employment Relations Act (one so far, the current consolidation) | `git log -p --word-diff -- acts/employment-relations-act-2012/s37.md` |
+| Which amending laws changed section 37, and from what day? | `grep -h '^\[' acts/employment-relations-act-2012/s37.md` |
+| Every version of the Act, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- acts/employment-relations-act-2012` |
+| Section 37 in one of those versions | `git show <commit>:acts/employment-relations-act-2012/s37.md` |
 
-Each file starts with any Part or Division headings above it (`## Part 1 Preliminary`), then its own heading as the site prints it (`# 4 Interpretation`), then its paragraphs, one per line, and last the history notes, copied as they are. Each law's `title.md` holds its name, Table of Amendments, long title and enacting words; its `index.txt` lists its files in the order of the law. Subsidiary legislation is under `subsidiary/`, and its commit names its parent Act (`Parent-act:`).
+**Outside git**, we also host this record publicly, for free:
 
-## The dates, and which one we use
+- **[Ask Claude about Cook Islands law](https://global-law.lexifina.com/v1/try_claude?country=cook-islands)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=cook-islands)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=annual+leave&jurisdictions=cook-islands)**: a search of Cook Islands law for "annual leave", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-Each commit is dated, at noon Rarotonga time, by **the latest day on or before the retrieval day ({{FETCHED_ON}}) on which the law's own record says a change took effect**: the commencement dates in its Table of Amendments and the "on <date>" of its history notes; for a law never amended, its own commencement ("commenced on ..."); failing that, its assent or signature. That day is in the `In-force:` trailer, and `In-force-basis:` says which kind of evidence gave it. It is the earliest day from which the text here can be the text in force, assuming the consolidation is complete. For {{RETRIEVED_DATED}} laws the record gives no date at all; they are dated by the retrieval day (`In-force-basis: retrieved`). {{FUTURE}} laws name a date after the retrieval day in their record; they are listed in [`data/unreadable.csv`](data/unreadable.csv) and their text is as published.
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in English.
 
-Rarotonga time is hard-coded (tz Pacific/Rarotonga): UTC-10:30 until 12 November 1978, then UTC-10 with a half-hour summer time until 3 March 1991, and UTC-10 all year since. Commits before 1970 are dated 1970-01-01 (git cannot hold earlier dates); the real day is in the trailer. `tools/in_force_on.py` reads the trailers, not the commit dates.
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-## What "author" means
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add cook-islands/national/acts
+python3 tools/law.py show 2026-11-01 cook-islands/national/acts/acts/employment-relations-act-2012/s37.md
+```
 
-Every law-text commit has the same author: `Cook Islands Legislative Service <legislative-service@cookislandslaws-gov-ck.invalid>`, with `Kind: consolidated`. The address cannot exist. The author is the publisher of the consolidation, not a lawmaker. No line is credited to an amending law, because without the earlier text nobody can tell which words an amendment wrote. In the shared design for these repositories, a change is credited to an amending law only when the source shows the text before and after it. When later consolidations are added, a change will be credited to an amending law only where a new history note names it; otherwise it is labelled `Kind: unexplained` and authored by the publisher.
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-There are {{CONSOLIDATED}} consolidated commits, {{AMENDMENT}} amendment commits and {{UNEXPLAINED}} unexplained ones. The Tables of Amendments hold {{TABLE_OF_AMENDMENT_ROWS}} rows naming {{AMENDING_LAWS_LISTED}} distinct amending laws, and the provisions carry {{HISTORY_NOTES}} history notes.
+## Dates
 
-## What it does not show
+Each commit is dated at noon, Pacific/Rarotonga, and carries its day in its `In-force:` trailer, with `In-force-basis:` naming the evidence:
 
-- Any text before the current consolidation. The site has none.
-- Laws as made: the site's "Laws as published" PDFs are not included.
-- Repealed laws that the database no longer lists.
-- Pictures (marked `[image]`).
-- Table-of-contents entries the site would not serve ({{UNREADABLE}} rows, with the reason, in [`data/unreadable.csv`](data/unreadable.csv)).
+- the latest day, on or before the retrieval day, on which the law's own record says a change took effect (a commencement in its Table of Amendments, or the day in a history note); for a law never amended, its own commencement; failing that, its assent or signature;
+- for the 22 laws whose record gives no day, the retrieval day, 29 October 2026 (`In-force-basis: retrieved`);
+- git cannot store dates before 1970, so the 103 laws in force earlier are dated 1970-01-01, with the real day in `In-force:`; `tools/in_force_on.py` reads the trailers, not the commit dates.
 
-This is a research aid. The site's disclaimer excludes liability and says it is no substitute for legal advice; the same is true of this repository. It is not an official version.
+Every law-text commit is authored by `Cook Islands Legislative Service`, the publisher of the consolidation: no line is credited to an amending law, because without the earlier text nobody can tell which words an amendment wrote. Corrections are appended as their own commits (`Kind: correction`, with `Corrects:` and `Supersedes:`), and the commits they correct stay as published.
 
 ## How it is checked
 
-`tools/build/` holds the build as it was run. [`data/source-sha256.tsv`](data/source-sha256.tsv) has the sha256 of every cached answer the build read. The build is deterministic: from the same answers it gives the same commit hashes (see [`REPRODUCE.md`](REPRODUCE.md)). Before this build was called clean it was checked for: every file's letters and digits equal to the source page's, by a separate extractor; `tools/in_force_on.py` output for sample provisions; trailers that parse; no merges, no dates that go backwards, no dates after the build date, no carriage returns; two builds giving the same HEAD; `check_corpus.py` from global-law.
+- The build scripts are in `tools/build/` as they were run, with their sha256 in [`REPRODUCE.md`](REPRODUCE.md); [`data/source-sha256.tsv`](data/source-sha256.tsv) lists the sha256 of every answer from the site the build read.
+- Rebuilding from the same answers gives the same commit hashes: the whole history is written in one sorted `git fast-import` stream with fixed dates.
+- Before publication, the letters and digits of every file were compared with the source page's by a separate extractor; the history was checked for trailers that parse, no merges and no day after the build, and with global-law's `check_corpus.py`.
+- History is append-only: corrections are added as new commits, and no published commit is rewritten.
 
-## How it is built
+## What it does not show
 
-`fetch.py` reads the site's own JSON API (read from the site's JavaScript): the list of Acts (`retrieve_all_act`), each Act's table of contents (`retrieve_toc/<Act>`, which also lists its subsidiary legislation), each law's front page and every entry (`display_pages/<id>`). `build.py` turns each entry into lines, puts Part headings on the first file below them, and writes one commit per law with `git fast-import`. No AI model writes or changes any law text.
+- **Earlier wording.** The site keeps no past versions (its historical view is empty for every law), so nothing before the current consolidation can be rebuilt from it.
+- **The Constitution itself.** The Cook Islands Constitution Act 1964 is here, but its Schedule, the Constitution, reads only "Published separately in this consolidation", and that separate text is not in this record.
+- **Laws as made** (the site's "Laws as published" PDFs), repealed laws the site no longer lists, and case law.
+- **Images.** Forms, schedules and maps drawn as pictures are marked `[image]`.
+- **Entries the site would not serve**: 75 rows in [`data/unreadable.csv`](data/unreadable.csv), 64 of them server errors, with the reason for each.
+
+## Sources
+
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [cookislandslaws.gov.ck](https://cookislandslaws.gov.ck) (Cook Islands Legislative Service) | Consolidated legislation | no, the current text only | Each law's current text, Table of Amendments and history notes, read through the site's JSON API (see [`SOURCES.md`](SOURCES.md)) |
 
 ## Licence
 
-Source: cookislandslaws.gov.ck, Cook Islands Legislative Service. The Copyright Act 2013 (Cook Islands), section 3, defines "work" so that it "does not include any work that is an official text, or a translation, of a legislative, administrative, or legal nature", so the texts carry no copyright. The site states no licence and no terms of use. The wording was not changed; it was only split into files and lines. Lexifina's own contributions (tools, arrangement, commit messages, documentation) are CC0. See [`LICENSE`](LICENSE) and [`SOURCES.md`](SOURCES.md).
+See [`LICENSE`](LICENSE). Under the Copyright Act 2013 (Cook Islands), section 3, a "work" "does not include any work that is an official text, or a translation, of a legislative, administrative, or legal nature", so the texts are not protected by copyright; Lexifina's tools, file arrangement, commit messages and documentation are CC0 1.0.
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published

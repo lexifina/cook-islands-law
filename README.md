@@ -1,5 +1,9 @@
 # Cook Islands: law history in git
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Cook Islands law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
 
 The law of the Cook Islands as a git history: one file per section (or regulation, rule, clause, schedule or form), one commit per version on the day it took effect. The official site keeps only the current text of each law, so each law has one version so far, credited to the publisher of the consolidation; the amending laws, and the days their changes took effect, are in each law's Table of Amendments and in the history note under each provision. A later consolidation is added as a new commit, so `git log` and `git blame` show each change from this version on.
 

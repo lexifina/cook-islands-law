@@ -59,6 +59,7 @@ Every law-text commit is authored by `Cook Islands Legislative Service`, the pub
 - Rebuilding from the same answers gives the same commit hashes: the whole history is written in one sorted `git fast-import` stream with fixed dates.
 - Before publication, the letters and digits of every file were compared with the source page's by a separate extractor; the history was checked for trailers that parse, no merges and no day after the build, and with global-law's `check_corpus.py`.
 - History is append-only: corrections are added as new commits, and no published commit is rewritten.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -77,6 +78,10 @@ Every law-text commit is authored by `Cook Islands Legislative Service`, the pub
 ## Licence
 
 See [`LICENSE`](LICENSE). Under the Copyright Act 2013 (Cook Islands), section 3, a "work" "does not include any work that is an official text, or a translation, of a legislative, administrative, or legal nature", so the texts are not protected by copyright; Lexifina's tools, file arrangement, commit messages and documentation are CC0 1.0.
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
